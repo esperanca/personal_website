@@ -1,6 +1,7 @@
 ---
 title: 'About'
-
+permalink: '/thank-you/about.html'
+layout: 'layouts/page.njk'
 ---
 
 I was born in Minas Gerais, a Brazilian region well known for its great coffee, cheese and their talkative inhabitants. 
