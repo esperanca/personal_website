@@ -1,6 +1,5 @@
 ---
 title: 'About'
-permalink: '/about/about.html'
 layout: 'layouts/page.njk'
 ---
 
