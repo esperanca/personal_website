@@ -10,6 +10,11 @@
       "text": "Contact",
       "url": "/contact",
       "external": false
+    },
+    {
+      "text": "Twitter",
+      "url": "http://www.twitter.com/danielsouza",
+      "external": true
     }
   ]
 }
