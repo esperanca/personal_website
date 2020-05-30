@@ -5,6 +5,8 @@ tags:
   - weeknote
   - babylonhealth
   - design
+  - designops
+ 
 ---
 
 I have been thinking a lot about giving up on writing weekly #weeknotes. That Ira Glass text about having [taste but not the talent](https://vimeo.com/85040589) resonates a lot with me. As any UX person, I do care a lot about the audience. But when you have an editor, having an audience is less important: you always write with the reassurance that you will learn something new. The conversations and guidance from your editor are usually the rewards. I miss this a lot. \
