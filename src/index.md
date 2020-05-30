@@ -7,4 +7,5 @@ metaDesc: 'I am Daniel Souza, Information Architect and Design Researcher. Jiggl
 socialImage: ''
 ---
 
-
+#Hi
+##I am Daniel Souza, Information Architect and Design Researcher. Jiggling creativity and pragmatism, I help multi-disciplinary teams to design excellent services and experiences.
