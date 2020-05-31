@@ -71,5 +71,4 @@ The week before, I thought I was having COVID-19, but the fever is gone. I still
 **Weight:** 96.5 kg (significant progress from last week)  \
 **Food:** Some healthy stuff. We are back on track this week, and we didn't order too much on Deliveroo. I bought some fantastic mangoes from a Spitalfields vendor. \
 **Drinks:** One beer
-
 **Smoking:** 20 Juul pods.
