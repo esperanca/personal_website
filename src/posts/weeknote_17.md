@@ -1,5 +1,5 @@
 ---
-title: Weeknote #17
+title: Weeknote 17
 date: '2022-05-23'
 tags:
   - weeknotes
