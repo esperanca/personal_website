@@ -1,7 +1,8 @@
 ---
-title: 'Work'
-layout: 'layouts/page.njk'
-permalink: '/work/index.html'
+layout: layouts/page.njk
+title: Work
+permalink: /work/index.html
 ---
-
-Portfolio on [Behance](https://www.behance.net/danielsouza)
+Currently migrating case studies content from my previous website. \
+\
+Take a look at my portfolio at [Behance.](https://www.behance.net/danielsouza)
