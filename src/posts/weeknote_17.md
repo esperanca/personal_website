@@ -8,7 +8,9 @@ tags:
   - asimov
 ---
 
-I spent some time this morning trying to fix my website. The idea was to publish all weeknotes. But I got trapped by some DNS configuration. I gave up, of course, and enjoyed the day lazily. I am writing my weeknotes Saturday night, because of the habit and it felt something was missing. My favourite weeknote this week is Amy Hupe's update[ about her health incident](https://amyhupe.co.uk/weeknotes/weeknote-25/). She also shares her perspective on healthcare and inequality. Good stuff. 
+I spent some time this morning trying to fix my website. The idea was to publish all weeknotes. But I got trapped by some DNS configuration. I gave up, of course, and enjoyed the day lazily. I am writing my weeknotes Saturday night, because of the habit and it felt something was missing.
+
+My favourite weeknote this week is Amy Hupe's update[ about her health incident](https://amyhupe.co.uk/weeknotes/weeknote-25/). She also shares her perspective on healthcare and inequality. Good stuff. 
 
 
 ## Good things
