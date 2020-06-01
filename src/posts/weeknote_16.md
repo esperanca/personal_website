@@ -1,6 +1,6 @@
 ---
-title: Weeknote #16
-date: '2022-05-16'
+title: Weeknote 16
+date: 2020-05-15T23:00:00.000Z
 tags:
   - weeknotes
   - babylonhealth
