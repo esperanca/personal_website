@@ -1,12 +1,11 @@
 ---
-title: Weeknote #18
-date: '2020-05-30'
+title: Weeknote 18
+date: 2020-05-30
 tags:
   - weeknote
   - babylonhealth
   - design
   - designops
- 
 ---
 
 Typing this weekly #weeknotes is a reflection exercise every time. I am also considering that the world is falling apart and the right thing to do is just to stop creating things that are not useful. The [classic Ira Glass text about having the taste but not the talent](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwieh8uZpdvpAhVDilwKHSRqCegQwqsBMAB6BAgKEAQ&url=https%3A%2F%2Fvimeo.com%2F85040589&usg=AOvVaw1k4gsmTTHuoVgg01IaKOVv) resonates a lot with me as well. As any UX person, I do care a lot about my small and joyful audience. But since I am trying to write effectively, my editor’s opinion is more important. When you have the reassurance that you will learn something new the effort pays-off. The conversations and guidance from your editor are great rewards. My dear editor and writing coach is gone, so forgive me about the quality. And please [let me know](mailto:danieliscoding@gmail.com) if anything sounds silly or incorrect.  \
