@@ -17,7 +17,7 @@ My favourite weeknote this week is Amy Hupe's update[ about her health incident]
 
 After a week away from work, I felt a bit out of loop and slow. It was refreshing to observe excellent progress in many workstreams. Also, it got me thinking a lot about how things change fast. Catching up was a massive effort. 
 
-## Learned things 
+## Learned things 
 
 **Enthusiasm is the key** \
 “There is real magic in enthusiasm. It spells the difference between mediocrity and accomplishment.” - Norman Vincent Peale  \
@@ -41,7 +41,4 @@ I am reading many books at the same time. Asimov's Naked Sun is the one I like m
 
 This Thursday, I felt COVID-19 like symptoms for the first time. I was freaking out. Fever, pain in the body and some crazy stomach bug. I am feeling better, but I will test again as recommended by the GP. 
 
-**Weight**: 100.0 kg
-**Food**: Too much delivery food and chocolate this week.
-**Drinks**: Gin and one beer 
-**Smoking**: 12 Juul pods
+**Weight**: 100.0 kg **Food**: Too much delivery food and chocolate this week. **Drinks**: Gin and one beer  **Smoking**: 12 Juul pods
