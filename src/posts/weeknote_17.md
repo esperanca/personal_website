@@ -1,11 +1,12 @@
 ---
-title: Weeknote 17
+title: "Weeknote #17"
 date: 2020-05-22T23:00:00.000Z
 tags:
   - weeknotes
   - babylonhealth
   - vr
   - asimov
+  - holiday
 ---
 I spent some time this morning trying to fix my website. The idea was to publish all weeknotes. But I got trapped by some DNS configuration. I gave up, of course, and enjoyed the day lazily. I am writing my weeknotes Saturday night, because of the habit and it felt something was missing.
 
@@ -20,7 +21,9 @@ After a week away from work, I felt a bit out of loop and slow. It was refreshin
 ## Learned things
 
 **Enthusiasm is the key** \
-“There is real magic in enthusiasm. It spells the difference between mediocrity and accomplishment.” - Norman Vincent Peale  \
+> There is real magic in enthusiasm. It spells the difference between mediocrity and accomplishment.
+- Norman Vincent Peale  \
+
 Process and capability goes a long way, but enthusiasm can't be ignored. Fred Warbz inspired me again this week with his pragmatism and clear intention. It was also beautiful to read all the great posts about the Global Accessibility Awareness Day, an online movement that is creating an amazing positive change.   
 
 ## Things that bring me joy
