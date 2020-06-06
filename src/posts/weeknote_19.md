@@ -44,33 +44,28 @@ I caught myself worrying too much, crying and denying this reality. Spotting the
 
 ### **Getting to know about my origins**
 
+![Bernardino - Picture of  a Brazilian, with a beautiful tie and nice moustache](/images/photo-2020-06-04-14-17-18.jpg "Bernardino")
+
 I messaged my father this week to understand a bit more about my blackness. My raw question: "What about our ancestors?". He shared a picture and the story of my great-grandfather, Bernardino. Bernardino was a son of freed slaves, who joined the army to fight against Lampião. I am now really excited to dig his story with my father.
 
 ### **Brazilian literature**
 
-I've found a piece of article news about [Machado de Assis][1] and the successful launch of his book in the US. He is the most famous Brazilian writer. He was also the founder of the Brazilian Academy of Letters. That got me in a beautiful rabbit hole searching about his life. I found this paper about his [work, racial identity and racism][2].
+I've found a piece of article news about [Machado de Assis](https://www.newyorker.com/magazine/2018/07/09/hes-one-of-brazils-greatest-writers-why-isnt-machado-de-assis-more-widely-read) and the successful launch of his book in the US. He is the most famous Brazilian writer. He was also the founder of the Brazilian Academy of Letters. That got me in a beautiful rabbit hole searching about his life. I found this paper about his [work, racial identity and racism](http://www.psupress.org/books/titles/978-0-271-05246-5.html).
 
 He was in a very shitty situation. He needed to protect his job and love for literature while writing about an unfair society:
 
-_Some of his contemporaries criticised Machado for not writing more openly about the evils of slavery. And yet, for the grandson of freed slaves writing for a predominantly slave-owning elite, we are left in little doubt about what a controversial and sensitive subject it was for Machado, or where his sympathies lay._
+*Some of his contemporaries criticised Machado for not writing more openly about the evils of slavery. And yet, for the grandson of freed slaves writing for a predominantly slave-owning elite, we are left in little doubt about what a controversial and sensitive subject it was for Machado, or where his sympathies lay.*
 
-Machado was so important and famous that he was not considered a black person by the elite. Until recently, his official [photos was whitewashed][3].
+Machado was so important and famous that he was not considered a black person by the elite. Until recently, his official [photos was whitewashed](https://www.nytimes.com/2019/06/14/books/brazil-machado-de-assis.html).
 
 I had a great conversation about his books and Brazilian literature with Leili. We both read many of his books. It was a joy to remember classics like Dom Casmurro and Memórias Póstumas de Brás Cubas. The book The Collected Stories of Machado de Assis is a good start if you are interested.
 
 ### **Healthcheck**
 
-**Weight:** 97 kg
-**Food:** 3 days of eating Deliveroo food. Some good bits. Too much sugar
-**Drinks:** A glass of wine
-**Smoking:** 15 Juul pods.
+**Weight:** 97 kg **Food:** 3 days of eating Deliveroo food. Some good bits. Too much sugar **Drinks:** A glass of wine **Smoking:** 15 Juul pods.
 
 ## Quote of the week
 
 A champion is defined not by their wins, but by how many times they recover when they fall.
 
 Serena Williams
-
-[1]: https://www.newyorker.com/magazine/2018/07/09/hes-one-of-brazils-greatest-writers-why-isnt-machado-de-assis-more-widely-read
-[2]: http://www.psupress.org/books/titles/978-0-271-05246-5.html
-[3]: https://www.nytimes.com/2019/06/14/books/brazil-machado-de-assis.html
