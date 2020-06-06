@@ -38,15 +38,13 @@ I thought that things could not be worse, but humanity managed to screw up even 
 
 The past few days have been very hard for me. Not only because of what is happening in the US, but also because of the scenario in my country. Black people are dying by COVID at almost three times the rate of white people in the US. In Brazil, it is five times. The indigenous population is being decimated not only by COVID but by farmers destroying the Amazon. And the president is a racist, homophobic buffoon.
 
-I caught myself worrying too much, crying and denying this reality. Spotting the worrying wave at the beginning was essential for me. I've found relief with therapy, talking with friends and listening again an audiobook Amy Hupe recommended.
+I caught myself worrying too much and even crying sometimes. The learning for me is that when you spot your monkey brain trying to take over, you can fight back. I've found relief with therapy, talking with friends and listening again an audiobook Amy Hupe recommended. The story of Mo Gawdat is inspiring.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FfCq-3L_rNk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ## Things that bring me joy
-
-### **Getting to know about my origins**
-
-![Bernardino - Picture of  a Brazilian, with a beautiful tie and nice moustache](/images/photo-2020-06-04-14-17-18.jpg "Bernardino")
-
-I messaged my father this week to understand a bit more about my blackness. My raw question: "What about our ancestors?". He shared a picture and the story of my great-grandfather, Bernardino. Bernardino was a son of freed slaves, who joined the army to fight against Lampião. I am now really excited to dig his story with my father.
 
 ### **Brazilian literature**
 
@@ -59,6 +57,15 @@ He was in a very shitty situation. He needed to protect his job and love for lit
 Machado was so important and famous that he was not considered a black person by the elite. Until recently, his official [photo was whitewashed](https://www.nytimes.com/2019/06/14/books/brazil-machado-de-assis.html).
 
 I had a great conversation about his books and Brazilian literature with Leili. We both read many of his books. It was a joy to remember classics like Dom Casmurro and Memórias Póstumas de Brás Cubas. The book The Collected Stories of Machado de Assis is a good start if you are interested.
+
+
+
+### **Getting to know about my origins**
+
+![Bernardino - Picture of  a Brazilian, with a beautiful tie and nice moustache](/images/photo-2020-06-04-14-17-18.jpg "Bernardino")
+
+I messaged my father this week to understand a bit more about my blackness. My raw question: "What about our ancestors?". He shared a picture and the story of my great-grandfather, Bernardino. Bernardino was a son of freed slaves, who joined the army to fight against Lampião. I am now really excited to dig his story with my father.
+
 
 ### **Healthcheck**
 
