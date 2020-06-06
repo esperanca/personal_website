@@ -1,5 +1,5 @@
 ---
-title: Weeknote #16
+title: Weeknote 016
 date: 2020-05-15T23:00:00.000Z
 tags:
   - weeknotes
