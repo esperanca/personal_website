@@ -4,7 +4,9 @@ date: 2020-06-06T23:00:00.000Z
 tags:
   - weeknotes
   - babylonhealth
-  - Brazil
+  - brazil
+  - designops
+  - facilitation
 ---
 
 ## Good things
