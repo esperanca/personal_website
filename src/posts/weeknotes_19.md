@@ -12,7 +12,7 @@ tags:
 
 ### **On track**
 
-This week I was very proud of the DNA team. Managing the immense complexity of design systems work is not easy. But internal coherence is the real challenge. It was a joy to see the small things getting together, sliced in a sprint that we named Marie Curie. The goal is to improve our accessibility documentation. The entire team is excited to play with Information Architecture, and I am thrilled about it. 
+This week I was very proud of the DNA team. Managing the immense complexity of design systems work is not easy. But internal coherence is the real challenge. It was a joy to see the small things getting together, sliced in a sprint that we named Marie Curie. The goal is to improve our accessibility documentation. The entire team is excited to play with Information Architecture, and I am thrilled about it. I have also learned a lot about Jira with Elliot and Fred.  
 
 
 ### **ZoomVJ**
