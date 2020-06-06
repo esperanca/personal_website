@@ -5,6 +5,7 @@ permalink: /about/index.html
 socialImage: ""
 ---
 
+
 I was born in Minas Gerais, a Brazilian region well known for its great coffee, cheese and their talkative inhabitants. 
 
 Is my birthplace and a considerable influence on my personality. The curiosity and the flair for exploration of its people is something I am proud to carry. 
@@ -15,5 +16,7 @@ I am a self-taught design generalist. I am usually excited about learning new th
 
 I thrive with complexity, but my goal is always to bring clarity and simplicity. I can simplify anything: a process, a service, a digital experience or an organization.
 
-Currently, I am leading the Design Operations practice at Babylon Health. We are creating accessible and affordable healthcare for the world.
+Currently, I am leading the Design Operations practice and the Design Systems team at Babylon Health. We are creating accessible and affordable healthcare for the world.
+
+
 
