@@ -54,7 +54,7 @@ I've found a piece of article news about [Machado de Assis](https://www.newyorke
 
 He was in a very shitty situation. He needed to protect his job and love for literature while writing about an unfair society:
 
-*Some of his contemporaries criticised Machado for not writing more openly about the evils of slavery. And yet, for the grandson of freed slaves writing for a predominantly slave-owning elite, we are left in little doubt about what a controversial and sensitive subject it was for Machado, or where his sympathies lay.*
+> Some of his contemporaries criticised Machado for not writing more openly about the evils of slavery. And yet, for the grandson of freed slaves writing for a predominantly slave-owning elite, we are left in little doubt about what a controversial and sensitive subject it was for Machado, or where his sympathies lay.
 
 Machado was so important and famous that he was not considered a black person by the elite. Until recently, his official [photos was whitewashed](https://www.nytimes.com/2019/06/14/books/brazil-machado-de-assis.html).
 
@@ -62,7 +62,10 @@ I had a great conversation about his books and Brazilian literature with Leili. 
 
 ### **Healthcheck**
 
-**Weight:** 97 kg **Food:** 3 days of eating Deliveroo food. Some good bits. Too much sugar **Drinks:** A glass of wine **Smoking:** 15 Juul pods.
+**Weight:** 97 kg \
+**Food:** 3 days of eating Deliveroo food. Some good bits. Too much sugar\
+**Drinks:** A glass of wine\
+**Smoking:** 15 Juul pods.
 
 ## Quote of the week
 
