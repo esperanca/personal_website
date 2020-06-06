@@ -1,5 +1,5 @@
 ---
-title: "Weeknote #18"
+title: Weeknote 18
 date: 2020-05-30T00:00:00.000Z
 tags:
   - weeknote
