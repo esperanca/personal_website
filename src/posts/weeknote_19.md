@@ -14,11 +14,11 @@ A short update about this week.
 
 ### Sprint 3, Marie Curie
 
-DNA team rocket my boat again as we keep recovering our momentum. Despite the immense complexity of the work, it is clear how much we evolved this week in terms of internal coherence. It was a joy to observe all things getting together, sliced and groomed in sprints. The sprint goal is crystal clear: to improve access to our accessibility documentation for developers, designers and QA Analysts. To get there, we will revamp the Information Architecture and enhance the way we create and store content. I am thrilled about this!
+DNA team rocket my boat again this week. Despite the immense complexity of the work, it is clear how much we evolved this week in terms of internal coherence. It was a joy to observe all things getting together, sliced and groomed in sprints. The sprint goal is crystal clear: to improve access to our accessibility documentation for developers, designers and QA Analysts. To get there, we will revamp the Information Architecture and enhance the way we create and store content. I am thrilled about this!
 
-Another thing that made me happy was the last update in our component library, with no breaking changes in production and maintaining the accessibility improvements.
+Another good news: our component library was updated this week, with no breaking changes in production and maintaining the accessibility improvements.
 
-In our design system weekly meet-up, we had significant progress with design tokens. And excellent attendance and contribution from designers and developers.
+In our design system weekly meet-up, we had significant progress with design tokens. And excellent attendance and contribution from designers and developers debating spacing rules.
 
 ### **ZoomVJ**
 
@@ -56,7 +56,7 @@ He was in a very shitty situation. He needed to protect his job and love for lit
 
 > Some of his contemporaries criticised Machado for not writing more openly about the evils of slavery. And yet, for the grandson of freed slaves writing for a predominantly slave-owning elite, we are left in little doubt about what a controversial and sensitive subject it was for Machado, or where his sympathies lay.
 
-Machado was so important and famous that he was not considered a black person by the elite. Until recently, his official [photos was whitewashed](https://www.nytimes.com/2019/06/14/books/brazil-machado-de-assis.html).
+Machado was so important and famous that he was not considered a black person by the elite. Until recently, his official [photo was whitewashed](https://www.nytimes.com/2019/06/14/books/brazil-machado-de-assis.html).
 
 I had a great conversation about his books and Brazilian literature with Leili. We both read many of his books. It was a joy to remember classics like Dom Casmurro and Memórias Póstumas de Brás Cubas. The book The Collected Stories of Machado de Assis is a good start if you are interested.
 
