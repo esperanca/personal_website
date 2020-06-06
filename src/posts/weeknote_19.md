@@ -1,6 +1,6 @@
 ---
-title: Weeknote #19
-date: 2020-06-06T23:00:00.000Z
+title: Weeknote 19
+date: 2020-06-06 
 tags:
   - weeknotes
   - babylonhealth
@@ -50,7 +50,7 @@ Self-awareness and self-care are tools for a less stressful life - but you need 
 
 ### **Getting to know about my origins**
 
-When I moved to the UK, I thought that I would be less affected by structural racism or bias. Boy, I was wrong. I have plenty of privilege - a caring family, a career, and I am male. But dealing with the effects of implicit bias is still part of my life. It triggers uncomfortable memories every time. As an immigrant, I don’t feel entitled to protest. 
+When I moved to the UK, I thought that I would be less affected by structural racism or bias. Boy, I was wrong. I have plenty of privilege - a caring family, a career, and I am male. But dealing with the effects of implicit bias is still part of my life. It triggers uncomfortable memories every time. As an immigrant, I don’t feel entitled to protest and talk about this in public. But I do my best trying to help other brothers and sisters.  
 
 All of this got me thinking about my origins and blackness. I messaged my father to understand this more. He shared a picture and the story of my great-grandfather, Bernardino. Bernardino was a son of freed slaves, who joined the army to fight against Lampião. I am so excited to get to know more about him with my father. 
 
