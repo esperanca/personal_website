@@ -52,7 +52,7 @@ A shortcut to understand Place of Speech is to explore related concepts. The Spi
 
 > individuals have a fear of isolation. This fear of isolation consequently leads to remaining silent instead of voicing opinions.
 
-Many people will not feel in a position to talk about racism and Black Lives Matter. Besides being a person of colour, I don't think is  my place of speech. I have too many privileges: I am a male, educated, employed and living in a posh neighbourhood.\
+Many people will not feel in a position to talk about racism and Black Lives Matter. Besides being a person of colour. I don't think is  my place of speech. I have too many privileges: I am a male, educated, employed and living in a posh neighbourhood.\
 Things are relatively easy for me. A few times I have been affected by racism, but I have never been beaten by a cop. \
 \
 I admit that I am confused. I don't know yet if there is a right/wrong way of engaging in this subject. But complete silent is not an option. I am educating myself, donating and trying to keep my mouth shut. If you want to educate yourself I recommend following the amazing black women who are in the front lines of this debate and speaking truth to power on the web: \
@@ -92,6 +92,6 @@ I messaged my father this week to understand a bit more about my blackness. My r
 
 ## Quote of the week
 
-A champion is defined not by their wins, but by how many times they recover when they fall.
+> A champion is defined not by their wins, but by how many times they recover when they fall.
 
 Serena Williams
