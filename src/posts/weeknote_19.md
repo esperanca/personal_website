@@ -38,7 +38,7 @@ I thought that things could not be worse, but humanity managed to screw up even 
 
 The past few days have been very hard. Not only because of what is happening in the US, but also because of the scenario in my country. Black people are dying by COVID at almost three times the rate of white people in the US. In Brazil, it is five times. The indigenous population is being decimated not only by COVID but by farmers destroying the Amazon. And the president is a racist, homophobic buffoon.
 
-I caught myself worrying too much and even crying sometimes. The learning for me is that when you spot your monkey brain trying to take over, you can fight back. I've found relief with therapy, talking with friends and listening again an audiobook. But honestly, I am mad about this.
+I caught myself worrying too much and crying sometimes. The learning for me is that when you spot your lousy brain trying to take over, you can fight back. I've found relief with therapy, talking with friends and listening again an audiobook. But honestly, I am mad about this.
 
 ### **Place of Speech, Standpoint Theory and the Black leaders I follow**
 
