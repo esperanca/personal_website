@@ -48,7 +48,7 @@ In Brazilian Portuguese, we have an expression: "Lugar de Fala". The meaning is 
 
 > A standpoint is a place from which we view the world that determines what we focus on as well as what we don't know. The social groups we belong to shape how we see the world and how we communicate societal inequalities generate distinctive accounts of the world
 
-Interestingly, you will not find any mention or references to the Brazilian black author [Djamila Ribeiro's](https://en.wikipedia.org/wiki/Djamila_Ribeiro) original concept in the English wikipedia. \
+Interestingly, you will not find any mention or references to the Brazilian Brazilian Black feminist, journalist, and philosopher [Djamila Ribeiro's](https://en.wikipedia.org/wiki/Djamila_Ribeiro) original concept in the English wikipedia. \
 \
 A shortcut to understand Place of Speech is to explore related concepts. The Spiral of silence is one to read:
 
