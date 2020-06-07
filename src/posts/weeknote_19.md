@@ -34,11 +34,11 @@ Sophy Hu is a young, talented British doctor. I have a deep respect for her work
 
 ### **Spotting the pattern**
 
-I thought that things could not be worse, but humanity managed to screw up even harder. Millions are protesting in the streets due to structural racism and police brutality. And this probably will make the second wave unmanageable.
+I thought that things could not be worse, but humanity managed to screw up even harder. Millions are protesting in the streets due to structural racism and police brutality. And this probably will make the second wave unmanageable. All police officers are using PPE. 
 
 The past few days have been very hard for me. Not only because of what is happening in the US, but also because of the scenario in my country. Black people are dying by COVID at almost three times the rate of white people in the US. In Brazil, it is five times. The indigenous population is being decimated not only by COVID but by farmers destroying the Amazon. And the president is a racist, homophobic buffoon.
 
-I caught myself worrying too much and even crying sometimes. The learning for me is that when you spot your monkey brain trying to take over, you can fight back. I've found relief with therapy, talking with friends and listening again an audiobook recommended by Amy Hupe:   
+I caught myself worrying too much and even crying sometimes. The learning for me is that when you spot your monkey brain trying to take over, you can fight back. I've found relief with therapy, talking with friends and listening again an audiobook. It was another great recommendation from Amy Hupe.    
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FfCq-3L_rNk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -57,7 +57,7 @@ A shortcut to understand Place of Speech is to explore related concepts. The Spi
 Many people will not feel in a position to talk about racism and Black Lives Matter. Besides being a person of colour, I don't think is  my place of speech. I have too many privileges: I am a male, educated, employed and living in a posh neighbourhood.\
 Things are relatively easy for me. A few times I have been affected by racism, but I have never been beaten by a cop. \
 \
-I admit that I am confused and sad. There is a lot of identity issues going on my head now. I don't know yet if there is a right/wrong way of engaging in this subject. But complete silent is not an option. I am educating myself, donating and trying to keep my mouth shut. If you want to educate yourself I recommend following the amazing black women who are in the front lines of this debate and speaking truth to power on the web: \
+I admit that I am confused. I don't know yet if there is a right/wrong way of engaging in this subject. But complete silent is not an option. I am educating myself, donating and trying to keep my mouth shut. If you want to educate yourself I recommend following the amazing black women who are in the front lines of this debate and speaking truth to power on the web: \
 \
 [Tatiana Mac](https://twitter.com/TatianaTMac?s=20)\
 \
