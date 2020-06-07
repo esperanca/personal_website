@@ -8,13 +8,13 @@ tags:
   - designops
   - facilitation
 ---
-A short update about this week. This edition is full of non-work. Views are my own. 
+This week was fast and intense. It was hard to focus on work, honestly. Trying to organise my thoughts in writing felt like gaining visibility about what is really in my head. 
 
 ## Good things
 
 ### Sprint 3, Marie Curie
 
-DNA team rocket my boat again this week. Despite the immense complexity of the work, it is clear how much we evolved this week in terms of internal coherence. It was a joy to observe all things getting together, sliced and groomed in sprints. The sprint goal is crystal clear: to improve access to our accessibility documentation for developers, designers and QA Analysts. To get there, we will revamp the Information Architecture and enhance the way we create and store content. I am thrilled about this!
+DNA team rocket my boat again this week. Despite the immense complexity of the work, it is clear how much we evolved this week in terms of internal coherence. It was a joy to observe all things getting together, sliced and groomed in sprints. The next milestone is crystal clear: to improve access to our accessibility documentation for developers, designers and QA Analysts. To get there, we will revamp the Information Architecture and enhance the way we create and store content. I am thrilled about this!
 
 Another good news: our component library was updated this week, with no breaking changes in production and maintaining the accessibility improvements.
 
@@ -34,11 +34,9 @@ Sophy Hu is a young, talented British doctor. I have a deep respect for her work
 
 ### **Spotting the pattern**
 
-I thought that things could not be worse, but humanity managed to screw up even harder. Millions are protesting in the streets due to structural racism and police brutality. George Floyd assassination horrified the world. And this probably will make the second wave unmanageable. All police officers are using PPE and our folks are in the open, risking their lives. 
+The past few days have been very hard. Not only because of what is happening in the US, but also because of the scenario in my country. I caught myself worrying too much and crying sometimes. 
 
-The past few days have been very hard. Not only because of what is happening in the US, but also because of the scenario in my country. Black people are dying by COVID at almost three times the rate of white people in the US. In Brazil, it is five times. The indigenous population is being decimated not only by COVID but by farmers destroying the Amazon. And the president is a racist, homophobic buffoon.
-
-I caught myself worrying too much and crying sometimes. The learning for me is that when you spot your lousy brain trying to take over, you can fight back. I've found relief with therapy, talking with friends and listening again an audiobook. But honestly, I am mad about this.
+The learning for me is that when I spot my lousy brain trying to take over, I am getting better at fighting back. I've found relief with therapy, meditation,talking with friends and listening audiobooks. 
 
 ### **Place of Speech, Standpoint Theory and the Black leaders I follow**
 
@@ -53,7 +51,7 @@ A shortcut to understand Place of Speech is to explore related concepts. The Spi
 > individuals have a fear of isolation. This fear of isolation consequently leads to remaining silent instead of voicing opinions.
 
 Many people will not feel in a position to talk about racism and Black Lives Matter. Besides being a person of colour. I don't think is  my place of speech. I have too many privileges: I am a male, educated, employed and living in a posh neighbourhood.\
-Things are relatively easy for me. A few times I have been affected by racism, but I have never been beaten by a cop. \
+Things are relatively easy for me. A few times I have been affected by racism, but I have been shaken, but never been beaten by a cop. \
 \
 I admit that I am confused. I don't know yet if there is a right/wrong way of engaging in this subject. But complete silent is not an option. I am educating myself, donating and trying to keep my mouth shut. If you want to educate yourself I recommend following the amazing black women who are in the front lines of this debate and speaking truth to power on the web: \
 \
