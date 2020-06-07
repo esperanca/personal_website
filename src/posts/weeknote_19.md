@@ -36,13 +36,11 @@ Sophy Hu is a young, talented British doctor. I have a deep respect for her work
 
 I thought that things could not be worse, but humanity managed to screw up even harder. Millions are protesting in the streets due to structural racism and police brutality. George Floyd assassination horrified the world. And this probably will make the second wave unmanageable. All police officers are using PPE and our folks are in the open, risking their lives. 
 
-The past few days have been very hard for me. Not only because of what is happening in the US, but also because of the scenario in my country. Black people are dying by COVID at almost three times the rate of white people in the US. In Brazil, it is five times. The indigenous population is being decimated not only by COVID but by farmers destroying the Amazon. And the president is a racist, homophobic buffoon.
+The past few days have been very hard. Not only because of what is happening in the US, but also because of the scenario in my country. Black people are dying by COVID at almost three times the rate of white people in the US. In Brazil, it is five times. The indigenous population is being decimated not only by COVID but by farmers destroying the Amazon. And the president is a racist, homophobic buffoon.
 
-I caught myself worrying too much and even crying sometimes. The learning for me is that when you spot your monkey brain trying to take over, you can fight back. I've found relief with therapy, talking with friends and listening again an audiobook. It was another great recommendation from Amy Hupe.    
+I caught myself worrying too much and even crying sometimes. The learning for me is that when you spot your monkey brain trying to take over, you can fight back. I've found relief with therapy, talking with friends and listening again an audiobook. But honestly, I am mad about this.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FfCq-3L_rNk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### **Place of Speech, Standpoint Theory and the Black leaders I follow** 
+### **Place of Speech, Standpoint Theory and the Black leaders I follow**
 
 In Brazilian Portuguese, we have an expression: "Lugar de Fala". The meaning is weakly represented in the academic circles in Standpoint Theory. Short version is: 
 
