@@ -4,8 +4,6 @@ title: About
 permalink: /about/index.html
 socialImage: ""
 ---
-
-
 I was born in Minas Gerais, a Brazilian region well known for its great coffee, cheese and their talkative inhabitants. 
 
 Is my birthplace and a considerable influence on my personality. The curiosity and the flair for exploration of its people is something I am proud to carry. 
@@ -18,5 +16,4 @@ I thrive with complexity, but my goal is always to bring clarity and simplicity.
 
 Currently, I am leading the Design Operations practice and the Design Systems team at Babylon Health. We are creating accessible and affordable healthcare for the world.
 
-
-
+![A photograph of Daniel Souza taken in London. ](/images/c2d11347-481d-4466-ad17-acc2fd901ee4.jpeg "Photo: Leiliane Valadares")
