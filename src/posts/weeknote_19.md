@@ -34,7 +34,7 @@ Sophy Hu is a young, talented British doctor. I have a deep respect for her work
 
 ### **Spotting the pattern**
 
-I thought that things could not be worse, but humanity managed to screw up even harder. Millions are protesting in the streets due to structural racism and police brutality. And this probably will make the second wave unmanageable. All police officers are using PPE. 
+I thought that things could not be worse, but humanity managed to screw up even harder. Millions are protesting in the streets due to structural racism and police brutality. George Floyd assassination horrified the world. And this probably will make the second wave unmanageable. All police officers are using PPE and our folks are in the open, risking their lives. 
 
 The past few days have been very hard for me. Not only because of what is happening in the US, but also because of the scenario in my country. Black people are dying by COVID at almost three times the rate of white people in the US. In Brazil, it is five times. The indigenous population is being decimated not only by COVID but by farmers destroying the Amazon. And the president is a racist, homophobic buffoon.
 
