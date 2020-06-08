@@ -8,7 +8,7 @@ tags:
   - designops
   - facilitation
 ---
-This week was fast and intense. It was hard to focus on work, honestly. Trying to organise my thoughts in writing felt like gaining visibility about what is really in my head. 
+This week was fast and intense. It was hard to focus on work, honestly. Trying to organise my thoughts in writing felt helped me a lot. In this edition you will read a little about work, and many rumblings about racism and the Black Lives Matter movement. 
 
 ## Good things
 
