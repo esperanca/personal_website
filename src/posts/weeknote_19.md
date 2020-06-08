@@ -8,21 +8,19 @@ tags:
   - designops
   - facilitation
 ---
-This week was fast and intense. It was hard to focus on work, honestly. Trying to organise my thoughts in writing felt helped me a lot. In this edition you will read a little about work, and many rumblings about racism and the Black Lives Matter movement. 
+This week was fast and intense. It was hard to focus on work, honestly. Trying to organise my thoughts in writing helped me a lot. I wrote these notes Saturday morning, asked Rahel for a review, but I changed a lot during the weekend. Writing about emotional subjects isn't easy. In this edition you will read a little about work, and many rumblings about racism and the Black Lives Matter movement. 
 
 ## Good things
 
 ### Sprint 3, Marie Curie
 
-DNA team rocket my boat again this week. Despite the immense complexity of the work, it is clear how much we evolved this week in terms of internal coherence. It was a joy to observe all things getting together, sliced and groomed in sprints. The next milestone is crystal clear: to improve access to our accessibility documentation for developers, designers and QA Analysts. To get there, we will revamp the Information Architecture and enhance the way we create and store content. I am thrilled about this!
+DNA team rocket my boat again this week. Despite the immense complexity of the work, it is clear how much we evolved this week in terms of internal coherence. It was a joy to observe all things getting together, sliced and groomed in sprints. The next milestone is crystal clear: to improve access to our accessibility documentation for developers, designers and QA Analysts. To get there, we will revamp the Information Architecture and enhance the way we create and store content. I am thrilled about this. 
 
-Another good news: our component library was updated this week, with no breaking changes in production and maintaining the accessibility improvements.
-
-In our design system weekly meet-up, we had significant progress with design tokens. And excellent attendance and contribution from designers and developers. 
+In related good news, our component library was updated this week, with no breaking changes in production. And in our design system weekly meet-up, we had significant progress with design tokens. Excellent attendance and contribution from designers and developers and fruitful and structured conversations. 
 
 ### **ZoomVJ**
 
-Everyone is spending a lot of time in zoom meetings. But I'm trying to make every encounter an opportunity for enjoyment as I am improving my facilitation skills. The job is enabling good conversations, deep listening and structure. Facilitation can guarantee that hard conversations are happening. This week was positive, and I felt I'm doing a good job.
+Everyone is spending a lot of time in zoom meetings. I'm trying to make every encounter an opportunity for enjoyment - for me it's an opportunity to improve my facilitation skills. Enabling good conversations, practicing deep listening and creating structure are the goals. Facilitation can help to include perspectives and allow space for authentic conversations. This week was positive, and I felt like I was doing a good job.
 
 Next week I will share with the team a short talk about practical workshops. I am glad it will be an opportunity to share what I have been learning about facilitation.
 
@@ -34,9 +32,9 @@ Sophy Hu is a young, talented British doctor. I have a deep respect for her work
 
 ### **Spotting the pattern**
 
-The past few days have been very hard. Not only because of what is happening in the US, but also because of the scenario in my country. I caught myself worrying too much and crying sometimes. 
+The past few days have been very hard. Not only because of what is happening in the US, but also because of the scenario in my country. Just for context, a brazilian dies by Covid every minute and the government decided to stop updating the statistics. I caught myself worrying too much and crying sometimes. 
 
-The learning for me is that when I spot my lousy brain trying to take over, I am getting better at fighting back. I've found relief with therapy, meditation,talking with friends and listening audiobooks. 
+The learning for me is that when I spot earlier my lousy brain trying to take over, It's easy to fight back. I am finding relief with therapy, meditation, exercises and talking with friends.  
 
 ### **Place of Speech, Standpoint Theory and the Black leaders I follow**
 
@@ -46,14 +44,13 @@ In Brazilian Portuguese, we have an expression: "Lugar de Fala". The meaning is 
 
 Interestingly, you will not find any mention or references to the Brazilian Brazilian Black feminist, journalist, and philosopher [Djamila Ribeiro's](https://en.wikipedia.org/wiki/Djamila_Ribeiro) original concept in the English wikipedia. \
 \
-A shortcut to understand Place of Speech is to explore related concepts. The Spiral of silence is one to read:
+A shortcut to understand Place of Speech is to explore related concepts. The Spiral of silence is one that resonated with me:
 
-> individuals have a fear of isolation. This fear of isolation consequently leads to remaining silent instead of voicing opinions.
+> Individuals have a fear of isolation. This fear of isolation consequently leads to remaining silent instead of voicing opinions.
 
-Many people will not feel in a position to talk about racism and Black Lives Matter. Besides being a person of colour. I don't think is  my place of speech. I have too many privileges: I am a male, educated, employed and living in a posh neighbourhood.\
-Things are relatively easy for me. A few times I have been affected by racism, but I have been shaken, but never been beaten by a cop. \
+Many people will not feel in a position to talk about racism and Black Lives Matter. Besides being a person of colour, I don't think is my place of speech. I have too many privileges: I am a male, educated, employed and living in a posh neighbourhood. A few times I have been affected by racism. I have been offended many times,  but never been beaten by a cop. \
 \
-I admit that I am confused. I don't know yet if there is a right/wrong way of engaging in this subject. But complete silent is not an option. I am educating myself, donating and trying to keep my mouth shut. If you want to educate yourself I recommend following the amazing black women who are in the front lines of this debate and speaking truth to power on the web: \
+I am confused. I don't know yet if there is a right/wrong way of engaging in this subject. But complete silent is not an option. I am educating myself, donating and trying to keep my mouth shut. If you want to educate yourself I recommend following the amazing black women who are in the front lines of this debate and speaking truth to power on the web: \
 \
 [Tatiana Mac](https://twitter.com/TatianaTMac?s=20)\
 \
@@ -70,10 +67,12 @@ I've found a piece of article news about [Machado de Assis](https://www.newyorke
 He was in a very shitty situation. He needed to protect his job and love for literature while writing about an unfair society:
 
 > Some of his contemporaries criticised Machado for not writing more openly about the evils of slavery. And yet, for the grandson of freed slaves writing for a predominantly slave-owning elite, we are left in little doubt about what a controversial and sensitive subject it was for Machado, or where his sympathies lay.
+>
+> From the book The Collected Stories of Machado de Assis
 
 Machado was so important and famous that he was not considered a black person by the elite. Until recently, his official [photo was whitewashed](https://www.nytimes.com/2019/06/14/books/brazil-machado-de-assis.html).
 
-I had a great conversation about his books and Brazilian literature with Leili. We both read many of his books. It was a joy to remember classics like Dom Casmurro and Memórias Póstumas de Brás Cubas. The book The Collected Stories of Machado de Assis is a good start if you are interested.
+I had a great conversation about his books and Brazilian literature with Leili. We both read many of his books. It was a joy to remember classics like Dom Casmurro and Memórias Póstumas de Brás Cubas. 
 
 ### **Getting to know about my origins**
 
