@@ -20,9 +20,9 @@ In related good news, our component library was updated this week, with no break
 
 ### **ZoomVJ**
 
-Everyone is spending a lot of time in zoom meetings. I'm trying to make every encounter an opportunity for enjoyment - for me it's an opportunity to improve my facilitation skills. Enabling good conversations, practicing deep listening and creating structure are the goals. Facilitation can help to include perspectives and allow space for authentic conversations. This week was positive, and I felt like I was doing a good job.
+Everyone is spending a lot of time in zoom meetings. I'm trying to make every meeting or workshop an opportunity for enjoyment. Is part of my learning journey on facilitation skills. My pillars are: enabling good conversations, practicing deep listening, creating structure and goal setting.I also think that facilitation role in inclusion and allowing space for authentic conversations is much needed. This week was positive, and I felt like I was doing a good job. I am also now measuring satisfaction on some of the ceremonies.
 
-Next week I will share with the team a short talk about practical workshops. I am glad it will be an opportunity to share what I have been learning about facilitation.
+Next week I will share with the team a short talk about practical workshops. I am glad it will be an opportunity to share what I have been learning.
 
 ### **Unplanned 1–1 with Dr Hu**
 
