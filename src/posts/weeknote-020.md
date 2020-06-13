@@ -17,7 +17,7 @@ We are mid-sprint, and release notes are ready for the next two releases. From a
 \
 In one of these conversations, I was asked to find the original investment proposal for DNA. It was interesting to reread and reflect about our progress. The way we shaped our initial bets and measurement strategies was fairly right. We still have lots to improve, but it felt good. Product Management in systems feels like an infinite game of Tetris. But we had some good moments and we are collecting the benefits. \
 \
-Elliot Greaves, our talented engineer, can be credit for a a lot of this success. He was my third hire on the DNA team. I learn so much stuff with him, I am even coding CSS again after many years. He found a new job and is leaving the company soon. I will miss his work ethics, collaboration skills, curiosity and devotion to make everything great. I am wishing the best for him. 
+Elliot Greaves, our talented Front End engineer, can be credit for a a lot of this success. He was my third hire on the DNA team. I learn so much stuff with him, I am even coding again after many years. He found a new job and is leaving the company soon. I will miss his work ethics, collaboration skills, curiosity and devotion to make everything great.  
 
 ## Content first, please
 
