@@ -16,4 +16,4 @@ My goal is always to bring clarity and simplicity, and I use simple language and
 
 Currently, I am leading the Design Operations practice and the Design Systems team at Babylon Health. We are creating accessible and affordable healthcare for the world.
 
-![A photograph of Daniel Souza taken in London. ](/images/daniel_souza_photo.jpg "Photo: Leiliane Valadares")
+![A photograph of Daniel Souza taken in London](/images/daniel_souza_photo.jpg "A photograph of Daniel Souza ")
