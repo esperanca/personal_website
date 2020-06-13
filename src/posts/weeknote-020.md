@@ -21,9 +21,12 @@ Elliot Greaves, our talented Front End engineer, can be credit for a a lot of th
 
 ## Content first, please
 
-My week was full of great content surprises. It started with some good work sessions with Linsey, Chris Brunner and Kevin.
+My week was full of great surprises working with the content team. It started with some good work sessions with Linsey, Chris Brunner and Kevin.
 
-And I attended the Content guild chapter offsite, Content Day. A great session with two external speakers. Smooth facilitation by our Rahel 'Content Empress' Bailie. She rocked, even with the usual Zoom crashes—good learning about localisation, and exciting conversations about readability score methodologies, personality types and team shapes.
+And I attended the Content guild chapter offsite, Content Day. A great session with two external speakers. Smooth facilitation by our Rahel 'Content Empress' Bailie. 
+
+She rocked, even with the usual Zoom crashes. Learned a lot about localisation, and had exciting conversations about readability score methodologies, personality types and team shapes.
+ 
 
 ## Learned things
 
