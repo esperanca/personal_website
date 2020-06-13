@@ -5,9 +5,9 @@ date: 2020-06-13T10:54:25.280Z
 tags:
   - babylonhealth
 ---
-For the first time in weeks, I started to write this essay on Friday. Publishing online is changing the dynamics of my writing routine. I am editing more, and tweaking things on the website. I haven't found yet an efficient routine but I am enjoying the learning. But editing is addictive, I have to say. 
+For the first time in weeks, I started to write this essay on Friday. Publishing online is changing the dynamics of my writing routine. I am editing more, and tweaking things constantly. I haven't found yet an efficient routine but I am enjoying the learning. But editing is addictive, I have to say. I am also fixing css and accessibility bugs and improving things slowly.   
 
-I try to recommend a weeknote here every week. This week I will share a blog instead. Allison Coward is a British entrepreneur and master of collaboration and facilitation. She writes [fantastic articles about collaboration and workshop facilitation](https://www.bracketcreative.co.uk/blog/) in her blog. Her book, [A Pocket Guide To Effective Workshops](https://www.bracketcreative.co.uk/book-effective-workshops/) is a delicious treasure trove of tips to improve your facilitation skills.  
+I try to recommend a weeknote here every week. This week I will share a blog instead. Allison Coward is strategist, trainer and workshop facilitator. She writes [fantastic articles](https://www.bracketcreative.co.uk/blog/) in her blog. Her book, [A Pocket Guide To Effective Workshops](https://www.bracketcreative.co.uk/book-effective-workshops/) is a delicious treasure trove of tips to improve your facilitation skills.    
 
 # Good Things
 
@@ -17,7 +17,7 @@ We are mid-sprint, and release notes are ready for the next two releases. From a
 \
 In one of these conversations, I was asked to find the original investment proposal for DNA. It was interesting to reread and reflect about our progress. The way we shaped our initial bets and measurement strategies was fairly right. We still have lots to improve, but it felt good. Product Management in systems feels like an infinite game of Tetris. But we had some good moments and we are collecting the benefits. \
 \
-Elliot Greaves, our talented engineer, can be credit for a a lot of this success. He was my third hire on the DNA team. I learn so much stuff with him, I am even coding CSS again after many years. He found a new job and is leaving the company soon. I will miss his work ethics, collaboration skills, curiosity and devotion to make everything great. I am wishing the best for him. 
+Elliot Greaves, our talented Front End engineer, can be credit for a a lot of this success. He was my third hire on the DNA team. I learn so much stuff with him, I am even coding again after many years. He found a new job and is leaving the company soon. I will miss his work ethics, collaboration skills, curiosity and devotion to make everything great.  
 
 ## Content first, please
 
