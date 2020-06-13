@@ -3,11 +3,13 @@ layout: layouts/post.njk
 title: Weeknote 020
 date: 2020-06-13T10:54:25.280Z
 tags:
-  - babylonhealth content
+  - babylonhealth
+  - content
+  - ""
 ---
 For the first time in weeks, I started to write this essay on Friday. Publishing online is changing the dynamics of writing habits.
 
-This week I will recommend a blog instead of a random weeknote. Allison Coward is a British entrepreneur and master of collaboration and facilitation. You will find [fantastic articles about collaboration and workshop facilitation](https://www.bracketcreative.co.uk/blog/) in her blog. And buy her book, she is awesome. 
+This week I will recommend a blog instead of a random weeknote. Allison Coward is a British entrepreneur and master of collaboration and facilitation. She writes [fantastic articles about collaboration and workshop facilitation](https://www.bracketcreative.co.uk/blog/) in her blog. 
 
 # Good Things
 
@@ -31,7 +33,7 @@ Had a few challenges while facilitating sessions this week. Lessons learned: I n
 
 ### Peer mentoring
 
-I've met a design leader this week that I respect a lot. He is sharp, honest and a great communicator. We have shared interest in many things and similar challenges in working in scale-ups.
+I've met [Justin Stach](https://justin.stach.uk/) this week for a chat. He is a design leader that I respect a lot. He is sharp, honest and a great communicator. We have shared interest in many things and similar challenges in working in scale-ups. We also have two great designers in our common network: Jack Roles and Debora Nogueira.
 
 We discussed many topics. Remote work, agile, designers becoming product people. And the ethical challenges for design in late capitalism.
 
@@ -63,7 +65,7 @@ I am practising Tai-chi for about a month now. The choreography is more natural 
 
 ### Discovering the BBC catalogue
 
-After a long time, I finally decided to pay for a TV license. I could not see much value before, as I have many streaming options and not enough time. But I could not afford not to watch Killing Eve. I asked #lazytwitter recommendations for BBC shows, and I got some great suggestions from Dr Rosie and a Brazilian friend. [1][3]
+After a long time, I finally decided to pay for a TV license. I could not see much value before, as I have many streaming options and not enough time. But I could not afford not to watch Killing Eve. I asked #lazytwitter recommendations for BBC shows, and I got some great suggestions from Dr Rosie and a Brazilian friend. Here is the list of suggested BBC shows: Inside Number 9, Happy Valley, Devs, Line of Duty, Peaky Blinders and Gavin & Stacey. 
 
 ### Healthcheck
 
@@ -73,7 +75,7 @@ Some pain in the back and neck, due to ergonomic problems in my home office setu
 **Food:** Some junk food but not too many
 **Drinks:** A gin
 **Smoking:** 12 Juul pods. Trialling CBD.
+ 
 
-1.  Here is the list of suggested BBC shows: Inside Number 9, Happy Valley, Devs, Line of Duty, Peaky Blinders and Gavin & Stacey are now on my watchlist.
-
-> "A man who has no imagination has no wings." Muhammad Ali
+> "A man who has no imagination has no wings." 
+Muhammad Ali
