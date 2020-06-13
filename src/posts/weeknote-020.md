@@ -51,7 +51,10 @@ But strategy is a different animal. Alignment and attention are key. In the book
 
 There are many ways. But there is no [Way of Ways](https://medium.com/@johnpcutler/the-way-of-ways-6988b272bcc5), unfortunately.
 
-A strategy is a beast - you have to find the joy of not knowing things. And relentless ask questions. And in times of global crisis, to accept that you will be wrong, no matter how smart you think you are. Optimism goes a long way. 
+A strategy is a beast - you have to find the joy of not knowing things. And relentless ask questions. This sometimes can create disconfort. Rob Campell recently shared [this gem on twitter](https://twitter.com/Robertc1970/status/1270012925634392064?s=20)that touchs in the nerve:
+> Strategy is inherently political because strategy is about what is going on in culture and politics is always entrenched in that. If some strategists think politics isn't part of culture or culture isn't part of strategy, they've got some really big issues they need to work on.
+
+In times of global crisis, accepting that you will be wrong, no matter how smart you think you are, is much needed. Optimism to adapt and proceed goes a long way. 
 
 ## Things that bring me joy
 
