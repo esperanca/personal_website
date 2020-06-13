@@ -45,7 +45,7 @@ We tend to see the world through our discipline lens and bias. For the business 
 
 When creating a strategy, alignment is a need. In the book Intertwingled, Peter Morville shared why this can be hard sometimes:
 
-We plan events, trips, families, sites, systems, companies, and cities. We do it all the time but make the same mistakes. First, we procrastinate. We fear complexity, so we start too late. Then, in a hurry, we split ideas and execution into phases or roles. We draw lines in our minds that segregate. The binary oppositions of think-do and plan-build are myths. Like yin and yang, these seemingly separate forces interrelated and entangled.
+> We plan events, trips, families, sites, systems, companies, and cities. We do it all the time but make the same mistakes. First, we procrastinate. We fear complexity, so we start too late. Then, in a hurry, we split ideas and execution into phases or roles. We draw lines in our minds that segregate. The binary oppositions of think-do and plan-build are myths. Like yin and yang, these seemingly separate forces interrelated and entangled.
 
 There are many ways. But there is no [Way of Ways][2], unfortunately.
 
@@ -74,10 +74,6 @@ Some pain in the back and neck, due to ergonomic problems in my home office setu
 **Drinks:** A gin
 **Smoking:** 12 Juul pods. Trialling CBD.
 
-"A man who has no imagination has no wings." Muhammad Ali
-
 1.  Here is the list of suggested BBC shows: Inside Number 9, Happy Valley, Devs, Line of Duty, Peaky Blinders and Gavin & Stacey are now on my watchlist.
 
-[1]: https://www.bracketcreative.co.uk/blog/
-[2]: https://medium.com/@johnpcutler/the-way-of-ways-6988b272bcc5
-[3]: https://draftin.com/documents/1471411?cpos=4214&top=0#fn1
+> "A man who has no imagination has no wings." Muhammad Ali
