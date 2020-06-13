@@ -5,7 +5,7 @@ date: 2020-06-13T10:54:25.280Z
 tags:
   - babylonhealth
 ---
-For the first time in weeks, I started to write this essay on Friday. Publishing online is changing the dynamics of my writing routine. I am editing more, and tweaking things on the website. I haven't found yet an efficient routine but I am enjoying the learning. But editing is addictive, I have to say. 
+For the first time in weeks, I started to write this essay on Friday. Publishing online is changing the dynamics of my writing routine. I am editing more, and tweaking things constantly. I haven't found yet an efficient routine but I am enjoying the learning. But editing is addictive, I have to say. I am also fixing css and accessibility bugs and improving things slowly.   
 
 I try to recommend a weeknote here every week. This week I will share a blog instead. Allison Coward is a British entrepreneur and master of collaboration and facilitation. She writes [fantastic articles about collaboration and workshop facilitation](https://www.bracketcreative.co.uk/blog/) in her blog. Her book, [A Pocket Guide To Effective Workshops](https://www.bracketcreative.co.uk/book-effective-workshops/) is a delicious treasure trove of tips to improve your facilitation skills.  
 
