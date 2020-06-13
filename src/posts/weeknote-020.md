@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Weeknote 020
 date: 2020-06-13T10:54:25.280Z
 tags:
-  - babylonhealth product bets valentines content
+  - babylonhealth content
 ---
 For the first time in weeks, I started to write this essay on Friday. Publishing online is changing the dynamics of writing habits.
 
