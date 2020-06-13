@@ -13,7 +13,7 @@ I try to recommend a weeknote here every week. This week I will share a blog ins
 
 ## Adoption, bets and life in product
 
-We are mid-sprint, and release notes are ready for the next two releases. From a product perspective, we have been doing well. Spontaneous adoption is happening. Teams are now reaching out to start using our design system and are excited about creating documentation.\
+We are mid-sprint, and release notes are ready for the next two releases. From a product perspective, we have been doing well. The team is so rad that sometimes I think I am really not needed. We have been receiving so much support from Content, Design Managers and developers that I am impressed. Spontaneous adoption is happening. Teams are now reaching out to start using our design system and are excited about creating and improving documentation.\
 \
 In one of these conversations, I was asked to find the original investment proposal for DNA. It was interesting to reread and reflect about our progress. The way we shaped our initial bets and measurement strategies was fairly right. We still have lots to improve, but it felt good. Product Management in systems feels like an infinite game of Tetris. But we had some good moments and we are collecting the benefits. \
 \
