@@ -51,7 +51,7 @@ But strategy is a different animal. Alignment and attention are key. In the book
 
 There are many ways. But there is no [Way of Ways](https://medium.com/@johnpcutler/the-way-of-ways-6988b272bcc5), unfortunately.
 
-A strategy is a beast - you have to find the joy of not knowing things. And in times of global crisis, to accept that you will be wrong, no matter how smart you think you are. Optimism goes a long way.
+A strategy is a beast - you have to find the joy of not knowing things. And relentless ask questions. And in times of global crisis, to accept that you will be wrong, no matter how smart you think you are. Optimism goes a long way. 
 
 ## Things that bring me joy
 
@@ -65,7 +65,13 @@ I am practising Tai-chi for about a month now. The choreography is more natural 
 
 ### Discovering the BBC catalogue
 
-After a long time, I finally decided to pay for a TV license. I could not see much value before, as I have many streaming options and not enough time. But I could not afford not to watch Killing Eve. I asked #lazytwitter recommendations for BBC shows, and I got some great suggestions from Dr Rosie and a Brazilian friend. Here is the list of suggested BBC shows: Inside Number 9, Happy Valley, Devs, Line of Duty, Peaky Blinders and Gavin & Stacey. 
+After a long time, I finally decided to pay for a TV license. I could not see much value before, as I have many streaming options and not enough time. But I could not afford not to watch Killing Eve. I asked #lazytwitter recommendations for BBC shows, and I got some great suggestions from Dr Rosie and a Brazilian friend. Here is the list of suggested BBC shows and will be watching next:
+- Inside Number 9
+- Happy Valley
+- Devs
+- Line of Duty
+- Peaky Blinders
+- Gavin & Stacey
 
 ### Healthcheck
 
