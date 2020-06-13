@@ -13,7 +13,7 @@ I try to recommend a weeknote here every week. This week I will share a blog ins
 
 ## Adoption, bets and life in product
 
-We are mid-sprint, and release notes are ready for the next two releases. From a product perspective, we have been doing well. Spontaneous adoption is happening. Teams are now reaching out to start using our design system and are excited about creating documentation.\
+We are mid-sprint, and release notes are ready for the next two releases. From a product perspective, we have been doing well. The team is so rad that sometimes I think I am really not needed. We have been receiving so much support from Content, Design Managers and developers that I am impressed. Spontaneous adoption is happening. Teams are now reaching out to start using our design system and are excited about creating and improving documentation.\
 \
 In one of these conversations, I was asked to find the original investment proposal for DNA. It was interesting to reread and reflect about our progress. The way we shaped our initial bets and measurement strategies was fairly right. We still have lots to improve, but it felt good. Product Management in systems feels like an infinite game of Tetris. But we had some good moments and we are collecting the benefits. \
 \
@@ -51,7 +51,10 @@ But strategy is a different animal. Alignment and attention are key. In the book
 
 There are many ways. But there is no [Way of Ways](https://medium.com/@johnpcutler/the-way-of-ways-6988b272bcc5), unfortunately.
 
-A strategy is a beast - you have to find the joy of not knowing things. And relentless ask questions. And in times of global crisis, to accept that you will be wrong, no matter how smart you think you are. Optimism goes a long way. 
+A strategy is a beast - you have to find the joy of not knowing things. And relentless ask questions. This sometimes can create disconfort. Rob Campell recently shared [this gem on twitter](https://twitter.com/Robertc1970/status/1270012925634392064?s=20)that touchs in the nerve:
+> Strategy is inherently political because strategy is about what is going on in culture and politics is always entrenched in that. If some strategists think politics isn't part of culture or culture isn't part of strategy, they've got some really big issues they need to work on.
+
+In times of global crisis, accepting that you will be wrong, no matter how smart you think you are, is much needed. Optimism to adapt and proceed goes a long way. 
 
 ## Things that bring me joy
 
