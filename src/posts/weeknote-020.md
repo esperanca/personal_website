@@ -26,13 +26,12 @@ My week was full of great surprises working with the content team. It started wi
 And I attended the Content guild chapter offsite, Content Day. A great session with two external speakers. Smooth facilitation by our Rahel 'Content Empress' Bailie. 
 
 She rocked, even with the usual Zoom crashes. Learned a lot about localisation, and had exciting conversations about readability score methodologies, personality types and team shapes.
- 
 
 ## Learned things
 
-### The balance on structure and participation
+### The balance on participation and facilitation
 
-Had a few challenges while facilitating sessions this week. Lessons learned: I need to be more patient. And be more intentional about clarifying structure, agenda and the role of facilitation. 
+Had a few challenges while facilitating sessions this week. Two lessons learned. Number one is improve my ability to read the room. And second, being more intentional about clarifying structure, agenda and the role of facilitation. And this remind me of Dr.Hu's [Radical Clarity](https://www.linkedin.com/pulse/radical-clarity-dr-sophy-hu-ba-hons-mbbs/) which is now another post-it note in my monitor.
 
 ### Peer mentoring
 
@@ -44,20 +43,19 @@ It was an open and honest conversation. Talking with someone that doesn't have s
 
 ### Agile, Design and Strategy
 
-Designers have their brains wired with the double diamond. Navigating ambiguity, politics and possible futures is part of their skillset. Engineers love to discuss ways of solving a specific problem. Developers prefer to start with clarity: what we can ship and iterate. Delivery focus is risk mitigation. So each discipline has its planning processes and expectations about vision. Invention can be left out due to the lack of shared language. 
+Designers have their brains wired with the double diamond. Navigating ambiguity, politics and possible futures is part of their skillset. Engineers love to discuss ways of solving a specific problem. Developers prefer to start with clarity: what we can ship and iterate. Delivery focus is risk mitigation. So each discipline has its planning processes and expectations about execution and vision. Invention can be left out due to the lack of shared language and focus on local optimization - between disciplines and feature teams. 
 
-We tend to see the world through our discipline lens and bias. For the business as usual, all things I described are just typical daily challenges, and it's ok to disagree. Product leaders create the balancing act.
+We tend to see the world through our discipline lens and bias. All things I described are just typical daily challenges, and is the role of Product leaders to create the balancing act. Its ok to disagree.
 
 But strategy is a different animal. Alignment and attention are key. In the book Intertwingled, Peter Morville shared why this can be hard to achieve sometimes:
 
 > We plan events, trips, families, sites, systems, companies, and cities. We do it all the time but make the same mistakes. First, we procrastinate. We fear complexity, so we start too late. Then, in a hurry, we split ideas and execution into phases or roles. We draw lines in our minds that segregate. The binary oppositions of think-do and plan-build are myths. Like yin and yang, these seemingly separate forces interrelated and entangled.
 
-There are many ways. But there is no [Way of Ways](https://medium.com/@johnpcutler/the-way-of-ways-6988b272bcc5), unfortunately.
-
 A strategy is a beast - you have to find the joy of not knowing things. And relentless ask questions. This sometimes can create disconfort. Rob Campell recently shared [this gem on twitter](https://twitter.com/Robertc1970/status/1270012925634392064?s=20)that touchs in the nerve:
+
 > Strategy is inherently political because strategy is about what is going on in culture and politics is always entrenched in that. If some strategists think politics isn't part of culture or culture isn't part of strategy, they've got some really big issues they need to work on.
 
-In times of global crisis, accepting that you will be wrong, no matter how smart you think you are, is much needed. Optimism to adapt and proceed goes a long way. 
+In times of global crisis, accepting that you will be wrong, no matter how smart you think you are, is much needed. Optimism to adapt and proceed goes a long way. There are many ways. But there is no [Way of Ways](https://medium.com/@johnpcutler/the-way-of-ways-6988b272bcc5), unfortunately.
 
 ## Things that bring me joy
 
@@ -72,14 +70,15 @@ I am practising Tai-chi for about a month now. The choreography is more natural 
 ### Discovering the BBC catalogue
 
 After a long time, I finally decided to pay for a TV license. I could not see much value before, as I have many streaming options and not enough time. But I could not afford not to watch Killing Eve. I asked #lazytwitter recommendations for BBC shows, and I got some great suggestions from Dr Rosie and a Brazilian friend. Here is the list of suggested BBC shows and will be watching next:
-- Inside Number 9
-- Happy Valley
-- Devs
-- Line of Duty
-- Peaky Blinders
-- Gavin & Stacey
 
-### Healthcheck
+* Inside Number 9
+* Happy Valley
+* Devs
+* Line of Duty
+* Peaky Blinders
+* Gavin & Stacey
+
+## Healthcheck
 
 Some pain in the back and neck, due to ergonomic problems in my home office setup. Meditation and painkillers helped me with this.
 
