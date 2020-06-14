@@ -43,19 +43,19 @@ It was an open and honest conversation. Talking with someone that doesn't have s
 
 ### Agile, Design and Strategy
 
-Designers have their brains wired with the double diamond. Navigating ambiguity, politics and possible futures is part of their skillset. Architects love to discuss ways of solving a specific problem. Developers prefer to start with clarity: what we can ship and iterate. So each discipline has its planning processes and expectations about envisioning and planning. The lack of shared language sometimes moves the focus on local optimization - between disciplines and feature teams. 
+Designers have their brains wired with the double diamond. Navigating ambiguity, politics and possible futures is part of their skillset. Architects love to discuss ways of solving a specific problem. Developers prefer to start with clarity: what we can ship and iterate. So each discipline has its planning processes and expectations about envisioning and planning. The lack of shared language sometimes moves the focus on only optimisation - between disciplines and feature teams. 
 
-We tend to see the world through our discipline lens and bias. All things I described are just typical daily challenges, and is the role of Product to create the balancing act. Its ok to disagree and commit, but a conversation debt needs acknowledgment before moving forward.
+We tend to see the world through our discipline lens and bias. The role of Product is to create the balancing act. Its ok to disagree and commit.
 
-That is why strategy is a different animal. Alignment and attention are key. But imagination can be left out. In the book Intertwingled, Peter Morville shared why this can be hard to achieve sometimes:
+That is why strategy is a different animal. A conversation debt needs acknowledgment before moving forward. Alignment and attention are key. But imagination can not be left out. In the book Intertwingled, Peter Morville shared why this can be hard to achieve sometimes:
 
 > We plan events, trips, families, sites, systems, companies, and cities. We do it all the time but make the same mistakes. First, we procrastinate. We fear complexity, so we start too late. Then, in a hurry, we split ideas and execution into phases or roles. We draw lines in our minds that segregate. The binary oppositions of think-do and plan-build are myths. Like yin and yang, these seemingly separate forces interrelated and entangled.
 
-Strategy is a beast - you have to find the joy of not knowing things. It's about dancing with moving targets and asking too many questions. This sometimes can create disconfort. Rob Campell recently shared [this gem on twitter](https://twitter.com/Robertc1970/status/1270012925634392064?s=20)that touchs in the nerve:
+Strategy is a beast - you have to find the joy of not knowing things. And enjoy to dance with moving targets and ask too many questions. This is usually unconfortable. Rob Campell recently shared [this gem on twitter](https://twitter.com/Robertc1970/status/1270012925634392064?s=20)that touchs in the nerve:
 
 > Strategy is inherently political because strategy is about what is going on in culture and politics is always entrenched in that. If some strategists think politics isn't part of culture or culture isn't part of strategy, they've got some really big issues they need to work on.
 
-In times of global crisis, accepting that you will be wrong, no matter how smart you think you are, is much needed. Optimism to adapt and proceed goes a long way. There are many ways. But there is no [Way of Ways](https://medium.com/@johnpcutler/the-way-of-ways-6988b272bcc5), unfortunately.
+A black swan event just happened. The global crisis makes predictions just silly. So no matter how smart you think you are, you gonna be wrong. Optimism start, energy to adapt and perseverance goes a long way. There are many ways. But there is no [Way of Ways](https://medium.com/@johnpcutler/the-way-of-ways-6988b272bcc5), unfortunately.
 
 ## Things that bring me joy
 
