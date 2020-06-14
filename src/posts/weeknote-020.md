@@ -11,21 +11,21 @@ I try to recommend a weeknote here every week. This week I will share a blog ins
 
 # Good Things
 
-## Adoption, bets and life in product
-
-We are mid-sprint, and release notes are ready for the next two releases. From a product perspective, we have been doing well. The team is so rad that sometimes I think I am really not needed. We have been receiving so much support from Content, Design Managers and developers that I am impressed. Spontaneous adoption is happening. Teams are now reaching out to start using our design system and are excited about creating and improving documentation.\
-\
-In one of these conversations, I was asked to find the original investment proposal for DNA. It was interesting to reread and reflect about our progress. The way we shaped our initial bets and measurement strategies was fairly right. We still have lots to improve, but it felt good. Product Management in systems feels like an infinite game of Tetris. But we had some good moments and we are collecting the benefits. \
-\
-Elliot Greaves, our talented Front End engineer, can be credit for a a lot of this success. He was my third hire on the DNA team. I learn so much stuff with him, I am even coding again after many years. He found a new job and is leaving the company soon. I will miss his work ethics, collaboration skills, curiosity and devotion to make everything great.  
-
 ## Content first, please
 
 My week was full of great surprises working with the content team. It started with some good work sessions with Linsey, Chris Brunner and Kevin.
 
-And I attended the Content guild chapter offsite, Content Day. A great session with two external speakers. Smooth facilitation by our Rahel 'Content Empress' Bailie. 
+And with joy I accepted the invitation to attend the Content guild chapter offsite, Content Day. A great session with two external speakers and smooth facilitation by our Rahel 'Content Empress' Bailie. 
 
-She rocked, even with the usual Zoom crashes. Learned a lot about localisation, and had exciting conversations about readability score methodologies, personality types and team shapes.
+She rocked, even with the usual Zoom crashes. I've learned a lot about localisation, and we had exciting conversations about plain language, readability score methodologies, personality types and team shapes.
+
+## Adoption, bets and life in product
+
+We are now half-way through sprint 3. Release notes are ready for the next release and we have a good idea about what comes next. From a product perspective, we have been doing well. The team is so rad and they keep surprising me. We also have been receiving so much support from Content, Design Managers and developers that I am impressed. Spontaneous adoption is happening. Teams are now reaching out to start using our design system and are excited about creating and improving documentation.\
+\
+In one of these conversations, I was asked to find the original investment proposal for DNA. It was interesting to reread and reflect about our progress. The way we shaped our initial bets and measurement strategies was fairly right. We still have lots to improve, but it felt good. Product Management in systems feels like an infinite game of Tetris. But we had some good moments and we are collecting the benefits. \
+\
+Elliot Greaves, our talented Front End engineer, can be credit for a a lot of this success. He was my third hire on the DNA team. I learn so much stuff with him, I am even interested in coding again after so many years. He found a new job and is leaving the company soon. I will miss his work ethics, collaboration skills, curiosity and devotion to make everything great.  
 
 ## Learned things
 
@@ -43,15 +43,15 @@ It was an open and honest conversation. Talking with someone that doesn't have s
 
 ### Agile, Design and Strategy
 
-Designers have their brains wired with the double diamond. Navigating ambiguity, politics and possible futures is part of their skillset. Engineers love to discuss ways of solving a specific problem. Developers prefer to start with clarity: what we can ship and iterate. Delivery focus is risk mitigation. So each discipline has its planning processes and expectations about execution and vision. Invention can be left out due to the lack of shared language and focus on local optimization - between disciplines and feature teams. 
+Designers have their brains wired with the double diamond. Navigating ambiguity, politics and possible futures is part of their skillset. Architects love to discuss ways of solving a specific problem. Developers prefer to start with clarity: what we can ship and iterate. So each discipline has its planning processes and expectations about envisioning and planning. The lack of shared language sometimes moves the focus on local optimization - between disciplines and feature teams. 
 
-We tend to see the world through our discipline lens and bias. All things I described are just typical daily challenges, and is the role of Product leaders to create the balancing act. Its ok to disagree.
+We tend to see the world through our discipline lens and bias. All things I described are just typical daily challenges, and is the role of Product to create the balancing act. Its ok to disagree and commit, but a conversation debt needs acknowledgment before moving forward.
 
-But strategy is a different animal. Alignment and attention are key. In the book Intertwingled, Peter Morville shared why this can be hard to achieve sometimes:
+That is why strategy is a different animal. Alignment and attention are key. But imagination can be left out. In the book Intertwingled, Peter Morville shared why this can be hard to achieve sometimes:
 
 > We plan events, trips, families, sites, systems, companies, and cities. We do it all the time but make the same mistakes. First, we procrastinate. We fear complexity, so we start too late. Then, in a hurry, we split ideas and execution into phases or roles. We draw lines in our minds that segregate. The binary oppositions of think-do and plan-build are myths. Like yin and yang, these seemingly separate forces interrelated and entangled.
 
-A strategy is a beast - you have to find the joy of not knowing things. And relentless ask questions. This sometimes can create disconfort. Rob Campell recently shared [this gem on twitter](https://twitter.com/Robertc1970/status/1270012925634392064?s=20)that touchs in the nerve:
+Strategy is a beast - you have to find the joy of not knowing things. It's about dancing with moving targets and asking too many questions. This sometimes can create disconfort. Rob Campell recently shared [this gem on twitter](https://twitter.com/Robertc1970/status/1270012925634392064?s=20)that touchs in the nerve:
 
 > Strategy is inherently political because strategy is about what is going on in culture and politics is always entrenched in that. If some strategists think politics isn't part of culture or culture isn't part of strategy, they've got some really big issues they need to work on.
 
