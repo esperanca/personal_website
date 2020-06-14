@@ -29,9 +29,9 @@ She rocked, even with the usual Zoom crashes. Learned a lot about localisation, 
 
 ## Learned things
 
-### The balance on structure and participation
+### The balance on participation and facilitation
 
-Had a few challenges while facilitating sessions this week. Lessons learned: I need to be more patient. And be more intentional about clarifying structure, agenda and the role of facilitation. 
+Had a few challenges while facilitating sessions this week. Two lessons learned. Number one is improve my ability to read the room. And second, being more intentional about clarifying structure, agenda and the role of facilitation. And this remind me of Dr.Hu's [Radical Clarity](https://www.linkedin.com/pulse/radical-clarity-dr-sophy-hu-ba-hons-mbbs/) which is now another post-it note in my monitor.
 
 ### Peer mentoring
 
