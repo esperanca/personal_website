@@ -35,7 +35,7 @@ Had a few challenges while facilitating sessions this week. Two lessons learned.
 
 ### Peer mentoring
 
-I've met [Justin Stach](https://justin.stach.uk/) this week for a chat. He is a design leader that I respect a lot. He is sharp, honest and a great communicator. We have shared interest in many things and similar challenges in working in scale-ups. We also have two great designers in our common network: Jack Roles and Debora Nogueira.
+I've met [Justin Stach](https://justin.stach.uk/) this week for a chat. He is a design leader that I respect a lot. He is sharp, honest and a great communicator. We have shared interest in many things and similar challenges in working in scale-ups. We also have two great designers in our common network: Jack Roles and Deborah Nogueira.
 
 We discussed many topics. Remote work, agile, designers becoming product people. And the ethical challenges for design in late capitalism.
 
