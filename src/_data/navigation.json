@@ -1,18 +1,18 @@
 {
   "items": [
       {
-       "text": "About",
+       "text": "about",
        "url": "/about",
        "external": false
      },
      {
-      "text": "Work",
+      "text": "work",
       "url": "/work",
       "external": false
     },
  
     {
-      "text": "Contact",
+      "text": "contact",
       "url": "/contact",
       "external": false
     }
