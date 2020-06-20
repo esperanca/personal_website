@@ -71,10 +71,10 @@ Sharing that banzo with Leili made me reflect how lucky I am. Having someone tha
 
 A bit of a stressful week, with many events, messed a bit with my immunity.
 
-**Weight**: 98.1 kg
-**Food**: This week had more healthy stuff and less delivery food.
-**Drinks**: Two glasses of wine
-**Smoking**: 10 Juul pods and 3 CBD
+**Weight**: 98.1 kg \
+**Food**: This week had more healthy stuff and less delivery food.\
+**Drinks**: Two glasses of wine\
+**Smoking**: 10 Juul pods and 3 CBD\
 
 > Ask what makes you come alive and go do it. Because what the world needs is people who have come alive. Howard Thurman
 
