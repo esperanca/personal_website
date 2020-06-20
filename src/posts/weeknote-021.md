@@ -4,6 +4,10 @@ title: Weeknote 021
 date: 2020-06-20T08:58:28.010Z
 tags:
   - babylonhealth
+  - brazil
+  - dna
+  - a11y
+  - designoperations
 ---
 It was a short and sweet writing practice this week. It took me an hour and a half. It’s becoming easier with time, but I had a lot to process. The thoughts weren’t clear in my head enough to write it down.
 
@@ -60,13 +64,13 @@ We watched the first episode of [Girls from Ipanema](https://www.netflix.com/tit
 
 ![Photo: Aline Arruda / Netflix](/images/girls_from_ipanema.jpg "A scene in Rio, the four lead characters in a boat.")
 
-Two excellent words are familiar to any Brazil ex-pat. The first one is saudade - which is missing someone or something you love. The other one is banzo \[1]. Taking with Leili triggered both. We talked about brazilian music, and she introduced me to a few new artists. Here is a selection of songs: \
+After that, she introduced me to a few new brazilian musicians. Here is part of her selection: \
 \
 [A Cor é Rosa](https://www.youtube.com/watch?v=KnJwCg-zh4w) Silva 
 [Banho de Folhas](https://www.youtube.com/watch?v=bmWm6I3aAqw&feature=youtu.be) Luedji Luna 
 [Zero](https://www.youtube.com/watch?v=M4s3yTJCcmI) Liniker  
 
-Sharing that banzo with Leili made me reflect how lucky I am. Having someone that loves you and makes you feel comfortable in any situation is a privilege. And to make things even better, our delivery from the Brazilian shop arrived. A great weekend ahead, indeed.
+Two excellent words are familiar to any Brazil expat. The first one is saudade - which is missing someone or something you love. The other one is banzo \[1]. Talking with Leili triggered both. Sharing that banzo with Leili made me reflect how lucky I am. Having someone that loves you and makes you feel comfortable in any situation or place is a privilege. And to make things even better, our delivery from the Brazilian shop arrived. A great weekend ahead, indeed.
 
 ### Healthcheck
 
