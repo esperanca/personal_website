@@ -47,18 +47,23 @@ I watched Antionette D. Carroll talk at 99u Conference this week. She is the fou
 
 ![Bernardino, Ana, Atilia and Oswaldo](/images/souza_cunha_bernardino_oswaldo.jpg "Bernardino, Ana, Atilia and Oswaldo")
 
-\
 I had a few more conversations with my dad and my aunt Celia about my ancestors. We are still trying to find more stories about my great-grandfather Bernardino. My dad shared with me an interesting fact about him. In his late life, he adopted Candomblé as his religion. Candomblé it is a syncretism. It mixes Roman Catholicism and Yoruba, a traditional West African religion. The rituals are exotic, and there is no concept of good or evil.
 
 We also talked about my Grandfather, Oswaldo Souza Cunha.
 
-### Banzo, Brazilian culture and YouTube playlists
+### Banzo and Girls from Ipanema
 
 After an intense week at work, I was still wired Friday night. Leili noticed my disorientation. She distracted me with fantastic food, music and good conversations.
 
-We watched the first episode of Most Beautiful Thing. It’s a Netflix show about sexism, racism and Bossa nova. After that, she introduced me to a few Brazilian musicians. Silva, Luedji Luna, Liniker are stars of a talented and militant new generation.
+We watched the first episode of [Girls from Ipanema](https://www.netflix.com/title/80208298). It’s a Netflix original production set in 1950s Rio de Janeiro. The life of four strong women fighting against sexism, racism and inequality. The lead character, Malu, opens a nightclub after being abandoned by her husband. A perfect excuse for the producers to introduce amazing music in the series. Great interpretation of jazz classics, bossa nova and Samba. Highly recommended.
 
-Two excellent words are familiar to any Brazil ex-pat. The first one is saudade - which is missing someone or something you love. The other one is banzo \[1]. 
+![Photo: Aline Arruda / Netflix](/images/girls_from_ipanema.jpg "A scene in Rio, the four lead characters in a boat.")
+
+Two excellent words are familiar to any Brazil ex-pat. The first one is saudade - which is missing someone or something you love. The other one is banzo \[1]. Taking with Leili triggered both. We talked about brazilian music, and she introduced me to a few new artists. Here is a selection of songs: \
+\
+Silva\
+Luedji Luna\
+Liniker 
 
 Sharing that banzo with Leili made me reflect how lucky I am. Having someone that loves you and makes you feel comfortable in any situation is a privilege. And to make things even better, our delivery from the Brazilian shop arrived. A great weekend ahead, indeed.
 
