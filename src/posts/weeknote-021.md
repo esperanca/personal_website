@@ -27,13 +27,14 @@ For a few weeks now, I am collecting ideas and facts to write this talk. It has 
 
 ## Learned things
 
-### Feedback loops, Mercury retrograde and servant leadership
+### Feedback loops, servant leadership and mercury retrograde
 
-360 performance review results were out this week. We had a great team retro, and it was quite revealing to see some patterns.
+360 performance review results were out this week. I also joined retros for two different teams, and some patterns are quite revealing. Collaboration, community, organisation and documentation are common topics. 
 
-Intrigued by a piece of feedback shared by my teammates, I decided to call Rahel Bailie after work. Rahel, as always, listened to me with her candour, patience and positivism. Her jokes about astrology made my day.
+Finding out my leadership style is being a great challenge. I have a lot to read and to learn now. The paradox of [servant leadership and ethical safeguards](https://journals.sagepub.com/doi/full/10.1177/2158244019900562) is my starting point. 
 
-Finding out my leadership style is a great challenge. The paradox of [servant leadership and ethical safeguards](https://journals.sagepub.com/doi/full/10.1177/2158244019900562) is real. I have a lot to read and to learn.
+One piece of feedback shared by my teammates was intriguing, and I decided to call Rahel Bailie after work. Rahel, as always, listened to me with her candour, patience and positivism. Her jokes about astrology made my day.
+ 
 
 ### Equality and Equity
 
@@ -61,9 +62,9 @@ We watched the first episode of [Girls from Ipanema](https://www.netflix.com/tit
 
 Two excellent words are familiar to any Brazil ex-pat. The first one is saudade - which is missing someone or something you love. The other one is banzo \[1]. Taking with Leili triggered both. We talked about brazilian music, and she introduced me to a few new artists. Here is a selection of songs: \
 \
-Silva\
-Luedji Luna\
-Liniker 
+[A Cor é Rosa](https://www.youtube.com/watch?v=KnJwCg-zh4w) Silva 
+[Banho de Folhas](https://www.youtube.com/watch?v=bmWm6I3aAqw&feature=youtu.be) Luedji Luna 
+[Zero](https://www.youtube.com/watch?v=M4s3yTJCcmI) Liniker  
 
 Sharing that banzo with Leili made me reflect how lucky I am. Having someone that loves you and makes you feel comfortable in any situation is a privilege. And to make things even better, our delivery from the Brazilian shop arrived. A great weekend ahead, indeed.
 
@@ -74,7 +75,7 @@ A bit of a stressful week, with many events, messed a bit with my immunity.
 **Weight**: 98.1 kg \
 **Food**: This week had more healthy stuff and less delivery food.\
 **Drinks**: Two glasses of wine\
-**Smoking**: 10 Juul pods and 3 CBD\
+**Smoking**: 10 Juul pods and 3 CBD
 
 > Ask what makes you come alive and go do it. Because what the world needs is people who have come alive. Howard Thurman
 
