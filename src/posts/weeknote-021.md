@@ -17,17 +17,17 @@ It was a short and sweet writing practice this week. It took me an hour and a ha
 
 ### Organising my first social for the DNA team
 
-One of the things I love most about agile is the dedication to rituals. Socials are a special one for me. One of the sweetest memories I have about working in the UK is about a social with the LBG Commercial team. I prepared 23 caipirinhas that day. 
+One of the things I love most about agile is the dedication to rituals. Socials are a special one for me. One of the sweetest memories I have about working in the UK: a social with the LBG Commercial Banking team. I prepared 23 caipirinhas that day. 
 
-I joined the DNA team social this week. No drinks, but I guess was not bad. Our former Product Manager and content wizard Amy Hupe was our special guest. We also had the cute goats Shakin’ Susan, Cuthbert and Daisy on zoom.  
+I joined the DNA team social this week. No drinks, but I guess was not bad. Our former Product Manager and content wizard Amy Hupe was the special guest. We also had the cute goats Shakin’ Susan, Cuthbert and Daisy on zoom.  
 
 ### a11y and design operations on stage
 
 Fred Warburton will share his [journey in accessibility](https://www.eventbrite.co.uk/e/real-world-accessibility-stories-tickets-106217880540) next month. Fred’s experience is impressive and touching, and I had the privilege to watch him practising his talk.
 
-I will speak in a Meet-up next month. BT and Capital One will run the first DesignOps Virtual Meet-up in London. The original invitation was a few months ago, but COVID happened.
+I am also lined-up for a talk in July. BT and Capital One are hosting the first DesignOps Virtual Meet-up in London. The original invitation was a few months ago, but COVID happened.
 
-For a few weeks now, I am collecting ideas and facts to write this talk. It has been an interesting reflection exercise. I will share my ramblings about design management, culture and community 23rd of July. [Tickets are free](https://www.eventbrite.co.uk/e/designops-virtual-meet-up-with-bt-capital-one-tickets-108683798166).
+For a few weeks now I am collecting ideas and facts to write this talk. It has been an interesting reflection exercise. I will share my ramblings about design management, culture and community 23rd of July. [Tickets are free](https://www.eventbrite.co.uk/e/designops-virtual-meet-up-with-bt-capital-one-tickets-108683798166).
 
 ## Learned things
 
@@ -39,7 +39,7 @@ One piece of feedback shared by my teammates was intriguing, and I decided to ca
 
 ### Equality and Equity
 
-I watched Antionette D. Carroll talk at 99u Conference this week. She is the founder of the [Creative Reaction Lab](https://www.creativereactionlab.com/) in St. Louis, Missouri. Her speech was superb, and it felt like being struck by lightning:
+Adobe 99u Conference happened this week. I watched Antionette D. Carroll talk. She is the founder of the [Creative Reaction Lab](https://www.creativereactionlab.com/) in St. Louis, Missouri. Her speech was superb, and it felt like being struck by lightning:
 
 > Those who are most directly impacted by inequities are also closest to the approaches to address them
 
