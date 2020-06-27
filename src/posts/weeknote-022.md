@@ -19,9 +19,9 @@ Understanding what we had in place took me a few days. I am still grateful to ev
 
 My first slide to present the idea had a citation to an old adage I still use: [Standing on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants). I believe that the most critical part of working with design systems is community. And nothing creates community and drives adoption faster than acknowledging contributions.
 
-One person that shares this way of thinking with me and plays a pivotal role in our team is Jack Roles. He was my first hire at Babylon, referred by Chris Clarke, one of our design leaders.
+One person that shares this way of thinking with me and plays a pivotal role in our Design System team is Jack Roles. He was my first hire at Babylon, referred by Chris Clarke, one of our design leaders. They worked together building the Design System team at Tesco, which is a great in terms of accessibility. 
 
-Jack is completing one year in this journey next month. Jack is a rare breed of designer. One of his qualities that I admire is that he knows how to achieve balance. He is passionate about UI aesthetics but cares about accessibility more. He is exceptionally talented but really, really humble. You can learn more about Jack’s work and the initial months of Babylon DNA in [this blog post](https://jackroles.co.uk/babylon-dna-the-journey-from-sketch-to-figma). Edited by Amy Hupe, it shows the challenge of formalising a design language and using Figma libraries to improve your design documentation and create consistent components.
+Jack is completing one year in this journey next month. Jack is a rare breed of designer. One of his qualities that I admire is that he knows how to achieve balance. He is passionate about UI aesthetics but cares about accessibility a lot. He is exceptionally talented but really, really humble. You can learn more about Jack’s work and the initial months of Babylon DNA in [this blog post](https://jackroles.co.uk/babylon-dna-the-journey-from-sketch-to-figma). Edited by Amy Hupe - and probably peer-reviewed by Linsey and Elliot - the article shows the challenges we faced when formalising NVL, our design language. You will find cool details about using Figma libraries to create consistent components and improve design documentation. 
 
 ### My favourite wizard
 
