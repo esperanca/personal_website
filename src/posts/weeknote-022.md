@@ -25,7 +25,7 @@ Jack is completing one year in this journey next month. Jack is a rare breed of 
 
 ### My favourite wizard
 
-Daniel Harvey just completed 3 months with us this week. Dan is our Global Creative Director and a force of nature. His laid back and soft manners are just incredible. But don’t confuse good manners with omission: Dan is always stepping in difficult conversations that can make or break good design. He writes a weekly newsletter, [20 minutes into the Future](https://20minutesintothefuture.substack.com/). It's a critical look at how technology is shaping our lives. Go read Dan the Wizard, you gonna love it. PS: The wizard nickname was coined by Sophy Hu, our own Phoebe Waller-Bridge.
+Daniel Harvey just completed 3 months with us this week. Dan is our Global Creative Director and a force of nature. His laid back and soft manners are just incredible. But don’t confuse good manners with omission: Dan is always stepping in difficult conversations that can make or break good design. He writes a weekly newsletter, [20 minutes into the Future](https://20minutesintothefuture.substack.com/). It's a critical look at how technology is shaping our lives. Go read Dan the Wizard, you gonna love it. PS: The wizard nickname was coined by Sophy Hu, our own Phoebe Waller-Bridge, after we had another meeting with a goat.
 
 ## Learned things
 
