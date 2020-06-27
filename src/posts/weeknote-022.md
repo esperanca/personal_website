@@ -5,7 +5,7 @@ date: 2020-06-27T11:47:09.717Z
 tags:
   - babylonhealth
 ---
-A very intense but rewarding week, and I wrote these notes automatic mode. Jotting down things that are on top of my mind and publishing without overthinking.
+Intense but rewarding week. I wrote these notes in automatic mode. Jotting down things that are on top of my mind and publishing without overthinking. 
 
 My selected blog/weeknote this week is from a Babylon colleague. He is an engineer with a quirk sense of humour. He wrote about his experiences [working remotely](https://www.mrlee.dev/personal/on-working-remotely/) in different countries and companies.
 
@@ -21,22 +21,22 @@ My first slide to present the idea had a citation to an old adage I still use: [
 
 One person that shares this way of thinking with me and plays a pivotal role in our team is Jack Roles. He was my first hire at Babylon, referred by Chris Clarke, one of our design leaders.
 
-Jack is completing one year in this journey next month. Jack is a rare breed of designer. One of his qualities that I admire is that he knows how to achieve balance. He is passionate about UI aesthetics but cares about accessibility more. He is exceptionally talented but really, really humble. You can learn more about Jack’s work and the initial months of Babylon DNA in [this blog post](
-https://jackroles.co.uk/babylon-dna-the-journey-from-sketch-to-figma).
+Jack is completing one year in this journey next month. Jack is a rare breed of designer. One of his qualities that I admire is that he knows how to achieve balance. He is passionate about UI aesthetics but cares about accessibility more. He is exceptionally talented but really, really humble. You can learn more about Jack’s work and the initial months of Babylon DNA in [this blog post](https://jackroles.co.uk/babylon-dna-the-journey-from-sketch-to-figma). Edited my Amy Hupe, it shows the challenge of formalising a design language and using FIgma libraries to improve your design documentation. 
+
 ### My favourite wizard
 
-Daniel Harvey just completed 3 months with us this week. Dan is a force of nature. His laid back and soft manners are just incredible. But don’t confuse good manners with omission: Dan is always stepping in difficult conversations that are part of the design. He writes a weekly newsletter. 20 minutes into the Future, a critical look at how technology is shaping our lives. Go read Dan the Wizard, you gonna love it. PS: The wizard nickname was coined by Sophy Hu, our own version of Phoebe Waller-Bridge.
+Daniel Harvey just completed 3 months with us this week. Dan is a force of nature. His laid back and soft manners are just incredible. But don’t confuse good manners with omission: Dan is always stepping in difficult conversations that are part of the design. He writes a weekly newsletter, [20 minutes into the Future](https://20minutesintothefuture.substack.com/). It's a critical look at how technology is shaping our lives. Go read Dan the Wizard, you gonna love it. PS: The wizard nickname was coined by Sophy Hu, our own Phoebe Waller-Bridge.
 
 ## Learned things
 
 ### Not doing, talking
 
-One of the perks of the job is interesting conversations. I shared a reflection with Jane Austin this week about the time we spend talking and thinking about design. Design as a discipline, the philosophical aspects of it. An interesting topic I want to explore is the distinction between design and science. I found this gem, [Philosophy of Design: An Introduction](https://kadk.dk/cephad-centre-philosophy-design/philosophy-design-introduction) by Per Galle a good starting point:
+I shared a reflection with Jane Austin this week about the time we spend talking and thinking about design. Design as a discipline, the philosophical aspects of it. An interesting topic I want to explore is the distinction between design and science. I found this gem, [Philosophy of Design: An Introduction](https://kadk.dk/cephad-centre-philosophy-design/philosophy-design-introduction) by Per Galle.  He made a good point:
 
->‘Does your “insights about design” help us improve our products, increase our share of the market, or boost the productivity of industry?’ such people might ask. If you are one of them, don’t expect me to answer ‘yes, they do’. No-one can seriously make such promises on behalf of an emerging field of research. 
-Try instead to consider the negation of my claim: Would you be prepared to tell professional designers working for you, that understanding how to do their job is all they need while understanding what they are doing is a waste of time?
+> ‘Does your “insights about design” help us improve our products, increase our share of the market, or boost the productivity of industry?’ such people might ask. If you are one of them, don’t expect me to answer ‘yes, they do’. No-one can seriously make such promises on behalf of an emerging field of research. 
+> Try instead to consider the negation of my claim: Would you be prepared to tell professional designers working for you, that understanding how to do their job is all they need while understanding what they are doing is a waste of time?
 
-More on this next week.
+More on this next week. If you have any book or article recommendation, [ping me](https://danielsouza.org/contact/).
 
 ### Arrogant prick
 
@@ -46,7 +46,7 @@ Let’s start with the things I am doing right. There were consistent comments a
 
 This feedback is consistent with my evaluation as a team manager in Peakon. Peakon is a tool we use a Babylon that collects anonymous feedback from the team. It covers many aspects of the team health: organisational culture, strategy and structure. We run Peakon surveys every two weeks, so I care a lot about Peakon comments. In Peakon we have criteria called “Freedom of Opinion”. One of the questions we ask to check this is: “At work, my opinions seem to count”. My current score is a perfect 10 on this criteria.
 
-On the other hand, one improvement area from someone I respect stood out: That I can be dogmatic sometimes. I confess I was pissed off when I received this feedback initially. A follow-up conversation with another person I trust a lot - they left the company, so their perspective was different - was really helpful.
+On the other hand, one improvement area from someone I respect stood out: That I can be dogmatic sometimes. I confess I was pissed off when I received this feedback. A follow-up conversation with another person I trust a lot - they left the company, so their perspective was different - was really helpful.
 
 Accepting constructive criticism is an art. The beautiful thing about it is that over time you learn. How to digest feedback without running my confidence. How to use the feedback to help me focus on growth areas that matter to me. How to own my progress, flexing my intrinsic motivation. Those are things I will never forget, regardless of my career path or current job.
 
@@ -58,7 +58,9 @@ Her choice of words made a lot of sense for me. It gave me a new context to fram
 
 ### Getting cool swag on the mail
 
-Last March, I attended training in working asynchronously with the Officeless team. This morning, I received a sweet package of stickers and a cure notebook. Beautiful, huh? I love purple.
+![Purple package with stickers ](/images/officeless_stickers.jpg "Purple package with stickers ")
+
+Last March, I attended training in remote working and async methods with the Officeless team. This morning, I received a sweet package of stickers and a cure notebook. Beautiful, huh? I love purple.
 
 ### Celebrating Gilberto Gil birthday
 
@@ -66,7 +68,7 @@ Gilberto Gil is an inspiring musician, artist and thinker. This week, people aro
 
 Gil is so relevant that even international artists joined the celebration. Stevie Wonder, David Byrne, Almodovar and Sting are just a few.
 
-At home, we listened to his songs. And we danced forró in our living room. Long live to Gil, the culture hacker who transformed Brazilian culture.
+At home, we listened to his songs. And we danced forró in our living room. Long live to Gil, the culture hacker who transformed Brazilian culture. My song of the week is his version of Bob Marley's epic [Three Little Birds](https://www.youtube.com/watch?v=Xv7AUpHt70o).
 
 ### Healthcheck
 
