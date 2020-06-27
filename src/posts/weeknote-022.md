@@ -31,7 +31,7 @@ Daniel Harvey just completed 3 months with us this week. Dan is a force of natur
 
 ### Not doing, talking
 
-I shared a reflection with Jane Austin this week about the time we spend talking and thinking about design. Design as a discipline, the philosophical aspects of it. An interesting topic I want to explore is the distinction between design and science. I found this gem, [Philosophy of Design: An Introduction](https://kadk.dk/cephad-centre-philosophy-design/philosophy-design-introduction) by Per Galle a good starting point:
+One of the perks of the job is interesting conversations. I shared a reflection with Jane Austin this week about the time we spend talking and thinking about design. Design as a discipline, the philosophical aspects of it. An interesting topic I want to explore is the distinction between design and science. I found this gem, [Philosophy of Design: An Introduction](https://kadk.dk/cephad-centre-philosophy-design/philosophy-design-introduction) by Per Galle a good starting point:
 
 >‘Does your “insights about design” help us improve our products, increase our share of the market, or boost the productivity of industry?’ such people might ask. If you are one of them, don’t expect me to answer ‘yes, they do’. No-one can seriously make such promises on behalf of an emerging field of research. 
 Try instead to consider the negation of my claim: Would you be prepared to tell professional designers working for you, that understanding how to do their job is all they need while understanding what they are doing is a waste of time?
