@@ -78,11 +78,11 @@ At home, we listened to his songs. And we danced forró in our living room. Long
 
 ![Purple package with stickers ](/images/officeless_stickers.jpg "Purple package with stickers ")
 
-Last March, I attended training in remote working practices, with focus on and async methods and distributed teams. The Officeless team is just awesome. This morning, I received a sweet package of stickers and a cure notebook. Beautiful, huh? I love purple.
+Last March, I attended training in remote working practices, with a focus on async methods and distributed teams. The Officeless team is just awesome. This morning, I received a sweet package of stickers and a cure notebook. Beautiful, huh? I love purple.
 
 ### Healthcheck
 
-No meditations this week and just one hour of exercise.
+Just 20 minutes of meditation this week and about one hour of exercise.
 
 **Weight:** 98.9 kg
 **Food:** Lot’s of healthy and delicious food this week.
