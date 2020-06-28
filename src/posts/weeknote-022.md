@@ -40,27 +40,31 @@ More on this next week. If you have any book or article recommendation, [ping me
 
 ### Arrogant prick
 
-In my last weeknote, I shared a few bits about the results of the 360 feedback I received at work. I have been trying to bake some reflection and observation time in my schedule since them.
+In my latest weeknote, I shared some bits about the results of my 360 feedback. I had some reflection and observation time in my week, so here is some oversharing.
 
-Let’s start with the things I am doing right. There were consistent comments about the things I am most helpful. Ability to nurture communities, create the environment for psychological safety and enabling inclusiveness in conversations. It was important to hear people valued this as it connects with my personal values.
+There were consistent comments about the things I am doing well. The community aspect of my work was the winner. Psychological safety was not cited directly, but a lot of the comments were related to this, including creating space for people to share their concerns and ideas. And enabling people to do better work through coaching and support. It was important to hear people valued these things as it connects with my values.
 
-This feedback is consistent with my evaluation as a team manager in Peakon. Peakon is a tool we use a Babylon that collects anonymous feedback from the team. It covers many aspects of the team health: organisational culture, strategy and structure. We run Peakon surveys every two weeks, so I care a lot about Peakon comments. In Peakon we have criteria called “Freedom of Opinion”. One of the questions we ask to check this is: “At work, my opinions seem to count”. My current score is a perfect 10 on this criteria.
+This feedback relates to Peakon surveys. Peakon is a tool that helps managers to understand culture and engagement. In Peakon we have criteria called “Freedom of Opinion”. One of the questions we ask to check this is: “At work, my opinions seem to count”. My current score is a perfect 10.
 
-On the other hand, one improvement area from someone I respect stood out: That I can be dogmatic sometimes. I confess I was pissed off when I received this feedback. A follow-up conversation with another person I trust a lot - they left the company, so their perspective was different - was really helpful.
+On the improvement areas, there was one new thing that stood out for me. A comment that sometimes “I can get dogmatic”. I confess I panicked when I read this. Right after, I did some detective work and talked with a few more people to understand.
 
-Accepting constructive criticism is an art. The beautiful thing about it is that over time you learn. How to digest feedback without running my confidence. How to use the feedback to help me focus on growth areas that matter to me. How to own my progress, flexing my intrinsic motivation. Those are things I will never forget, regardless of my career path or current job.
+One person that I had a follow-up was Amy Hupe. She is someone I trust a lot, and we worked together for about four months. She left the company recently; thus, her perspective was unique—such a helpful and candid conversation. Amy’s ability to clarify things is remarkable.
 
-This episode led me to a conversation with Leili that was life-changing. With her radical candour (something rare to find in the UK) she said: “Sometimes you can sound a bit arrogant”.
+One lesson that I learned is about being more open to possibilities. And accepting things will go wrong—in practical terms, creating more space for people to learn by themselves.
 
-Her choice of words made a lot of sense for me. It gave me a new context to frame how I behave and how I can improve. Bless you, lovely people who inspire me to be a better person and leader.
+Reflecting on this has been great. There is a conflict in the feedback, and it’s okay. I do think my belief that things can be better all the time needs some fine-tuning. But I also aware of the [costs of code-switching](https://hbr.org/2019/11/the-costs-of-codeswitching) and my communication challenges. I can’t ignore that after almost 4 years, I am still learning. Dealing with the subtleties and lack of directness in the work environment is new for me. I am often confused. Sometimes it feels like I am living in a [WH1 episode](https://www.bbc.co.uk/programmes/b03yv1mv).
+
+Accepting constructive criticism is an art. The beautiful thing about it is that over time this learning becomes a treasure. Some of the things I always keep in mind in each feedback round.
+
+1. How to digest feedback without running my confidence
+2. How to use the feedback to help me focus on my growth areas - the things that matter to me, beyond my current job.
+3. How to own my progress, building up my intrinsic motivation
+
+This reflection led me to a refreshing conversation with Leili that was life-changing. With her radical candour, she said: “Sometimes you can sound a bit arrogant”. It was the first time someone calls out my arrogance.
+
+Her choice of words made a lot of sense for me. It gave me a new context to frame how I behave and how I can improve. I am grateful for all the lovely people who inspire me to be a better person. Onward.
 
 ### Things that bring me joy
-
-### Getting cool swag on the mail
-
-![Purple package with stickers ](/images/officeless_stickers.jpg "Purple package with stickers ")
-
-Last March, I attended training in remote working practices, with focus on and async methods and distributed teams. The Officeless team is just awesome. This morning, I received a sweet package of stickers and a cure notebook. Beautiful, huh? I love purple.
 
 ### Celebrating Gilberto Gil birthday
 
@@ -68,7 +72,13 @@ Gilberto Gil is an inspiring musician, artist and thinker. This week, people aro
 
 Gil is so relevant that even international artists joined the celebration. Stevie Wonder, David Byrne, Almodovar and Sting are just a few.
 
-At home, we listened to his songs. And we danced forró in our living room. Long live to Gil, the culture hacker who transformed Brazilian culture. My song of the week is his version of Bob Marley's epic [Three Little Birds](https://www.youtube.com/watch?v=Xv7AUpHt70o). The 3D animation, by the talented [Seagull Fly](https://vimeo.com/46048046) folks is a piece of art.  
+At home, we listened to his songs. And we danced forró in our living room. Long live to Gil, the culture hacker who transformed Brazilian culture. My song of the week is his version of Bob Marley's epic [Three Little Birds](https://www.youtube.com/watch?v=Xv7AUpHt70o). The 3D animation, by the talented [Seagull Fly](https://vimeo.com/46048046) folks is a piece of art. 
+
+### Getting cool swag on the mail
+
+![Purple package with stickers ](/images/officeless_stickers.jpg "Purple package with stickers ")
+
+Last March, I attended training in remote working practices, with focus on and async methods and distributed teams. The Officeless team is just awesome. This morning, I received a sweet package of stickers and a cure notebook. Beautiful, huh? I love purple.
 
 ### Healthcheck
 
