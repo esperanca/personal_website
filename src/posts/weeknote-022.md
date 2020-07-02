@@ -46,13 +46,13 @@ There were consistent comments about the things I am doing well. The community a
 
 This feedback relates to Peakon surveys. Peakon is a tool that helps managers to understand culture and engagement. In Peakon we have criteria called “Freedom of Opinion”. One of the questions we ask to check this is: “At work, my opinions seem to count”. My current score is a perfect 10.
 
-On the improvement areas, there was one new thing that stood out for me. A comment that sometimes “I can get dogmatic”. I confess I panicked when I read this. Right after, I did some detective work and talked with a few more people to understand.
+On the improvement areas, there was one new thing that stood out for me. A comment that sometimes “I can get dogmatic”. I confess I panicked when I read this. I did some detective work and talked with a few more people to understand.
 
-One person that I had a follow-up was Amy Hupe. She is someone I trust a lot, and we worked together for about four months. She left the company recently; thus, her perspective was unique—such a helpful and candid conversation. Amy’s ability to clarify things is remarkable.
+One person that I had a follow-up was Amy Hupe. She is someone I trust a lot, and we worked together for about four months. She left the company recently; thus, her perspective was unique. Amy’s ability to clarify things is remarkable.
 
-One lesson that I learned is about being more open to possibilities. And accepting things will go wrong—in practical terms, creating more space for people to learn by themselves.
+One lesson that I learned talking with her: I need to create more space for people to learn by themselves. 
 
-Reflecting on this has been great. There is a conflict in the feedback, and it’s okay. I do think my belief that things can be better all the time needs some fine-tuning. But I also aware of the [costs of code-switching](https://hbr.org/2019/11/the-costs-of-codeswitching) and my communication challenges. I can’t ignore that after almost 4 years, I am still learning. Dealing with the subtleties and lack of directness in the work environment is new for me. I am often confused. Sometimes it feels like I am living in a [WH1 episode](https://www.bbc.co.uk/programmes/b03yv1mv).
+Reflecting on this has been great. There is a conflict in the feedback, and it’s okay. I do think my belief that things can be better all the time needs some fine-tuning. But I also aware of the [costs of code-switching](https://hbr.org/2019/11/the-costs-of-codeswitching) and my communication challenges. I can’t ignore that after almost 4 years, I am still learning how to work in the UK. Dealing with the subtleties and lack of directness is new for me, I am sometimes confused. It feels sometimes like I am living in a [WH1 episode](https://www.bbc.co.uk/programmes/b03yv1mv).
 
 Accepting constructive criticism is an art. The beautiful thing about it is that over time this learning becomes a treasure. Some of the things I always keep in mind in each feedback round.
 
@@ -60,9 +60,9 @@ Accepting constructive criticism is an art. The beautiful thing about it is that
 2. How to use the feedback to help me focus on my growth areas - the things that matter to me, beyond my current job.
 3. How to own my progress, building up my intrinsic motivation
 
-This reflection led me to a refreshing conversation with Leili that was life-changing. With her radical candour, she said: “Sometimes you can sound a bit arrogant”. It was the first time someone calls out my arrogance.
+This reflection led me to a refreshing conversation with Leili that was life-changing. With her radical candour, she said: “Sometimes you can sound a bit arrogant”. It was the first time someone calls out my arrogance. 
 
-Her choice of words made a lot of sense for me. It gave me a new context to frame how I behave and how I can improve. I am grateful for all the lovely people who inspire me to be a better person. Onward.
+Her choice of words made a lot of sense for me. It gave me a new context to frame things. My communication style can affect people as well, and I can improve this. Finding more flexibility, being more balanced. I am grateful for all the lovely people who inspire me to be a better person. Onward.
 
 ### Things that bring me joy
 
