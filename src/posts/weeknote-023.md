@@ -43,7 +43,9 @@ Learning about racism is being an interesting journey for me. The article [What 
 
 This week Fred Warburton presented his accessibility work in the Manchester a11y meet-up. He will write a post about this so I will not gonna share anything about it to avoid a spoiler.
 
-There was a bunch of other great speakers. The one I learned most was Rachel Morgan-Trimmer. She spoke about things you can do to make your information [accessible for a neurodiverse audience](https://sparkleclass.com/2020/07/03/10-stupidly-easy-things-you-can-do-to-be-accessible/).
+There was a bunch of other great speakers. The one I learned most was Rachel Morgan-Trimmer. She spoke about things you can do to make your information [accessible for a neurodiverse audience](https://www.youtube.com/watch?v=7Tt_-gtUCgo&feature=youtu.be&t=1286/).
+
+The panel was also quite good. All presenters answering questions from the audience. The facilitator used the traditional fishbowl technique with Miro and Zoom. Well played, will try this soon.
 
 ## Things that bring me joy
 
