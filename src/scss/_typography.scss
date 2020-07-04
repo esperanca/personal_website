@@ -1,11 +1,11 @@
 /* pt-serif-700 - latin */
 @font-face {
-	font-family: 'PT Serif';
-	font-style: normal;
-	font-weight: 700;
+	font-family: 'salomeregular';
+    font-weight: normal;
+    font-style: normal;
   	font-display: swap;
-    src: local('PT Serif Bold'), local('PTSerif-Bold'),
-    url('/fonts/pt-serif-v11-latin-700.woff') format('woff');
+    src: local('salomeregular'), local('salomeregular'),
+    url('/fonts/salome-webfont.woff') format('woff');
 	
 	
 }
