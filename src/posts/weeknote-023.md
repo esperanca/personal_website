@@ -11,15 +11,14 @@ My selected weeknote of the week is by [Leanne Griffin](https://medium.com/@lean
 
 ## Good things
 
-### Being inspired by your “direct reports”
+### Inspiring 1:1
 
-To start, I don’t even like to use the word reports. Let’s be honest: it’s a bit lame. It gives me the impression that someone reports something to you, which is actually not true in my case. We have Program Management for that.
+In my previous job I learned a lot about 1:1s. Shalom Thomas and Jeff Collins, my former people managers at Sapient, were masters of purposeful and useful meetings. Is something I enjoy a lot and every week I have the privilege of meeting people that I admire.  
 
-What I try to do all the time is to make myself available in a consistent way. There is no secret sauce: 1–1’s every week with the right attention and intention. Being a good listener and helping to spot patterns. Making my best to support what they want to do: agency is key. I rarely try to influence in any manner, but I ask lots of questions. Building trust and the relationship is the only goal. Many times I have to say: “But we are talking about work again, let’s go back to you”.
+What I try to do all the time is to make myself available in a consistent way. There is no secret sauce: 1–1’s every week with the right attention and intention. Being a good listener and helping to spot patterns. Making my best to support what they want to do: agency is key. I rarely try to influence in any manner, but I ask lots of questions. Many times I have to say: “But we are talking about work again, let’s go back to you”.
 
 I am usually surprised by the progress they are making every week. The creative ways they find to thrive. The resilience to navigate a complex organisation in and unpredictable world.
 
-Writing this reminded me about Shalom Thomas and Jeff Collins. They were my former people managers at Sapient, and I’ve learned a lot about 1–1’s and servant leadership with them.
 
 ## Learned things
 
