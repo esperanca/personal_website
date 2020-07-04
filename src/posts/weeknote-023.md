@@ -33,11 +33,11 @@ I had the opportunity to catch up with her this week. I am a big fan of Julia’
 
 ### BIPOC
 
-A few weeks ago, I was sharing with you folks about my origins and the history of my great-grandfather. This research is ongoing, and I will write more about it later. This week, I want to share something I learned recently: the definition of BIPOC.
+A few weeks ago, I was sharing with you folks about my origins and the history of [my great-grandfather](https://danielsouza.org/posts/weeknote_19/#heading-getting-to-know-about-my-origins). This research is ongoing, and I will write more about it soon. This week, I want to share something I learned recently: the definition of BIPOC.
 
 > It’s important to remember that a lot of people others assume are “white” are in fact Indigenous, Arab, Persian, Turkish, Latinx, etc. Their identities are complicated, experiencing both the advantages of being assumed white and the prejudice against their communities, often being told they’re not “enough” of or “really” either
 
-Learning about racism is being an interesting journey for me. The article [What is Racism](https://anygoodthing.com/2020/06/14/what-is-racism/) by Rebecca Barret-Fox is a joy to read and a good starting point for everyone.
+Learning about racism is being an interesting journey for me. The article [What is Racism](https://anygoodthing.com/2020/06/14/what-is-racism/) by Rebecca Barret-Fox is a joy to read and a good starting point. 
 
 ### Accessibility and neurodiversity
 
@@ -45,7 +45,7 @@ This week Fred Warburton presented his accessibility work in the Manchester a11y
 
 There was a bunch of other great speakers. The one I learned most was Rachel Morgan-Trimmer. She spoke about things you can do to make your information [accessible for a neurodiverse audience](https://www.youtube.com/watch?v=7Tt_-gtUCgo&feature=youtu.be&t=1286/).
 
-The panel was also quite good. All presenters answering questions from the audience. The facilitator used the traditional fishbowl technique with Miro and Zoom. Well played, will try this soon.
+The panel was quite good. All presenters answering questions from the audience. The facilitator used the traditional fishbowl technique with Miro and Zoom. I am definitely stealing this idea. 
 
 ## Things that bring me joy
 
