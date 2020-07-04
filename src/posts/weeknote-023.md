@@ -5,7 +5,7 @@ date: 2020-07-04T09:08:51.115Z
 tags:
   - babylonhealth
 ---
-Is on my list to write a post about my process of writing these weeknotes. I have been postponing this for long as I’ve been busy. But one thing I want to share is how important it is to take notes. Capture your thinking in small nuggets. When you are reading, highlight stuff on kindle. Knowledge is about making connections. Purposeful note-taking can help you to ladder up to your thinking when you are writing.
+Is on my list to write a post about my process of writing these weeknotes. I have been postponing this for long as I’ve been busy. But one thing I want to share is how important it is to take notes. Capture your thinking in small nuggets. When you read, highlight stuff on kindle. Knowledge is about making connections. Purposeful note-taking can help you a lot in your writing routine.
 
 My selected weeknote of the week is by [Leanne Griffin](https://medium.com/@leanne.m.griffin/weeknotes-1-5-june-6ea9ea418dae). She is a service designer working at Citizens Advice. She wrote about storytelling, service design and good conversations.
 
@@ -25,9 +25,11 @@ Writing this reminded me about Shalom Thomas and Jeff Collins. They were my form
 
  
 ### A big smile and great questions
-Julia Whitney is an amazing design leader I’ve met at Leading Design 2018. I  recommend her talk at LX 2017, [The Human Blueprint](https://vimeo.com/215141773) so you can understand about her work. Great insights about change and psychological safety. After meeting her at Leading Design, I had the opportunity to attend two sessions with her at Babylon and we sometimes talk. 
+Julia Whitney is a design leader I’ve met at Leading Design 2018. I  recommend her talk at LX 2017, [The Human Blueprint](https://vimeo.com/215141773) to understand  her work. You will have great insights about organisational change and psychological safety.
 
-I had the opportunity to catch up with her this week, and it was such a great conversation. I am a big fan of Julia’s communication style and sagacity. One topic that I am reflecting now after our conversation: how hard it is for me to let go of my previous skills that aren’t quite needed in my current job. I will be talking more about this in a few weeks in the DesignOps Virtual Meet-up if the Impostor Syndrome allows me.
+After meeting her at Leading Design, I had the opportunity to attend a few sessions with her at Babylon. We talk eventually and I follow her work closely. 
+
+I had the opportunity to catch up with her this week. I am a big fan of Julia’s communication style and sagacity. One topic that I am reflecting now after our conversation: how hard it is for me to let go of my previous skills that aren’t quite needed in my current job. I will be talking more about this in a few weeks in the [DesignOps Virtual Meet-up](https://www.eventbrite.co.uk/e/designops-virtual-meet-up-with-bt-capital-one-tickets-108683798166) if I beat my Impostor Syndrome.
 
 ### BIPOC
 
@@ -41,7 +43,7 @@ Learning about racism is being an interesting journey for me. The article [What 
 
 This week Fred Warburton presented his accessibility work in the Manchester a11y meet-up. He will write a post about this so I will not gonna share anything about it to avoid a spoiler.
 
-There was a bunch of other great speakers. The one I learned most was Rachel Morgan-Trimmer. She spoke about things you can do to make your [information accessible for a neurodiverse audience](https://sparkleclass.com/2020/07/03/10-stupidly-easy-things-you-can-do-to-be-accessible/).
+There was a bunch of other great speakers. The one I learned most was Rachel Morgan-Trimmer. She spoke about things you can do to make your information [accessible for a neurodiverse audience](https://sparkleclass.com/2020/07/03/10-stupidly-easy-things-you-can-do-to-be-accessible/).
 
 ## Things that bring me joy
 
@@ -51,7 +53,7 @@ Great Friday night with Leili. We watched a funny video, where a psychologist an
 
 ### Brazilian cheese
 
-We got this huge delivery yesterday, a cheese box from Ireland. It’s a Brazilian guy living in Dublin, who managed to replicate the taste of the cheese from my home town. I’ve spent some time this morning grating the mature cheese. Leili will be working her magic. I can’t wait to eat Pão de Queijo with a Brazilian friend who is visiting us this morning.
+We got this huge delivery yesterday, a cheese box from Ireland. It’s a Brazilian guy living in Dublin, who managed to replicate the taste of the cheese from my home town. I’ve spent some time this morning grating the mature cheese. Leili will be working her magic preparing Pão de Queijo. Life is good. 
 
 ### Healthcheck
 
