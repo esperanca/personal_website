@@ -11,22 +11,22 @@ My selected weeknote of the week is by [Leanne Griffin](https://medium.com/@lean
 
 ## Good things
 
-### Inspiring 1:1
+### Inspiring One on Ones
 
-In my previous job I learned a lot about 1:1s. Shalom Thomas and Jeff Collins, my former people managers at Sapient, were masters of purposeful and useful meetings. Is something I enjoy a lot and every week I have the privilege of meeting people that I admire.  
+In my previous role we had a solid Learning and Development practice, and the Sapient-Lloyds team leadership was amazing in providing training. I learned a lot about One on Ones there. Shalom Thomas and Jeff Collins, my former people managers at Sapient, were masters of purposeful and useful One on Ones. Is something I enjoy a lot to learn about it, as I think they have a great impact on my career. 
 
-What I try to do all the time is to make myself available in a consistent way. There is no secret sauce: 1–1’s every week with the right attention and intention. Being a good listener and helping to spot patterns. Making my best to support what they want to do: agency is key. I rarely try to influence in any manner, but I ask lots of questions. Many times I have to say: “But we are talking about work again, let’s go back to you”.
+Every week I have the privilege of meeting people that I admire. What I try to do all the time is to make myself available in a consistent way. There is no secret sauce: One on Ones every week, 30 minutes, with the right attention and intention. I try to be a a good listener and help to spot patterns. I make my best to support what they want to do: agency is key. I rarely try to influence in any manner, but I ask lots of questions. Many times I have to say: “But we are talking too much about work again, let’s go back to you”.
 
-I am usually surprised by the progress they are making every week. The creative ways they find to thrive. The resilience to navigate a complex organisation in and unpredictable world.
+I am surprised by the progress they are making every week. The creative ways they find to thrive. The resilience to navigate a complex organisation in and unpredictable world. I feel is a privilege to get to know them better and observe their journey. 
 
 
 ## Learned things
 
  
 ### A big smile and great questions
-Julia Whitney is a design leader I’ve met at Leading Design 2018. I  recommend her talk at LX 2017, [The Human Blueprint](https://vimeo.com/215141773) to understand  her work. You will have great insights about organisational change and psychological safety.
+Julia Whitney is a design leader I’ve met at Leading Design 2018. To understand her work, I  recommend this talk at LX 2017, [The Human Blueprint](https://vimeo.com/215141773). You will have great insights about organisational change and psychological safety.
 
-After meeting her at Leading Design, I had the opportunity to attend a few sessions with her at Babylon. We talk eventually and I follow her work closely. 
+After meeting her at Leading Design, I had the opportunity to attend a few sessions with her at Babylon. After this, we talk infrequently and I follow her work closely. 
 
 I had the opportunity to catch up with her this week. I am a big fan of Julia’s communication style and sagacity. One topic that I am reflecting now after our conversation: how hard it is for me to let go of my previous skills that aren’t quite needed in my current job. I will be talking more about this in a few weeks in the [DesignOps Virtual Meet-up](https://www.eventbrite.co.uk/e/designops-virtual-meet-up-with-bt-capital-one-tickets-108683798166) if I beat my Impostor Syndrome.
 
@@ -36,7 +36,7 @@ A few weeks ago, I was sharing with you folks about my origins and the history o
 
 > It’s important to remember that a lot of people others assume are “white” are in fact Indigenous, Arab, Persian, Turkish, Latinx, etc. Their identities are complicated, experiencing both the advantages of being assumed white and the prejudice against their communities, often being told they’re not “enough” of or “really” either
 
-Learning about racism is being an interesting journey for me. The article [What is Racism](https://anygoodthing.com/2020/06/14/what-is-racism/) by Rebecca Barret-Fox is a joy to read and a good starting point. 
+The article [What is Racism](https://anygoodthing.com/2020/06/14/what-is-racism/) by Rebecca Barret-Fox is a joy to read and a good starting point if you are interested to learn about racism. 
 
 ### Accessibility and neurodiversity
 
@@ -50,7 +50,7 @@ The panel was quite good. All presenters answering questions from the audience. 
 
 ### Nonsense YouTube videos and personality tests
 
-Great Friday night with Leili. We watched a funny video, where a psychologist and a quantum coach debate their practices. After that, we compared our [DISC profiles](https://www.123test.com/disc-personality-test/) and talked about dominance and compliance. With gin, of course.
+Great Friday night with Leili. We watched a funny video, where a psychologist and a quantum coach debate their practices. After that, we compared our [DISC profiles](https://www.123test.com/disc-personality-test/) and talked about dominance and compliance. With gin, of course. A curious fact: DISC personality tests were invented by the same couple who created the Wonder Woman and the techniques used today in lie detectors. 
 
 ### Brazilian cheese
 
