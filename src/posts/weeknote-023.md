@@ -13,7 +13,7 @@ My selected weeknote of the week is by [Leanne Griffin](https://medium.com/@lean
 
 ### Inspiring One on Ones
 
-In my previous role we had a solid Learning and Development practice, and the Sapient-Lloyds team leadership was amazing in providing training. I learned a lot about One on Ones there. Shalom Thomas and Jeff Collins, my former people managers at Sapient, were masters of purposeful and useful One on Ones. Is something I enjoy a lot to learn about it, as I think they have a great impact on my career. 
+In my previous role we had a solid Learning and Development practice, and the Sapient-Lloyds team leadership was great providing training - we had virtually unlimited training budget and that team was considered a standard in the company . I learned a lot about One on Ones there. Shalom Thomas and Jeff Collins, my former people managers at Sapient, were masters of purposeful and useful One on Ones. Is something I enjoy a lot to learn about it, as I think they have a great impact on my career. 
 
 Every week I have the privilege of meeting people that I admire. What I try to do all the time is to make myself available in a consistent way. There is no secret sauce: One on Ones every week, 30 minutes, with the right attention and intention. I try to be a a good listener and help to spot patterns. I make my best to support what they want to do: agency is key. I rarely try to influence in any manner, but I ask lots of questions. Many times I have to say: “But we are talking too much about work again, let’s go back to you”.
 
