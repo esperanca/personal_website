@@ -25,7 +25,7 @@ Another highlight of the week was a conversation about design principles. There 
 
 We talked about how principles can lose their meaning. If we only focus on the conditions needed for good design to happen, they will suck. An example is the obvious "Start with user needs". The capacity to enable better decisions is pivotal. I had the same conversation before with Ben Sauer. We were organising the team offsite last year, and he shared a litmus test for this.
 
-Principles are contextual to organisation design maturity and product-market fit stage. As there is a lot of change in the business, I am curious to see how this work will unfold.
+Principles are contextual to organisation design maturity and product-market fit stage. As there is a lot of change in the business, I am curious to see how this work will unfold. The wizard Daniel Harvey is leading on this, so we are on a good path. 
 
 ## Learned things
 
