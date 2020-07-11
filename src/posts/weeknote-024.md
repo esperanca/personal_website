@@ -22,7 +22,7 @@ Linsey and Kevin Telfer drafted a Content Strategy specific for a11y content. Th
 I can’t forget how many small acts enabled this. The expression “Building on the shoulders of giants” always comes to my mind. The fantastic work that Fred and the Tetralogical team started will continue now with a new format in DNA. Onward.
 
 ### Facilitation Lab #002
-Had a cozy and relaxed session about ice-breakers with Linsey and Reshma - brilliant content designers at Babylon. I think they liked it! It was an opportunity for me to reflect on different types of ice-breakers and how to translate some of the techniques for this screen-based world. 
+Had the opportunity to run another facilitation method experiment. This time we talked about ice-breakers. It was an opportunity for me to reflect on different types of ice-breakers and how to translate some of the techniques for this screen-based world.  
 
 ### Design Principles
 
