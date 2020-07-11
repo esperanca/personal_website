@@ -4,6 +4,8 @@ title: Weeknote 023
 date: 2020-07-04T09:08:51.115Z
 tags:
   - babylonhealth
+  - accessibility
+  - brazil
 ---
 Is on my list to write a post about my process of writing these weeknotes. I have been postponing this for long as I’ve been busy. But one thing I want to share is how important it is to take notes. Capture your thinking in small nuggets. When you read, highlight stuff on kindle. Knowledge is about making connections. Purposeful note-taking can help you a lot in your writing routine.
 

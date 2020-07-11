@@ -4,6 +4,8 @@ title: Weeknote 024
 date: 2020-07-11T08:39:25.166Z
 tags:
   - babylonhealth
+  - facilitation
+  - design
 ---
 A busy, busy week and I still have some work to do. I will be travelling with Leili next week to rest. I plan to stay offline as much as I can.
 
