@@ -15,12 +15,12 @@ My blog post of the week is [The Post Corona World](https://www.horx.com/en/48-t
 
 This week we closed the sprint with a release on Thursday. I was proud of the team and the work—lots of small improvements and two significant changes. We now have our accessibility guidelines and a search feature.
 
-Linsey and Kevin Telfer drafted a Content Strategy specific for a11y content. I am excited about this. It will help hundreds of hard work developers.
+Linsey and Kevin Telfer drafted a Content Strategy specific for a11y content. This release is our phase one. I am excited about this. Creating documentation to support developers is always a challenge. Plain language for guidelines is something we have been talking a lot.
 
 I can’t forget how many small acts enabled this. The expression “Building on the shoulders of giants” always comes to my mind. The fantastic work that Fred and the Tetralogical team started will continue now with a new format in DNA. Onward.
 
 ### Facilitation Lab #002
-Had a cozy and relaxed session about ice-breakers with Linsey and Reshma - brilliant content designers at Babylon. I think they liked! It was an opportunity for me to reflect about different types of ice-breakers and how to translate some of the techniques for this screen based world. 
+Had a cozy and relaxed session about ice-breakers with Linsey and Reshma - brilliant content designers at Babylon. I think they liked it! It was an opportunity for me to reflect on different types of ice-breakers and how to translate some of the techniques for this screen-based world. 
 
 ### Design Principles
 
