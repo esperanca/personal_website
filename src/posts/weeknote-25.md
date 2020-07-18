@@ -27,11 +27,11 @@ Maidstone is a town with about 110.000 people and a busy city centre. It might n
 
 ### Ancho and Choripan
 
-A great moment of the trip was obviously about food. We had dinner at Buenos Aires Nights, an Argentinean steakhouse. I confess we were freaking out in the beginning to be in an indoor place without masks. But over time, we relaxed, and the meal was terrific. For starter, we ordered some sausage and bread and improvised our own choripan. For the main, we had Ancho, and it was amazing.
+We had dinner at Buenos Aires Nights, an Argentinean steakhouse, twice. I confess we were freaking out in the beginning to be in an indoor place without masks. But over time, we relaxed, as we observed how careful the team was. For starters, we ordered some sausage and bread and improvised our own choripan. For the mains, we had Ancho. The meat was cooked to perfection, probably one of the best I had in the UK. 
 
 ### Healthcheck
 
-Finally got my prescriptions from the GP without friction. A bit more of exercise, as we walked a lot.
+Health is under control. Finally got my prescriptions from the GP without friction, but it required a consultation. This week I did some exercise and we walked a lot.
 
 Weight: 98.1 kg\
 Food: Homemade pasta was the highlight of the week.\
