@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Weeknote 25
+title: Weeknote 025
 date: 2020-07-18T09:47:16.152Z
 tags:
   - maidstone
