@@ -16,22 +16,20 @@ This week's favourite blog is about [threaded thinking](https://www.mentalnodes.
 I like to plan everything. I am that type of person that spend days thinking about all details on a trip. But I was so busy that this time this wasn't possible. We decided to go for a random trip, to escape a bit from our flat and enjoy some outdoors. All went well, and I am feeling rested. It was also a nice way to celebrate Leiliane's birthday. The criteria we used to decide where to go:
 
 1. no airplane travel required
-2. the place should have way less COVID cases than London
+2. the place should have way less COVID cases than London and no crowds
 3. availability of Pinterest-like Airbnb places with obsessive cleaning
 
 ### Glorious Maidstone
 
 ![Flowers and Bees ](/images/flowers_leeds_castle.jpg "Flowers and Bees ")
 
-\
-\
 Maidstone is a town with about 110.000 people and a busy city centre. It might not be a place people consider for holidays, but actually, it was pretty nice. We could walk to some beautiful landmarks, and the streets were virtually desert. Sailing River Medway was quite cool. We spent an afternoon visiting Leeds Castle. The gardens there are amazing. Birds, bees, swans, ducks, and beautiful flowers everywhere.
 
 ### Ancho and Choripan
 
 A great moment of the trip was obviously about food. We had dinner at Buenos Aires Nights, an Argentinean steakhouse. I confess we were freaking out in the beginning to be in an indoor place without masks. But over time, we relaxed, and the meal was terrific. For starter, we ordered some sausage and bread and improvised our own choripan. For the main, we had Ancho, and it was amazing.
 
-### Health check
+### Healthcheck
 
 Finally got my prescriptions from the GP without friction. A bit more of exercise, as we walked a lot.
 
