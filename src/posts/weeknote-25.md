@@ -35,12 +35,9 @@ A great moment of the trip was obviously about food. We had dinner at Buenos Air
 
 Finally got my prescriptions from the GP without friction. A bit more of exercise, as we walked a lot.
 
-Weight: 98.1 kg
-
-Food: Homemade pasta was the highlight of the week.
-
-Drinks: Beers, wine, gin - this week my liver was working hard
-
+Weight: 98.1 kg\
+Food: Homemade pasta was the highlight of the week.\
+Drinks: Beers, wine, gin - this week my liver was working hard\
 Smoking: 7 Juul pods
 
 > Excellence is the best deterrent to racism or sexism. - Oprah
