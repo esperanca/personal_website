@@ -59,7 +59,7 @@ He will teach me CSS again. We are redesigning Leili’s website to improve acce
 
 With the impossibility of travelling as we always do, we are making the effort of being comfortable in our lockdown. Leili pampers me so much. This week we tried new pillows, she bought special grapes for me and cooked my favourite pork steak—all of this while writing her book and shooting amazing photos.
 
-![]()
+![Berry Galette - scene with, strawberries and blackberries. Sugar sprinkled in a wooden table](/images/galette_berries.png "Berry Galette - Photo by Leiliane Valadares @secretflavours")
 
 ### Using the force
 
