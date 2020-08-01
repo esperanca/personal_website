@@ -15,7 +15,7 @@ My recommended blog post this week is by Indi Young, who doesn’t need introduc
 
 One of the things I enjoy most working at Babylon is the people. It’s a bunch o very talented ones, and the scope of different skills and knowledge is impressive. This week something also caught my attention: how empathetic and compassionate they are.
 
-After an hour of a very dense user research session, I had to stop watching. The participant was an alternate timeline version of my deceased grandma. She was battling a chronic condition that I have as well. It was triggering me, and it took me some time to understand that. I have been doing design research for more than a decade for now, but research in healthcare is tricky. 
+After an hour of a very dense user research session, I had to stop watching. The participant was an alternate timeline version of my deceased grandma. She was battling a chronic condition that I have as well. It was triggering me, and it took me some time to understand that. I have been doing design research for more than a decade for now, but research in healthcare is new for me. 
 
 As soon as the session finished, two lovely colleagues reached out. Dan Harvey and Emma Boulton, slacked me almost at the same time, to check-in. I am grateful for the kind humans I have the privilege to work with: they are not only smart but caring.
 
@@ -25,15 +25,15 @@ We are on our way to having a robust version of our design principles. The work 
 
 This week we had a workshop with the entire team, to present a first draft of the themes. Kudos to Michael Delange, who led a significant part of this work and the team for the great contributions.
 
-I had the opportunity to work with the team to develop the criteria we used to test design principles. I was so happy to see that we landed in a fantastic set of rules. I am planning to write a blog post soon.
+I had the opportunity to work with the team to develop the criteria we used to test design principles. I was so happy to see that we landed in a fantastic set of hygiene rules and tests. I am planning to write a blog post about this soonish.
 
-A coincidence is that right after the workshop, I got a message from Ben Brignell. He is writing a book about design principles and curates [a website with a great list](https://principles.design/).
+Right after the workshop, I got a message from Ben Brignell. He is writing a book about design principles and curates [a website with a great list](https://principles.design/). I have been exchanging ideas with him and asking infinite questions for months. 
 
 He shared with me an excellent example of how to test if a principle is memorable. He is writing a blog post about this topic, so I will not spoil the surprise.
 
 ### Advanced Markdown with Elliot
 
-Our developer, Elliot, is leaving next week. Of course, we could not be happy with simple handover notes. Elliot suggested to teach us advanced markdown tricks. It will allow non-developers to publish any documentation in our design system. Learning something complex was fun and rewarding, and just spending time learning things with Lindsey and Fred Warbz was great.
+Our developer, Elliot, is leaving next week. Of course, we could not be happy with simple handover notes. Elliot suggested to teach us advanced markdown tricks. It will allow non-developers to publish any documentation in our design system. Learning something complex was fun and rewarding, and just spending time with Lindsey and Fred Warbz was great.
 
 ## Learned things
 
@@ -47,7 +47,7 @@ Many others helped me with this, but Helena’s approach was pivotal. Get a ther
 
 ### Unstructured peer mentoring
 
-In Brasília, about five years ago, I met three brothers who work creating things for the web. Estevão Lucas and Angelo Lucas are developers, and Rafael Lucas, a designer. We worked together in a few projects in different agencies, and we became friends.
+In Brasília, about five years ago, I met three brothers who work creating things for the web. Estevão Lucas, Angelo Lucas and Rafael Lucas. We worked together in a few projects in different agencies, and we became friends.
 
 Recently, I tried to hire Rafael to the Design System role available in my team. He was not interested in relocating to the UK, but the conversation was great. We decided to trial a peer mentoring experiment.
 
@@ -58,6 +58,8 @@ He will teach me CSS again. We are redesigning Leili’s website to improve acce
 ### Quarantine love
 
 With the impossibility of travelling as we always do, we are making the effort of being comfortable in our lockdown. Leili pampers me so much. This week we tried new pillows, she bought special grapes for me and cooked my favourite pork steak—all of this while writing her book and shooting amazing photos.
+
+![Berry Galette - scene with, strawberries and blackberries. Sugar sprinkled in a wooden table](/images/galette_berries.png "Berry Galette - Photo by Leiliane Valadares @secretflavours")
 
 ### Using the force
 
@@ -72,9 +74,5 @@ Food: Great week, with my favourite salad and home-cooked rice.
 Drinks: One Caipirinha
 Smoking: 8 juul pods.
 
->When people realize they’re being listened to, they tell you things. 
-Richard Ford
-
-
-
-##
+> When people realize they’re being listened to, they tell you things. 
+> Richard Ford
