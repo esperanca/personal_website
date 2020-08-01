@@ -52,7 +52,7 @@ Many others helped me with this, but Helena’s approach was pivotal. Get a ther
 
 In Brasília, about five years ago, I met three brothers who work creating things for the web. Estevão Lucas, Angelo Lucas and Rafael Lucas. We worked together in a few projects in different agencies, and we became friends.
 
-Recently, I tried to hire Ângelo to join the Design System team, but he was not interested in relocating to the UK. Our conversation was great, and we decided to keep meeting every week and try a peer mentoring scheme.
+Recently, I tried to hire [Ângelo](https://angelolucas.github.io) to join the Design System team, but he was not interested in relocating to the UK. Our conversation was great, and we decided to keep meeting every week and try a peer mentoring scheme.
 
 He will teach me CSS again. We are redesigning Leili’s website to improve accessibility and performance. And I am keen to design proper responsive breakpoints. In exchange, I will help him with design, accessibility, and business English.
 
