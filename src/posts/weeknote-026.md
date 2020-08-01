@@ -5,11 +5,9 @@ date: 2020-08-01T08:08:11.444Z
 tags:
   - vr
 ---
-After 25 weeks, I skipped writing my weeknotes for the first time. I had to write a lot of things about Design Operations and Strategy for a presentation. Much of it, I didn’t used in the final presentation. I was feeling exhausted. Skipping was the right thing to do: it allowed me some good reflection time. The post about the conference is on my backlog, but the slides are available.
+After 25 weeks, I skipped writing my weeknotes for the first time. I had to write a lot of things about Design Operations and Strategy for a presentation. Much of it, I didn’t used in the final presentation. I was feeling exhausted. Skipping was the right thing to do: it allowed me some good reflection time. The post about the conference is on my backlog. 
 
-My recommended blog post this week is by Indi Young, who doesn’t need introductions. In the post [Compassion is a type of empathy](https://indiyoung.com/compassion-is-a-type-of-empathy/) she introduces types of empathy and how it relates with compassion.
-
-
+My recommended blog post this week is by Indi Young, who doesn’t need introductions. In the post [Compassion is a type of empathy](https://indiyoung.com/compassion-is-a-type-of-empathy/) she introduces types of empathy and how it relates to compassion.
 
 ## Good things
 
@@ -17,7 +15,7 @@ My recommended blog post this week is by Indi Young, who doesn’t need introduc
 
 One of the things I enjoy most working at Babylon is the people. It’s a bunch o very talented ones, and the scope of different skills and knowledge is impressive. This week something also caught my attention: how empathetic and compassionate they are.
 
-After an hour of a very dense user research session, I had to stop watching. The participant was an alternate timeline version of my deceased grandma. She was battling a chronic condition that I have as well. It was triggering me, and it took me some time to understand that. I have been doing design research for more than a decade for now, but research in healthcare is
+After an hour of a very dense user research session, I had to stop watching. The participant was an alternate timeline version of my deceased grandma. She was battling a chronic condition that I have as well. It was triggering me, and it took me some time to understand that. I have been doing design research for more than a decade for now, but research in healthcare is tricky. 
 
 As soon as the session finished, two lovely colleagues reached out. Dan Harvey and Emma Boulton, slacked me almost at the same time, to check-in. I am grateful for the kind humans I have the privilege to work with: they are not only smart but caring.
 
@@ -74,7 +72,7 @@ Food: Great week, with my favourite salad and home-cooked rice.
 Drinks: One Caipirinha
 Smoking: 8 juul pods.
 
->“When people realize they’re being listened to, they tell you things.” 
+>When people realize they’re being listened to, they tell you things. 
 Richard Ford
 
 
