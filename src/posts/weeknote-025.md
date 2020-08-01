@@ -1,9 +1,11 @@
 ---
 layout: layouts/post.njk
-title: Weeknote 025
+title: Weeknote #025
 date: 2020-07-18T09:47:16.152Z
 tags:
   - maidstone
+  - holidays
+  - food
 ---
 I was overthinking again about writing or not while on holidays. However, I have spent an entire week without using my computer. Since I was only consuming content, I felt the need of writing a bit this Saturday. It is also a good warm-up for tomorrow - I need to write my presentation for the Design Ops London Meet-up.
 
