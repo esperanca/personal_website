@@ -25,9 +25,9 @@ We are on our way to having a robust version of our design principles. The work 
 
 This week we had a workshop with the entire team, to present a first draft of the themes. Kudos to Michael Delange, who led a significant part of this work and the team for the great contributions.
 
-I had the opportunity to work with the team to develop the criteria we used to test design principles. I was so happy to see that we landed in a fantastic set of rules. I am planning to write a blog post soon.
+I had the opportunity to work with the team to develop the criteria we used to test design principles. I was so happy to see that we landed in a fantastic set of hygiene rules and tests. I am planning to write a blog post about this soonish.
 
-Right after the workshop, I got a message from Ben Brignell. He is writing a book about design principles and curates [a website with a great list](https://principles.design/). I have been exchanging ideas with him and asking infinite questions for long. 
+Right after the workshop, I got a message from Ben Brignell. He is writing a book about design principles and curates [a website with a great list](https://principles.design/). I have been exchanging ideas with him and asking infinite questions for months. 
 
 He shared with me an excellent example of how to test if a principle is memorable. He is writing a blog post about this topic, so I will not spoil the surprise.
 
