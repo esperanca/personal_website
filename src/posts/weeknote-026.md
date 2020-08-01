@@ -50,11 +50,11 @@ Many others helped me with this, but Helena’s approach was pivotal. Get a ther
 
 ### Unstructured peer mentoring
 
-In Brasília, about five years ago, I met three brothers who work creating things for the web. Estevão Lucas, Angelo Lucas and Rafael Lucas. We worked together in a few projects in different agencies, and we became friends.
+In Brasília, about five 13 years ago while working at AgênciaClick (later renamed to Isobar), I met three brothers who work creating things for the web. Estevão Lucas, Angelo Lucas and Rafael Lucas. We worked together in a few projects and agencies, and we became great friends. I use to joke saying that they are a full service agency as Estevão is a very senior engineer, Rafael is a talented designer and Angêlo is an excellent front-end developer.  
 
 Recently, I tried to hire [Ângelo](https://angelolucas.github.io) to join the Design System team, but he was not interested in relocating to the UK. Our conversation was great, and we decided to keep meeting every week and try a peer mentoring scheme.
 
-He will teach me CSS again. We are redesigning Leili’s website to improve accessibility and performance. And I am keen to design proper responsive breakpoints. In exchange, I will help him with design, accessibility, and business English.
+He will teach me CSS again. We are redesigning Leili’s website. This website was designed a long time ago by Rafael and was coded by Lucas. And I am keen to learn how design proper responsive breakpoints  and to improve accessibility and performance. In exchange, I will help him with design, accessibility, and business English.
 
 ## Things that bring me joy
 
