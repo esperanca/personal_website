@@ -1,12 +1,13 @@
 ---
 layout: layouts/post.njk
-title: Weeknote 026
+title: Weeknote #026
 date: 2020-08-01T08:08:11.444Z
 tags:
   - vr
   - babylonhealth
   - principles
   - markdown
+  - weeknotes
 ---
 After 25 weeks, I skipped writing my weeknotes for the first time. I had to write a lot of things about Design Operations and Strategy for a presentation. Much of it, I didn’t used in the final presentation. I was feeling exhausted. Skipping was the right thing to do: it allowed me some good reflection time. The post about the conference is on my backlog. 
 
