@@ -4,6 +4,7 @@ title: Weeknote 020
 date: 2020-06-13T10:54:25.280Z
 tags:
   - babylonhealth
+  - designsystem
 ---
 For the first time in weeks, I started to write this essay on Friday. Publishing online is changing the dynamics of my writing routine. I am editing more, and tweaking things constantly. I haven't found yet an efficient routine but I am enjoying the learning. But editing is addictive, I have to say. I am also fixing css and accessibility bugs and improving things slowly.   
 
