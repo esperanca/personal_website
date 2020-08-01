@@ -4,6 +4,8 @@ title: Weeknote 022
 date: 2020-06-27T11:47:09.717Z
 tags:
   - babylonhealth
+  - designsystem
+  - retrospective
 ---
 Intense but rewarding week. I am tired, so I wrote these notes in automatic mode. Jotting down things that are on top of my mind and publishing without overthinking. 
 
