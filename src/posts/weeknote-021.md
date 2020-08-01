@@ -5,13 +5,11 @@ date: 2020-06-20T08:58:28.010Z
 tags:
   - babylonhealth
   - brazil
-  - dna
+  - designsystem
   - a11y
   - designoperations
 ---
 It was a short and sweet writing practice this week. It took me an hour and a half. It’s becoming easier with time, but I had a lot to process. The thoughts weren’t clear in my head enough to write it down. But sharing imperfect ideas is the challenge I want to learn with. Editing happens frequently, of course. 
-
-
 
 ## Good things
 
