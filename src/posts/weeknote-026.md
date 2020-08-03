@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Weeknote #026
+title: Weeknote ' #026 '
 date: 2020-08-01T08:08:11.444Z
 tags:
   - vr
