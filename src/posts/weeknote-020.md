@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Weeknote #020
+title: 'Weeknote #020'
 date: 2020-06-13T10:54:25.280Z
 tags:
   - babylonhealth
