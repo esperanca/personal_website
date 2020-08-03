@@ -7,7 +7,7 @@ tags:
   - design
   - designops
 ---
-Typing this weekly #weeknotes is a reflection exercise every time. The [classic Ira Glass text about having the taste but not the talent](https://vimeo.com/85040589) resonates a lot with me as well. As any UX person, I do care a lot about my small and infrequent audience. But since I am trying to write effectively, my editor’s opinion is more important. When you have the reassurance that you will learn something new the effort pays-off. The conversations and guidance from your editor are great rewards. My dear editor and writing coach is gone, so forgive me about the quality. And please [let me know](mailto:danieliscoding@gmail.com) if anything sounds silly or incorrect.  \
+Typing this weekly #weeknotes is a reflection exercise every time. The [classic Ira Glass text about having the taste but not the talent](https://vimeo.com/85040589) resonates a lot with me as well. As any UX person, I do care a lot about my small and infrequent audience. But since I am trying to write effectively, my editor’s opinion is more important. When you have the reassurance that you will learn something new the effort pays-off. The conversations and guidance from your editor are great rewards. My dear editor and writing coach is gone, so forgive me about the quality. And please [let me know](mailto:danieliscoding@gmail.com) if anything sounds silly or incorrect. 
 
 On a positive note, I had a moment of joy reading something unedited things that I wrote 10 weeks ago. It is nice when you past self sends you that bit of insight. It renewed my energy to keep doing this. 
 
