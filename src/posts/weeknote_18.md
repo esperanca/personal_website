@@ -1,5 +1,5 @@
 ---
-title: Weeknote #018
+title: Weeknote #018"
 date: 2020-05-30T00:00:00.000Z
 tags:
   - weeknote
