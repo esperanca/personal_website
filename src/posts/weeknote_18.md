@@ -1,5 +1,5 @@
 ---
-title: Weeknote #018"
+title: "Weeknote #018"
 date: 2020-05-30T00:00:00.000Z
 tags:
   - weeknote
@@ -7,8 +7,8 @@ tags:
   - design
   - designops
 ---
-Typing this weekly #weeknotes is a reflection exercise every time. The [classic Ira Glass text about having the taste but not the talent](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwieh8uZpdvpAhVDilwKHSRqCegQwqsBMAB6BAgKEAQ&url=https%3A%2F%2Fvimeo.com%2F85040589&usg=AOvVaw1k4gsmTTHuoVgg01IaKOVv) resonates a lot with me as well. As any UX person, I do care a lot about my small and infrequent audience. But since I am trying to write effectively, my editor’s opinion is more important. When you have the reassurance that you will learn something new the effort pays-off. The conversations and guidance from your editor are great rewards. My dear editor and writing coach is gone, so forgive me about the quality. And please [let me know](mailto:danieliscoding@gmail.com) if anything sounds silly or incorrect.  \
-  \
+Typing this weekly #weeknotes is a reflection exercise every time. The [classic Ira Glass text about having the taste but not the talent](https://vimeo.com/85040589)resonates a lot with me as well. As any UX person, I do care a lot about my small and infrequent audience. But since I am trying to write effectively, my editor’s opinion is more important. When you have the reassurance that you will learn something new the effort pays-off. The conversations and guidance from your editor are great rewards. My dear editor and writing coach is gone, so forgive me about the quality. And please [let me know](mailto:danieliscoding@gmail.com) if anything sounds silly or incorrect.  \
+
 On a positive note, I had a moment of joy reading something unedited things that I wrote 10 weeks ago. It is nice when you past self sends you that bit of insight. It renewed my energy to keep doing this. 
 
 My random #weeknote of the week is from [Eero](https://blog.nordkapp.fi/weeknote-669-put-your-right-foot-forward-fec27722ce60), a designer who works at @nordkapp. What I liked about his weeknote it is because it is full of design goodies. He shares the weekly highlights for each team member and cool design links. The one that got my attention was about [Fiskars](https://www.finnishdesignshop.com/Fiskars-m-157.html), a (real) product design that won the Red Dot awards. Hooray to Finnish design! Onward. 
@@ -60,6 +60,6 @@ The week before, I thought I was having COVID-19, but the fever is gone. I still
 **Drinks:** One beer \
 **Smoking:** 20 Juul pods.  
 
-> “Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”
+> “Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.” - Marie Curie
 
-Marie Curie
+
