@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 'Weeknote #021'
+title: "Weeknote #021"
 date: 2020-06-20T08:58:28.010Z
 tags:
   - babylonhealth
@@ -76,6 +76,6 @@ My immunity is a bit low, but I am sleeping well.
 **Drinks**: Two glasses of wine\
 **Smoking**: 10 Juul pods and 3 CBD
 
-> Ask what makes you come alive and go do it. Because what the world needs is people who have come alive. Howard Thurman
+> "Ask what makes you come alive and go do it. Because what the world needs is people who have come alive". Howard Thurman
 
 1. The psychological process caused by the removal from culture that put black slaves from Africa, transported to distant lands, into an initial state of arousal followed by impulses of rage and destruction and then a deep nostalgia that induced apathy, starving and, quite often, madness or death. Houaiss”
