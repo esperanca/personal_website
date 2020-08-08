@@ -17,7 +17,7 @@ An exciting challenge in regards to research operations appeared this week. Emma
 
 ## Sweet goodbye to lovely people
 
-Friday was Elliot’s last day with us. And Mingxi will be leaving next Wednesday. I’ve spent time with them to reflect on the work and how they felt about their contributions. I am grateful for their openness and sincere approach.
+Friday was Elliot’s last day with us. And Mingxi will be leaving next Wednesday. I’ve spent time with them to reflect on the work and how they felt about their contributions. I am grateful for their openness and sincerity. 
 
 # Learned things
 
@@ -38,7 +38,7 @@ Two critical aspects of Design Operations have the potential to create long-last
 1. Constant effort to make information open, accessible and clear;
 2. Purposefully build learning networks. Design best legacy is organisational memory, this goes way beyond shipping.   
 
-On a side note, Julian Stood's Socially Dynamic Organisation inspired me. After reading it, I suggested a warm-up in our weekly XD Leads meeting. We designed a network map with the Experience Design team. It was fun, and I learned so much. Put your network goggles on, you will find so much novelty and opportunities.
+On a side note, Julian Stood's Socially Dynamic Organisation inspired me. After reading it, I suggested a warm-up in our weekly XD Leads meeting. We designed a network map with the Experience Design team. Put your network goggles on, you will find so much novelty and opportunities.
 
 ![A chaotic network map](/images/networkmap.png "A chaotic network map")
 
