@@ -13,7 +13,7 @@ The blog post of this week is an old Lifehacker article. Something that Jane tol
 
 ## Operations lemonade
 
-An exciting challenge in regards to research operations appeared this week. Emma Boulton is enjoying holiday so I had the opportunity to work with Anja Maerz and Dr Rosie Webster in the case. What stood out was the bold approach by Anja and Rosie. They not only solved the issue with speed and rigour but created the relational space and knowledge to propose a long term change.
+An exciting challenge in regards to research operations appeared this week. Emma Boulton is enjoying holiday so I had the opportunity to work with Anja Maerz and Dr Rosie Webster in the case. What stood out was the bold approach by Anja and Rosie. They not only solved the issue with speed and rigour. They reflected deeply about the matter, and created the relational space and knowledge to propose a long term change. In ops, process change is the lemon. Shared understanding and envisioning a meaningful change in behaviours and values is the lemonade. 
 
 ## Sweet goodbye to lovely people
 
