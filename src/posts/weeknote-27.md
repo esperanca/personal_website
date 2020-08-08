@@ -29,7 +29,7 @@ He makes an interesting statement about the nature of Organisations. They are co
 
 The obvious conclusion I am making is that Information spaces can make or break the experiences and services we create. Peter Morville, in Intertwingled, talks about the choices and cognitive costs of dealing with new information.
 
->“Many people may not want information, and they will avoid using a system precisely because it gives them information. Having information is painful and troublesome. We have all experienced this. If you have information, you must first read it, which is not always easy. You must then try to understand it. Understanding the information may show that your work was wrong, or may show that your work was needless. Thus not having and not using information can often lead to less trouble and pain.”
+> “Many people may not want information, and they will avoid using a system precisely because it gives them information. Having information is painful and troublesome. We have all experienced this. If you have information, you must first read it, which is not always easy. You must then try to understand it. Understanding the information may show that your work was wrong, or may show that your work was needless. Thus not having and not using information can often lead to less trouble and pain.”
 
 Information is hard. Context switching and reframing can be painful. The Wardley maps fella might disagree, but there is no playbook or doctrine to tackle this. We are all overwhelmed with information.
 
@@ -39,6 +39,8 @@ Two critical aspects of Design Operations have the potential to create long-last
 2. Purposefully build learning networks. Design best legacy is organisational memory, this goes way beyond shipping.   
 
 On a side note, Julian Stood's Socially Dynamic Organisation inspired me. After reading it, I suggested a warm-up in our weekly XD Leads meeting. We designed a network map with the Experience Design team. It was fun, and I learned so much. Put your network goggles on, you will find so much novelty and opportunities.
+
+![A chaotic network map](/images/networkmap.png "A chaotic network map")
 
 # Things that bring me joy
 
