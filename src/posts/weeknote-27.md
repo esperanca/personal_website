@@ -4,6 +4,9 @@ title: "Weeknote #027"
 date: 2020-08-08T07:29:33.579Z
 tags:
   - babylonhealth
+  - movies
+  - ia
+  - designoperations
 ---
 So many thoughts and ideas to share, but I can’t be writing for hours. Too hot. One of the best outcomes of the weeknotes habit is in the editing process. Take smart notes, but be selective with what you publish.
 
@@ -59,7 +62,7 @@ I just bought my tickets and I can't wait to spend time with the IA nerds.
 This week we tried to get back to an old habit: green juices in the morning. Leili created this recipe that I try to replicate every day with little success. You need to mix one lemon, a bit of ginger, one carrot, half apple and kale. It doesn’t taste good, but it helps to reduce the sugar cravings.
 
 ### Weekend and movies 
-During the week we usually watch series. Fridays and Saturdays we watch movies. The highlight for this week is [Official Secrets](https://en.wikipedia.org/wiki/Official_Secrets_(film)). It's a drama based on Katharine Gun's real story. She was a British whistleblower who made a very brave move trying to expose some shady government tactics. In one scene, there was a zip-drive and I had that technology nostalgic feeling. Another good one we watched recently is Knives Out.  
+Fridays and Saturdays we watch movies. The highlight for this week is [Official Secrets](https://en.wikipedia.org/wiki/Official_Secrets_(film)). It's a drama based on Katharine Gun's real story. She was a British whistleblower who made a very brave move trying to expose some shady government tactics. In one scene, there was a zip-drive and I had that technology nostalgic feeling.
 
 ### Healthcheck
 
