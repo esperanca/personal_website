@@ -37,15 +37,10 @@ Consistency, Growth/innovation
 Trust and Autonomy
 
 "Bias for action" vs "Strive for excellence."
-
 Gut feeling and data
-
 Exploring and generating results
-
 Specificity and Versatility
-
 Depth and Breadth
-
 Scalability and reliability
 
 Someone commented in the thread that the question might be a reductionist approach to the complexity we have in Product. While I was reading Intertwingled, this part resonated a lot with me:
@@ -60,9 +55,9 @@ Anja Maerz asked me why I write every week. She opened a can of worms. For conte
 
 It is a learning journey for me, and I am always reading and practising. I've also found a lively community talking and learning about writing. David Perrel is someone I recently discovered. He shared this pearl on twitter recently:
 
-"You don't just write to share what you think. You write to discover what you think in the first place."
+>"You don't just write to share what you think. You write to discover what you think in the first place."
 
-The [structure I use for writing.](https://gist.github.com/esperanca/5b91a7c64d6a1660cee2631759f425b7) Publishing every week is the tactic to consolidate these discoveries over time. And it helps me to think better and reflect. With a note-taking method, this is my current strategy for [compounding knowledge.](https://fs.blog/2019/02/compounding-knowledge/)
+This is the [structure I use for writing.](https://gist.github.com/esperanca/5b91a7c64d6a1660cee2631759f425b7) Publishing every week is the tactic to consolidate these discoveries over time. And it helps me to think better and reflect. With a note-taking method, this is my current strategy for [compounding knowledge.](https://fs.blog/2019/02/compounding-knowledge/)
 
 ## Good things
 
@@ -85,13 +80,9 @@ Leili is also becoming a coffee connoisseur. Recently, she found single-origin c
 Besides the weather, I only had one migraine. I have to be more careful about diabetes management.
 
 Weight: 97.1 kg
-
 Blood sugar level: 10.1 mmol/L
-
 Food: a great amount of healthy food this week.
-
 Drinks: One Gin and Tonic
-
 Smoking: 10 Juul pods
 
 > "Mistakes are the portals of discovery." James Joyce 
