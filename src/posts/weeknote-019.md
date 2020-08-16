@@ -18,25 +18,25 @@ DNA team rocket my boat again this week. Despite the immense complexity of the w
 
 In related good news, our component library was updated this week, with no breaking changes in production. And in our design system weekly meet-up, we had significant progress with design tokens. Excellent attendance and contribution from designers and developers and fruitful and structured conversations. 
 
-### **ZoomVJ**
+### ZoomVJ
 
 Everyone is spending a lot of time in zoom meetings. I'm trying to make every meeting or workshop an opportunity for enjoyment. Is part of my learning journey on facilitation skills. My pillars are: enabling good conversations, practicing deep listening, creating structure and goal setting.I also think that facilitation role in inclusion and allowing space for authentic conversations is much needed. This week was positive, and I felt like I was doing a good job. I am also now measuring satisfaction on some of the ceremonies.
 
 Next week I will share with the team a short talk about practical workshops. I am glad it will be an opportunity to share what I have been learning.
 
-### **Unplanned 1–1 with Dr Hu**
+### Unplanned 1–1 with Dr Hu
 
 Sophy Hu is a young, talented British doctor. I have a deep respect for her work. Like me, she is a generalist. She writes, designs and she gets AI in healthcare like a handful of people in the UK. We had a long, joyful conversation about work and many other things. Sophy's sense of humour is incredible. I always learn something new about Babylon when talking with her - she is one of the first 100 Babylonians. We talked about productivity, how doctors take notes, strategy and the best cities in the UK for hipsters.
 
 ## Learned things
 
-### **Spotting the pattern**
+### Spotting the pattern
 
 The past few days have been very hard. Not only because of what is happening in the US, but also because of the scenario in my country. Just for context, a brazilian dies by Covid every minute and the government decided to stop updating the statistics. I caught myself worrying too much and crying sometimes. 
 
 The learning for me is that when I spot earlier my lousy brain trying to take over, It's easy to fight back. I am finding relief with therapy, meditation, exercises and talking with friends.  
 
-### **Place of Speech, Standpoint Theory and the Black leaders I follow**
+### Place of Speech, Standpoint Theory and the Black leaders I follow
 
 In Brazilian Portuguese, we have an expression: "Lugar de Fala". The meaning is weakly represented in the academic circles in Standpoint Theory. Short version is: 
 
@@ -60,7 +60,7 @@ I am confused. I don't know yet if there is a right/wrong way of engaging in thi
 
 ## Things that bring me joy
 
-### **Brazilian literature**
+### Brazilian literature
 
 I've found a piece of article news about [Machado de Assis](https://www.newyorker.com/magazine/2018/07/09/hes-one-of-brazils-greatest-writers-why-isnt-machado-de-assis-more-widely-read) and the successful launch of his book in the US. He is the most famous Brazilian writer. He was also the founder of the Brazilian Academy of Letters. That got me in a beautiful rabbit hole searching about his life. I found this paper about his [work, racial identity and racism](http://www.psupress.org/books/titles/978-0-271-05246-5.html).
 
@@ -74,13 +74,13 @@ Machado was so important and famous that he was not considered a black person by
 
 I had a great conversation about his books and Brazilian literature with Leili. We both read many of his books. It was a joy to remember classics like Dom Casmurro and Memórias Póstumas de Brás Cubas. 
 
-### **Getting to know about my origins**
+### Getting to know about my origins
 
 ![Bernardino - Picture of  a Brazilian, with a beautiful tie and nice moustache](/images/photo-2020-06-04-14-17-18.jpg "Bernardino")
 
 I messaged my father this week to understand a bit more about my blackness. My raw question: "What about our ancestors?". He shared a picture and the story of my great-grandfather, Bernardino. Bernardino was a son of freed slaves, who joined the army to fight against Lampião. I am now really excited to dig his story with my father.
 
-### **Healthcheck**
+### Healthcheck
 
 **Weight:** 97 kg \
 **Food:** 3 days of eating Deliveroo food. Some good bits. Too much sugar\
