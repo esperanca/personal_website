@@ -80,6 +80,7 @@ Weight: 97.1 kg\
 Blood sugar level: 10.1 mmol/L\
 Food: a great amount of healthy food this week.\
 Drinks: One Gin and Tonic\
-Smoking: 10 Juul pods\
+Smoking: 10 Juul pods
+
 
 > "Mistakes are the portals of discovery." James Joyce
