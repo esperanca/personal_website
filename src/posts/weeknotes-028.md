@@ -33,12 +33,12 @@ Marvellous answers from the community that you can read in the [original thread]
 
 Consistency, Growth/innovation\
 Trust and Autonomy\
-"Bias for action" vs "Strive for excellence."
-Gut feeling and data
-Exploring and generating results
-Specificity and Versatility
-Depth and Breadth
-Scalability and reliability
+"Bias for action" vs "Strive for excellence."\
+Gut feeling and data\
+Exploring and generating results\
+Specificity and Versatility\
+Depth and Breadth\
+Scalability and reliability\
 
 Someone commented in the thread that the question might be a reductionist approach to the complexity we have in Product. While I was reading Intertwingled, this part resonated a lot with me:
 
@@ -76,10 +76,10 @@ Leili is also becoming a coffee connoisseur. Recently, she found single-origin c
 
 Besides the weather, I only had one migraine. I have to be more careful about diabetes management.
 
-Weight: 97.1 kg
-Blood sugar level: 10.1 mmol/L
-Food: a great amount of healthy food this week.
-Drinks: One Gin and Tonic
-Smoking: 10 Juul pods
+Weight: 97.1 kg\
+Blood sugar level: 10.1 mmol/L\
+Food: a great amount of healthy food this week.\
+Drinks: One Gin and Tonic\
+Smoking: 10 Juul pods\
 
 > "Mistakes are the portals of discovery." James Joyce
