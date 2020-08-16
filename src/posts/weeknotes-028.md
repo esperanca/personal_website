@@ -7,8 +7,7 @@ tags:
   - agile
   - ia
 ---
-
-It was a week in tropical hell in London. People assume that because of my origins, I would prefer hot weather. It is the opposite: 22 degrees celsius is my limit. I was tired and unproductive.
+It was a week in hell in London. People assume that because of south american origins, I would prefer hot weather. It is the opposite: 22 degrees celsius is my limit. I was tired and unproductive.
 
 My selected post this week is [Holding on working less](https://medium.com/@HowieMeg/holding-on-to-working-less-e0a6a330fb60), by Meg Howie, who is a service designer. She talks about the differences in working for the government and a design agency, slow days, slack time in the system and building resilience.
 
@@ -16,7 +15,7 @@ My selected post this week is [Holding on working less](https://medium.com/@Howi
 
 ### Service design magic
 
-In the last two weeks, I am onboarding myself to a stream of work focused on designing new services. A lot of things to absorb and understand. But I'm glad I will be able to join a remarkable team and work in something new.
+In the last two weeks, I am onboarding myself to a stream of work focused on designing new services and propositions. A lot of things to absorb and understand. But I'm glad I will be able to join a remarkable team and work in something new.
 
 ### Catching up with Dr Hu
 
@@ -32,10 +31,8 @@ John Cutler, provocateur extraordinaire, asked in a tweet about the challenges o
 
 Marvellous answers from the community that you can read in the [original thread](https://twitter.com/johncutlefish/status/1291280062403100674). But I will cherry-pick a few, just to illustrate a point:
 
-Consistency, Growth/innovation
-
-Trust and Autonomy
-
+Consistency, Growth/innovation\
+Trust and Autonomy\
 "Bias for action" vs "Strive for excellence."
 Gut feeling and data
 Exploring and generating results
@@ -47,7 +44,7 @@ Someone commented in the thread that the question might be a reductionist approa
 
 > "We should take these lessons online to plan-build sites and systems because the binary opposition of agile-waterfall is just as much a myth. The Agile Manifesto backs "responding to change over following a plan" but makes a point of saying that both have value. Yet Agile is used often as a platform for proclaiming the wireframe is dead. Meaning shifts from intent to interpretation, and plans go out of the window. We all know death by documentation sucks, but to pivot and sprint into an Agile death spiral isn't a whole lot of fun either". Peter Morville
 
-I do have an opinion that Information Architects and Service Designers can help to reduce this ambiguity. They are equipped and trained to deal with abstraction in language and models, which is a rare skill.
+I do have an opinion that Information Architects and Service Designers can help to reduce this ambiguity. They are equipped and trained to deal with abstraction in language and models, which is a rare skill. 
 
 ### The reasons for writing
 
@@ -55,7 +52,7 @@ Anja Maerz asked me why I write every week. She opened a can of worms. For conte
 
 It is a learning journey for me, and I am always reading and practising. I've also found a lively community talking and learning about writing. David Perrel is someone I recently discovered. He shared this pearl on twitter recently:
 
->"You don't just write to share what you think. You write to discover what you think in the first place."
+> "You don't just write to share what you think. You write to discover what you think in the first place."
 
 This is the [structure I use for writing.](https://gist.github.com/esperanca/5b91a7c64d6a1660cee2631759f425b7) Publishing every week is the tactic to consolidate these discoveries over time. And it helps me to think better and reflect. With a note-taking method, this is my current strategy for [compounding knowledge.](https://fs.blog/2019/02/compounding-knowledge/)
 
@@ -65,7 +62,7 @@ This is the [structure I use for writing.](https://gist.github.com/esperanca/5b9
 
 This week I experimented calling people, in their regular phone numbers, like a boomer. I called my mom and dad, my work colleagues and friends.
 
-There is something fabulous about a phone call: since no one is looking to a screen, it feels like there is more connection, it flows better.
+There is something fabulous about a phone call: since no one is looking to a screen, it feels like there is more connection, it flows better. 
 
 ### Photography and drinks
 
@@ -85,4 +82,4 @@ Food: a great amount of healthy food this week.
 Drinks: One Gin and Tonic
 Smoking: 10 Juul pods
 
-> "Mistakes are the portals of discovery." James Joyce 
+> "Mistakes are the portals of discovery." James Joyce
