@@ -33,7 +33,7 @@ He works so hard that I am sure he hadn't shared in public yet. So the breaking 
 
 My boss and mentor Jane Austin is out, recovering from a surgery. While she is away, I feel privileged to have people like [Daniel Harvey](https://twitter.com/dancharvey) to support me. Dan's ability to be pragmatic and at the same time empathetic and positive is refreshing. This week we had great conversations. One specific thing about self-care was an important reminder for myself. Thanks, Mr. Harvey.  
 
-### **ResearchOps** 
+### **ResearchOps 
 
 This week [Emma Boulton](https://emmaboulton.co.uk) invited me to watch the Global Design Operations conference. I watched a few talks live. Some good stuff and the feeling that design teams across the globe have the same problems. Her talk was really, really good. She shared her practical approach in Research Operations. Having the full context of the work and the opportunity to observe how someone really talented talks about it is great. I am sure the knowledge she shared will be very helpful to many in the near future, including myself. It was also a great opportunity to reflect about the impact of research operations in the experience design community at Babylon. Emma is excellent, a great speaker and a wonderful human. 
 
