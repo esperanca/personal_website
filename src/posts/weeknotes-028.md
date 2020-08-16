@@ -7,7 +7,7 @@ tags:
   - agile
   - ia
 ---
-It was a week in hell in London. People assume that because of south american origins, I would prefer hot weather. It is the opposite: 22 degrees celsius is my limit. I was tired and unproductive.
+It was a week in hell in London. People assume that because of my south american origins, I would prefer hot weather. It is the opposite: 22 degrees celsius is my limit. I was tired and unproductive.
 
 My selected post this week is [Holding on working less](https://medium.com/@HowieMeg/holding-on-to-working-less-e0a6a330fb60), by Meg Howie, who is a service designer. She talks about the differences in working for the government and a design agency, slow days, slack time in the system and building resilience.
 
