@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Weeknote #30"
+title: "Weeknote #030"
 socialImage: /images/greek_landscape_danielsouza.jpg
 date: 2020-09-19T08:10:50.019Z
 tags:
