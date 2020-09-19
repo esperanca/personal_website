@@ -6,27 +6,23 @@ date: 2020-09-19T08:10:50.019Z
 tags:
   - greece
 ---
-After three weeks of break, writing wasn’t easy. And I am in a kind of post-holiday blues, topped with the fact that London feels a bit unsafe for me.
+My latest #weeknote was published three weeks ago. So much stuff happened! I am just back from a holiday trip and the week was busy and chaotic. Post-holiday blues also not helping me to focus, so I will be succinct.
 
-After having access to open spaces and sunlight, it feels strange to be in lockdown again. But let’s do this.
-
-[How do we find new ways to make sense of Organisational Culture](https://metalogue.co.uk/2019/06/04/how-do-we-find-new-ways-to-make-sense-of-organisational-culture/), by Kevin Power and Simon Martin, is the blog post I selected this week for you.  
+[How do we find new ways to make sense of Organisational Culture](https://metalogue.co.uk/2019/06/04/how-do-we-find-new-ways-to-make-sense-of-organisational-culture/) is the blog post I selected this week. Some very interesting points about how to surface cultural norms using artefacts. 
 
 ## Good things
 
-### It’s roadmap time again
+### roadmap review, again
 
 This week I am onboarding the new product manager in the Design Systems team. We hired internally, but I can’t be happier with the choice we made.
 
 Nathan Djangoly it’s an incredible human being. In one week he already did some great work on understanding our messy, crazy backlog. We also had a great session using a design system assessment tool.
 
-We finished the recruitment process for our Developer. We are hiring a Content Designer since our queen Linsey is leaving next week. I am excited by this new chapter, and I can’t wait to have our complete team back in the game.
-
 ## Learned things
 
 ### The power of community
 
-This week our team attended a few conferences. Dr. Webster attended one about Behaviour Design in Health and shared some cool notes. There was also Config, Figma’s annual conference. Mr Jack Roles and Nathan, the new PM, attended. I still have to catch-up on it.
+This week our team attended a few conferences. Dr. Webster attended one about Behaviour Design in Health and shared some cool notes. There was also Config, Figma’s annual conference. Mr Jack Roles, Nathan and a few others attended. I still have to catch-up on it, but the traditional product release looks great. 
 
 But the conference of the week for me was [Inclusive Design 24](https://inclusivedesign24.org/2020/schedule/). I had great conversations with Fred Warbz about it, and he recommended a few talks that I watched already.
 
