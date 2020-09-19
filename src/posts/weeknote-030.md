@@ -56,7 +56,6 @@ It’s a very, very hard balancing act. I am learning a lot to be like this. And
 
 ![Sea landscape: mountains, blue sky. There are two montains in the background](/images/greek_landscape_danielsouza.jpg "Sea landscape: mountains, blue sky.")
 
-\
 It was like Russian roulette, but we escaped for a few days to get some sun in Greece. It was terrifying to jump in a plane, and I was freaking out. I am shielding since March, and I’ve left my flat only for a few days during this period. It was taking a toll on my health.
 
 The food was splendid. And how nice and simple the greeks are. I am impressed with how they are following all the rules. They are so thoughtful about the pandemic and so careful. Everyone uses masks. I felt safe, and it was the first time I could glance at this new reality with some positive outlook.
