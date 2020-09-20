@@ -36,15 +36,13 @@ There are many other great talks on my list, and I can’t wait to see the blog 
 
 ### Heuristics for good leadership
 
-I am a bit picky in regards to leadership books and theories. There is a lot of paternalistic bullshit. And many popular ideas on leadership disregard diverse cognitive abilities, cultural characteristics and the networked world.
+There is one sure thing I learned in regards to what makes a good leader. In my experience is a mix of situational awareness and the ability to enable others.
 
-I have a strong opinion about what makes a good leader. In my experience, great leaders are masters in two things: situational awareness and the ability to enable others.
+Leaders with this behaviour empower their people to make their own discoveries and they help them to learn and apply new heuristics, along with those that are already known to the team.
 
-They empower people to make their own discoveries and help them to learn and apply new heuristics along with those that are already known.
+In plain language, they get out of the way at the same time they are closer to you enough to make you feel supported — and many times their insights or questions lead you to unexpected greatness. 
 
-In plain language, they get out of the way at the same time they are closer to you enough to make you feel supported.
-
-It’s a very, very hard balancing act. I am learning a lot to be like this. And my incredible lady-boss, Jane Austin, knows it all and is a fantastic manager.
+It’s a very, very hard balancing act. I am learning with my incredible lady-boss, Jane Austin. She knows it all and is a fantastic manager who is always challenging me gently. 
 
 ## Things that bring me joy
 
@@ -80,7 +78,7 @@ Reading this book is bringing great memories of the conversations I had with my 
 
 One is my therapist, Elena. A lovely and competent professional who took good care of me and introduced me to ACT - Acceptance And Commitment Therapy.
 
-The other one is Helena Araújo Vieira, my aunt. She is a philosopher and one of the smartest person in the world. And I can’t wait to discuss philosophy with her again and argue why Karl Popper is an idiot.
+The other one is Helena Araújo Vieira, my aunt. She is a philosopher and one of the smartest person in the world. And I can’t wait to discuss philosophy with her again and argue why Karl Popper is bonkers.
 
 ## Healthcheck
 
