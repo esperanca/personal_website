@@ -8,7 +8,7 @@ tags:
   - orgdesign
   - food
 ---
-Sleep patters a bit odd this week. I was fully awake at 4am. Took the opportunity to write the first draft of these notes. Went back to sleep after an hour and did the editing in the morning with Leili. 
+Sleeping patterns a bit odd this week. I was fully awake at 4am today. Took the opportunity to write the first draft of these notes. Went back to sleep after an hour and did the editing in the morning with Leili. 
 
 My selected post of the week is the difference between [autonomy and independence](https://academy.nobl.io/the-difference-between-autonomy-and-independence/). The fine folks at NOBL are spot-on: the gap between your values and the ones you have to act on are the real challenge. 
 
@@ -32,7 +32,7 @@ He nailed: Information Architecture applied to organisational design is our best
 
 EuroIA also provided a great line-up of workshops; it was hard to choose. I attended a hilarious one about Information X Organisation. It was about our inability to imagine new organisations—a simulation in organisational design. With a team, your task was to assess information flows, decision-making models and communication. The scenario was a change in strategic direction for a startup. My group was really cool: me, a content strategist, a service designer and Birgit Geiberger. Birgit is an IxDA fellow and we always bump into each other in design events. We got lost many times, we had some challenges with Miro but It was fun. \
 \
-In the saturday afternoon, I watched an interesting talk by Dave Hora about pattern languages. He was inspired by Christopher Alexander. His [research in patterns](https://www.davesresearch.com/talks/patterns2020) is available online. 
+In the afternoon I watched an interesting talk by Dave Hora about pattern languages. He was inspired by Christopher Alexander. His [research in patterns](https://www.davesresearch.com/talks/patterns2020) is available online. 
 
 ## Things I have learned
 
