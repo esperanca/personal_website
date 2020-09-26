@@ -1,4 +1,18 @@
-Sleep patters a bit odd this week. I was fully awake about 4 am, so I wrote the first draft of these notes and got back to sleep. 
+---
+layout: layouts/post.njk
+title: "Weeknote #031"
+date: 2020-09-26T08:10:50.019Z
+tags:
+  - euroIA
+  - babylonhealth
+  - orgdesign
+  - food
+---
+
+Sleep patters a bit odd this week. I was fully awake about 4 am, so it was an opportunity to write the first draft of these notes. Went back to sleep after an hour and did the editing in the morning with Leili's help.
+
+My selected post of the week is [The difference between autonomy and independence](https://academy.nobl.io/the-difference-between-autonomy-and-independence/). The fine folks at NOBL are spot on: the gap between your values and the ones you have to act on are the real challenge. 
+
 
 ## Good things
 
