@@ -38,9 +38,9 @@ EuroIA also had a great line-up of workshops; it was hard to choose. I attended 
 
 ### Organisational memory, design operations and culture
 
-I was reading an article by Andy Polaine this week about organisational memory, and I had lots of insights. In his article, he shares his perspective working as a consultant in many companies. He says:
+I was reading an article by Andy Polaine this week about [organisational memory](https://www.polaine.com/2020/02/organisational-amnesia/), and I had lots of insights. In his article, he shares his perspective working as a consultant in many companies. He says:
 
-“If you think of people and practices as the neural pathways in the organisational brain when they’re damaged—through redundancies, attrition or “restructuring trauma”, those pathways are destroyed, blocked or fade. Process is often used as a scaffold to rebuild the pathways. It does help to have an explicit process or methodology that everyone understands and shares the meaning of, but process alone does not preserve understanding and shared meaning”
+> If you think of people and practices as the neural pathways in the organisational brain when they’re damaged—through redundancies, attrition or “restructuring trauma”, those pathways are destroyed, blocked or fade. Process is often used as a scaffold to rebuild the pathways. It does help to have an explicit process or methodology that everyone understands and shares the meaning of, but process alone does not preserve understanding and shared meaning. 
 
 I agree that process and best practices documentation can’t capture the clarity of intent. I like to think that successful organisations lean heavily in uninterrupted information flows and networks of knowledge — and networks are fuelled by shared purpose.
 
