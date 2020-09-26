@@ -10,7 +10,7 @@ tags:
 ---
 Sleep patters a bit odd this week. I was fully awake at 4am. Took the opportunity to write the first draft of these notes. Went back to sleep after an hour and did the editing in the morning with Leili. 
 
-My selected post of the week is [The difference between autonomy and independence](https://academy.nobl.io/the-difference-between-autonomy-and-independence/). The fine folks at NOBL are spot-on: the gap between your values and the ones you have to act on are the real challenge. 
+My selected post of the week is the difference between [autonomy and independence](https://academy.nobl.io/the-difference-between-autonomy-and-independence/). The fine folks at NOBL are spot-on: the gap between your values and the ones you have to act on are the real challenge. 
 
 ## Good things
 
