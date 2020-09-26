@@ -8,11 +8,9 @@ tags:
   - orgdesign
   - food
 ---
+Sleep patters a bit odd this week. I was fully awake at 4am. Took the opportunity to write the first draft of these notes. Went back to sleep after an hour and did the editing in the morning with Leili. 
 
-Sleep patters a bit odd this week. I was fully awake about 4 am, so it was an opportunity to write the first draft of these notes. Went back to sleep after an hour and did the editing in the morning with Leili's help.
-
-My selected post of the week is [The difference between autonomy and independence](https://academy.nobl.io/the-difference-between-autonomy-and-independence/). The fine folks at NOBL are spot on: the gap between your values and the ones you have to act on are the real challenge. 
-
+My selected post of the week is [The difference between autonomy and independence](https://academy.nobl.io/the-difference-between-autonomy-and-independence/). The fine folks at NOBL are spot-on: the gap between your values and the ones you have to act on are the real challenge. 
 
 ## Good things
 
@@ -22,17 +20,19 @@ After many weeks, I’ve facilitated a Visual Stand-up edition. It was great to 
 
 ### KPI’s for design systems
 
-Had interesting conversations with the DNA team about how to measure stuff. Inquisitive Nathan is looking for useful ways of measuring contribution.
+Had interesting conversations with the DNA team about how to measure stuff. Inquisitive Nathan is looking for new ways of measuring contribution.
 
 ### Attending EuroIA
 
-Had the opportunity to attend EuroIA this year. I was not watching the keynotes live, and I’m glad the organisation is making all videos available very fast. Peter Merholz shared a very bold statement:
+Had the opportunity to attend EuroIA last thursday. I was not watching the keynotes live, and I’m glad the organisation is making all videos available very fast. Peter Merholz shared a very bold statement:
 
 > I’ve been beating this drum that information architecture has been constrained by its relationship to user experience… And I think that has been ultimately to his detriment. Because there is so much information that is not specifically user experience that would benefit from our practices, and it’s not understood or appreciated how it can reach beyond user experience.
 
-I am doing lots of research about this, and I think he nailed. Information Architecture applied to organisational design is our best chance: To avoid bad management consultants. To stop with the madness in reorgs. To align language and intent with customers.
+He nailed: Information Architecture applied to organisational design is our best chance to escape [this madness](https://images.app.goo.gl/5FLU9xM41uTdfnpz6).    
 
-EuroIA also had a great line-up of workshops; it was hard to choose. I attended a hilarious one about Information X Organisation. It was about our inability to imagine new organisations—a simulation in organisational design. With a team, your task was to assess information flows, decision-making models and communication. The scenario was a change in strategic direction for a startup. Birgit Geiberger was in my group, with a service designer and a content strategist. It was fun.
+EuroIA also provided a great line-up of workshops; it was hard to choose. I attended a hilarious one about Information X Organisation. It was about our inability to imagine new organisations—a simulation in organisational design. With a team, your task was to assess information flows, decision-making models and communication. The scenario was a change in strategic direction for a startup. My group was really cool: me, a content strategist, a service designer and Birgit Geiberger. Birgit is an IxDA fellow and we always bump into each other in design events. We got lost many times, we had some challenges with Miro but It was fun. \
+\
+In the saturday afternoon, I watched an interesting talk by Dave Hora about pattern languages. He was inspired by Christopher Alexander. His [research in patterns](https://www.davesresearch.com/talks/patterns2020) is available online. 
 
 ## Things I have learned
 
@@ -58,7 +58,6 @@ Exit interviews are an excellent opportunity to find some of the gaps and points
 
 This week I had stomach bugs and something similar to the flu. I got the Friday off to recover, as I couldn’t sleep well the night before. I usually will just work anyway. I am happy that I am more respectful about my limits.
 
-
 ## Things that bring me joy
 
 ### The 26th September
@@ -75,20 +74,16 @@ I’ve also beta tested some fantastic chocolate cupcakes. Leili was working wit
 
 ### Onward and VR
 
-I don’t play games too much, but since I bought a VR headset a few months ago, I’ve been experimenting more. The Darth Vader trilogy was brilliant — believe me, is the closest thing to using a light sabre. A recent surprise is Onward. It’s a military simulation game. Guns and violence aren’t my things in real life. But who never enjoyed a good Counter-Strike match or even some hours in GTA? Onward is just starting, but it’s a well designed VR experience.
+I don’t play games too much, but since I bought a VR headset a few months ago, I’ve been experimenting more. The Darth Vader trilogy was brilliant — believe me, is the closest thing to using a light sabre. A recent surprise is Onward. It’s a military simulation game. Guns and violence aren’t my thing. But who never enjoyed a good Counter-Strike match or even some hours in GTA? Onward is just starting, but it’s a well designed VR experience.
 
 ### Health check
 
 This week I visited my GP practice. First time since March, if I am not wrong. Got a blood test as part of my diabetes review.
 
-Weight: 99 kg
-
-Blood pressure: 15/8
-
-Food: A lot of healthy food and we ordered only twice.
-
-Drinks: A glass of rosé
-
+Weight: 99 kg\
+Blood pressure: 15/8\
+Food: A lot of healthy food and we ordered only twice.\
+Drinks: A glass of rosé\
 Smoking: 4 pods of Juul.
 
 > Life happens at the level of events, not of words. Trust movement. Alfred Adler
