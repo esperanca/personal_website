@@ -7,9 +7,10 @@ tags:
   - designsystems
   - food
 ---
-Crazy times at work are stopping me from keeping my weekly writing routine. I am waking up earlier every day, but always busy. This week I decided to write a few minutes during the mornings and invest more in note-taking. The draft started Wednesday, and I finished this morning. 
+Not finding enough time for my weekly writing routine. I am waking up earlier every day, but always busy. This week I decided to write a few minutes during the mornings and invest more in note-taking. The draft started Wednesday, and I finished this morning. 
 
-The article for this week is the a sample from a bookl. It's about [Choosing to be yourself](https://roamresearch.com/?vgo_ee=WKxQzTkrjratKXF13L4kPQ69El3r1P%2FiZnxqq6tzUcg%3D&vgo_ee=vBxaZaUiwy1s8LI%2FaFmf89sqblwAmhJ4FDuyFgZ7RM0%3D#/app/Navalmanack/page/Dmm6hV008). From The Almanack of Naval Ravikant. 
+The article for this week is a chapter from a book. It's about [Choosing to be yourself](https://roamresearch.com/?vgo_ee=WKxQzTkrjratKXF13L4kPQ69El3r1P%2FiZnxqq6tzUcg%3D&vgo_ee=vBxaZaUiwy1s8LI%2FaFmf89sqblwAmhJ4FDuyFgZ7RM0%3D#/app/Navalmanack/page/Dmm6hV008). From The Almanack of Naval Ravikant. 
+
 
 ## Good things
 
@@ -42,6 +43,8 @@ It's going to be also an opportunity to kick-off a project for our design commun
 Leili is a natural-born teacher. Besides her resistance to doing that professionally. As a former business process analyst, she can understand how to do anything after listening and watching people. And she can document that later and relay to someone completely new to the subject. She once helped a friend to start cooking. This person never believed she could do it. After 2 hours with Leili, she completely changed her perspective.
 
 Today she will be teaching a lovely girl how to make her own granola and the basics of food photography. Watching her explaining things and connect with people is great.
+
+![A bowl of granola and yogurt. ](/images/img_4602.jpg "Here is the final photo after the class. ")
 
 ### Healthcheck
 
