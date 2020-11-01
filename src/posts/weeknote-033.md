@@ -7,7 +7,7 @@ tags:
 ---
 I’ve been consistently failing in writing my notes here weekly, but I am not ashamed. Life is busy: too many plates spinning. I’ve faith I will go back to my regular routine in a few weeks, and that makes me feel good. 
 
-My recommendation for this week is a video. It’s a conversation about how might we best learn from the past. Moderated by Interintellect’s Anna Gat, it’s an informal talk between Olena Bulygina and Bardia Pourvakil. The theme is Learning from the past. The explanation about how bi-directional links can help with discovery and reflection is so cool. A must watch if you are into smart note-taking. 
+My recommendation for this week is a video. It’s a conversation about how might we best learn from the past. Moderated by Interintellect’s Anna Gat, it’s an informal talk between Olena Bulygina and Bardia Pourvakil. The theme is [Learning from the past](https://www.youtube.com/watch?v=u8JVHdy7nTs&t=1514s). The explanation about how bi-directional links can help with discovery and reflection is so cool. A must watch if you are into smart note-taking. 
 
 # Good things
 
@@ -19,7 +19,7 @@ One specific aspect I am always thinking about is how some organisational bounda
 
 Jared Spool once said: “All design is political”. Politics attempts to address wicked problems. Problems that cannot be solved by a definitive solution. Imperfection is the word here, I guess. And If we are aiming high, we definitely can’t skip the hard conversations. Doing that with candour and inclusivity is what makes design relevant. So there is a place for politics, and we should not merely ignore our role. 
 
-There are many good playbooks and a lot of old school stuff in this area. I follow NOBL’s work on org design principles for long. There is one exciting part I always think about:
+There are many good playbooks and a lot of old school stuff in this area. I follow [NOBL’s work](https://nobl.io/organizational-design) on org design principles for long. There is one exciting part I always think about:
 
 > Surrender the past. Honour what’s come before and help individuals grieve the losses that accompany change. Then, move forward together.
 
@@ -55,7 +55,7 @@ After the lockdown announcement, I decided to escape a bit this Saturday with Le
 
 Eye exams, blood, visiting the nurse, the doctors. Diabetes is such a PITA. But I had some excellent news this week and this November I hope to get all sorted. 
 
-Weight: x.xx kg\
+Weight: 98 kg\
 Blood pressure: 11/7 \
 Food: Quite healthy this week, but maybe I should eat more veggies. \
 Drinks: One glass of Prosecco. \
