@@ -11,13 +11,13 @@ My recommendation for this week is a video. It’s a conversation about how migh
 
 # Good things
 
-## Practice makes perfect?
+## Practice makes perfect
 
 Org Design is a topic very close to my heart. One specific aspect I am always thinking about is how some organisational boundaries are created. Some for good - like allowing [deep technical expertise to flourish](https://on-the-mark.com/silos-in-the-workplace/) - and others are just land-grabbing and politics.
 
 Jared Spool once said: “All design is political”. Politics attempts to address wicked problems. Problems that cannot be solved by a definitive solution. Imperfection is the word here, I guess. And If we are aiming high, we definitely can’t skip the hard conversations. Doing that with candour and inclusivity is what makes design relevant. So there is a place for politics, and we should not merely ignore our role. 
 
-There are many good playbooks and a lot of old school stuff in this area. I follow [NOBL’s work](https://nobl.io/organizational-design) on org design principles for long. There is one exciting part I always think about:
+There are many good playbooks and a lot of old school stuff in this area. I really like how [NOBL’s](https://nobl.io/organizational-design) guide on org design principles nails about the agile imperative. One of the principles is: 
 
 > Surrender the past. Honour what’s come before and help individuals grieve the losses that accompany change. Then, move forward together.
 
@@ -25,21 +25,23 @@ Honouring the past and assuming previous failures - so they can become learnings
 
 ## Decentralisation, contribution
 
-If you work in design systems, you know that there is always 3 topics creating a healthy tension: quality, speed and ownership. One thing that is key to alleviate this tension is how you shape the contribution process. This week, Fred and Nathan are working on this. Good progress, indeed.  
+If you work in design systems, you know that there is always 3 topics creating a healthy tension: quality, speed and ownership. One thing that is key to alleviate this tension is how you shape the contribution process. This week the team is iterating on this. Good progress and fresh ideas.  
 
-They are facing the same complex challenge I faced before with Amy Hupe a few months ago. The balance of applying energy on risk mitigation versus scalability. Complexibility versus simplicity. 
+The balance of applying energy on risk mitigation versus scalability. Complexibility versus simplicity. 
 
 ## Reluctant design leader
 
-A few weeks ago, I shared about a talk I was planning to deliver about design leadership. It happened two weeks ago. Now I have delivered two talks and there is no blog post or video about it. When prepping for talks, I get to ask a lot of questions and meet a lot of smart people. In a few weeks, I will join a panel about Design Systems.  
+A few weeks ago, I wrote about delivering a talk about design leadership. It happened two weeks ago. Another one with no public recording or blog post - I am terrible at sharing things like this. \
+But when prepping for talks, I have the excuse for asking a lot of questions and meet smart people. \
+In a few weeks, I will join a panel about Design Systems. 
 
 # Learned things
 
-## Mission and 
+## Now what? 
 
-I was interviewing someone this week, and we talked about what makes a design guild/chapter/department relevant. One thing that we agreed is that the company mission is essential. But is just the start. An impactful design organisation is connected by the desire to create “something else” together. 
+I was interviewing someone this week, and we talked about what makes a design guild/chapter/department relevant. One thing that we agreed to is that the company mission is just the start. An impactful design organisation is connected by the desire to create “something extra” together. 
 
-That “something else” requires an endless love for new challenges and healthy relationships. Relationships are the fuel to the silo-breaking effect, which is much needed to make design excellent. Emma Boulton describes this as connectedness. I think there is something about keeping that connection and comfort with the ambiguity for long periods. 
+That “something extra” requires an endless love for new challenges and healthy relationships. Relationships are the fuel to the silo-breaking effect, which is much needed to make design excellent. Emma Boulton describes this as connectedness. I think there is something about keeping that connection and comfort with the ambiguity for long periods. 
 
 # Things that bring me joy
 
