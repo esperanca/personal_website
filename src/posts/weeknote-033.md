@@ -7,15 +7,13 @@ tags:
 ---
 I’ve been consistently failing in writing my notes here weekly, but I am not ashamed. Life is busy: too many plates spinning. I’ve faith I will go back to my regular routine in a few weeks, and that makes me feel good. 
 
-My recommendation for this week is a video. It’s a conversation about how might we best learn from the past. Moderated by Interintellect’s Anna Gat, it’s an informal talk between Olena Bulygina and Bardia Pourvakil. The theme is [Learning from the past](https://www.youtube.com/watch?v=u8JVHdy7nTs&t=1514s). The explanation about how bi-directional links can help with discovery and reflection is so cool. A must watch if you are into smart note-taking. 
+My recommendation for this week is a video. It’s a conversation about how might we best learn from the past. Moderated by Interintellect’s Anna Gat, it’s an informal talk between Olena Bulygina and Bardia Pourvakil.  The theme is [Learning from the past](https://www.youtube.com/watch?v=u8JVHdy7nTs&t=1514s) and they talk about [pain](https://youtu.be/u8JVHdy7nTs?t=830) and how it relates to learning. The explanation about how bi-directional links can help with discovery and reflection is so cool. 
 
 # Good things
 
 ## Practice makes perfect?
 
-Org Design is a topic very close to my heart. While I could help with this in my previous work at Sapient, in my current position is something I have more influence. 
-
-One specific aspect I am always thinking about is how some organisational boundaries are created. Some for good - like allowing [deep technical expertise to flourish](https://on-the-mark.com/silos-in-the-workplace/) - and others are just land-grabbing and politics.
+Org Design is a topic very close to my heart. One specific aspect I am always thinking about is how some organisational boundaries are created. Some for good - like allowing [deep technical expertise to flourish](https://on-the-mark.com/silos-in-the-workplace/) - and others are just land-grabbing and politics.
 
 Jared Spool once said: “All design is political”. Politics attempts to address wicked problems. Problems that cannot be solved by a definitive solution. Imperfection is the word here, I guess. And If we are aiming high, we definitely can’t skip the hard conversations. Doing that with candour and inclusivity is what makes design relevant. So there is a place for politics, and we should not merely ignore our role. 
 
@@ -33,15 +31,13 @@ They are facing the same complex challenge I faced before with Amy Hupe a few mo
 
 ## Reluctant design leader
 
-A few weeks ago, I shared about a talk I was planning to deliver about design leadership. It happened two weeks ago, and I had great feedback. Now I have one about Design Ops, one about Leadership, and in two weeks, I will have one ready for Design Systems.
-
-While I am reluctant about the “design leadership” title, improving my communication is something in my learning plan. And when prepping for talks, I have to study a lot, and it’s always an opportunity to have conversations with smart people. 
+A few weeks ago, I shared about a talk I was planning to deliver about design leadership. It happened two weeks ago. Now I have delivered two talks and there is no blog post or video about it. When prepping for talks, I get to ask a lot of questions and meet a lot of smart people. In a few weeks, I will join a panel about Design Systems.  
 
 # Learned things
 
-## The mission is just the start.
+## Mission and 
 
-I was interviewing someone this week, and we talked about what makes a design guild/chapter/department relevant. One thing that we agreed is that the company mission is essential, but is just the start. An impactful design organisation is connected by the desire to create “something else” together. 
+I was interviewing someone this week, and we talked about what makes a design guild/chapter/department relevant. One thing that we agreed is that the company mission is essential. But is just the start. An impactful design organisation is connected by the desire to create “something else” together. 
 
 That “something else” requires an endless love for new challenges and healthy relationships. Relationships are the fuel to the silo-breaking effect, which is much needed to make design excellent. Emma Boulton describes this as connectedness. I think there is something about keeping that connection and comfort with the ambiguity for long periods. 
 
