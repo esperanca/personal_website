@@ -40,13 +40,13 @@ I’ve joined our internal mentoring program for our product organisation. I mee
 
 ### Learned things
 
-### Playing design police easy.
+### Being a design police sucks.
 
 I have been reflecting for long about how part of our industry - and specifically design practitioners - are so keen to debate ethics but don’t walk the talk many times.
 
 This week I am disappointed with a design organisation that I am part of. They released a website for their yearly conference with loads of accessibility issues.
 
-I’ve warned the organisation. I complained about this on social media. Enraged, I wrote an email with a report, suggesting some actions. They have answered me this morning. 
+I’ve warned the organisation. I complained about this on social media. Enraged, I wrote an email with a report, suggesting some actions. They have answered me this morning. But still sucks. 
 
 A big part of our design community favours aesthetics over usability and accessibility. I get mad about this every time. I get emotional for many reasons. It increases the distance between the accessibility community and the design community. It’s also terrible for our relationship with developers and content people.
 
