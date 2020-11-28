@@ -6,9 +6,10 @@ date: 2020-11-28T12:49:27.375Z
 tags:
   - babylonhealth
 ---
-My last #weeknotes update was 28 days ago. Lots of things happened since. I got coronavirus, and I was sick for two weeks. My lovely boss lady Jane Austin left Babylon Health. She is now Chief Design Officer, finally! I have a new manager. It’s winter with the lockdown. 
+My last #weeknotes update was 28 days ago. Lots of things happened since. I got coronavirus, and I was sick for two weeks. My lovely boss lady Jane Austin left Babylon Health. She is now Chief Design Officer! I have a new manager. It’s winter with the lockdown. 
 
-It’s a lot of change. Yet, I feel in control. I’ve learned this year so much about resilience and dealing with ambiguity. Writing is helping me a lot, and it’s great to read my old notes and compare things. Onward.
+It’s a lot of change. Yet, I feel in control. I’ve learned this year so much about resilience and dealing with ambiguity. Writing is helping me a lot, and it’s great to read my old notes and compare things. Onward.\
+\
 My selected concept of the week is Org Physics. The authors have an interesting  perspective about formal structures, hierarchy and power. It's a rabbit hole, honestly. [This podcast ](https://www.slideshare.net/npflaeging/betacodex11-the-3-structures-of-an-organization)with many links is a good starting point. 
 
 ## Good things
