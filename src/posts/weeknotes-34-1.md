@@ -15,7 +15,7 @@ My selected article for this week is [Entering groups](https://www.estherderby.c
 
 The theme for our chapter meeting this week was inclusive design. Taylar delivered a great talk about sign language and inclusive design. Marvellous Bruce Lawson talked about accessibility and the web.
 
-To finish the week on a high, Fred Warburton delivered a great speech in our tech All Hands. He finally shared his personal story about living with a disability. Four hundred people went crazy. I saw the presentation twice: he asked for my feedback before the event. In our session, I was emotional. Fred is becoming an incredible speaker. This will be an incredibly popular talk in a design conference next year.
+To finish the week on a high, Fred Warburton delivered a great speech in our tech All Hands. He finally shared his personal story about his lived experience of disability. Four hundred people went crazy. I had the privilege of watching the presentation twice: he asked for my feedback before the event. In our session, I was emotional. Fred is becoming an incredible speaker. This will be an incredibly popular talk in a design conference next year.
 
 ## The joy of design reviews
 
@@ -65,8 +65,6 @@ This might be the reason \*real\* agile doesn’t scale well in enterprise setti
 When there is a gap in this, you immediately observe a drop in the design quality. From a design perspective, even if you have an excellent design system, the consistency falls apart. Because user experience it’s a sum of all parts. Improving the user experience in an agile enterprise setting takes time. You have to learn effective ways of creating and managing change. Design Operations is a useful framework. But there is no silver bullet.
 
 One day I will write a book or article about the tension between Design Operations and agile. There will be a chapter named Minimal Valuable Process Improvement. [And that is my SAFe joke](https://medium.com/@johnpcutler/have-you-heard-that-one-about-safe-7a567177b806).
-
-
 
 ## Anosmia and Phantosmia
 
