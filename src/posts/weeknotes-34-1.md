@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Weeknotes #35"
+metaTitle: "Weeknotes #35 "
 date: 2020-12-05T08:40:57.175Z
 tags:
   - babylonhealth
@@ -27,7 +28,7 @@ I’ve met Kevin Telfer this week to discuss ways of helping people to write abo
 
 ## Updating my Learning Canvas
 
-Taylar, the new member of our a11y team, is so smart. We had a conversation about metacognition and learning. I presented my learning canvas; we talked about self-learning and productivity.
+Taylar, the new member of our a11y team, is so smart. We had a conversation about [metacognition](https://nesslabs.com/metacognition) and learning. I presented my learning canvas; we talked about self-learning and productivity.
 
 # Learned things
 
@@ -39,7 +40,7 @@ Real agile teams (I am talking here about the mindset, not methodologies) love t
 
 > An agile mindset is an individual’s willingness to deal with failure by learning from it and changing how things are done so as not to repeat the failure.
 
-The term we use in the industry is Ways of Working. There is so much opportunity when we share learnings across contexts (squads, disciplines). But there is also change fatigue. I am learning (and failed a lot) on this as I am working with the same squads in 4 super tribes for more than one year. To transfer learnings across teams, you have to understand and respect context. Or deal with the pushback!
+The term we use in the industry is Ways of Working. There is so much opportunity when we share learnings across contexts (squads, disciplines) in an agile organisation. But there is also change fatigue. I am learning (and failed a lot) on this as I am working with several squads in 3-5 super tribes for more than one year. To transfer learnings across teams, you have to understand and respect context. Or deal with the pushback!
 
 Double down on clarity. Before making changes, make it clear why you are proposing that change and write it down! The way you suggest a change is essential as the change itself. As my friend Amy Hupe repeated like a pirate parrot in my head over and over for months:
 
