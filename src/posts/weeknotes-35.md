@@ -5,6 +5,10 @@ metaTitle: "Weeknotes #35 "
 date: 2020-12-05T08:40:57.175Z
 tags:
   - babylonhealth
+  - agile
+  - design
+  - covid
+---
 ---
 This week was like a flash! I write short notes in the weekdays for things I want to share on my Saturday weeknotes. This week I was so busy that I haven’t captured one single note! But it was an exciting one, and I have great things to share about work and life.
 
@@ -16,7 +20,7 @@ My selected article for this week is [Entering groups](https://www.estherderby.c
 
 The theme for our chapter meeting this week was inclusive design. Taylar delivered a great talk about sign language and inclusive design. Marvellous Bruce Lawson talked about accessibility and the web.
 
-To finish the week on a high, Fred Warburton delivered a great speech in our tech All Hands. He finally shared his personal story about his lived experience of disability. Four hundred people went crazy. I had the privilege of watching the presentation twice: he asked for my feedback before the event. In our session, I was emotional. Fred is becoming an incredible speaker. This will be an incredibly popular talk in a design conference next year.
+To finish the week on a high, Fred Warburton delivered a great speech in our tech All Hands. He finally shared his personal story about his lived experience of disability. Four hundred people went crazy. I had the privilege of watching the presentation twice: he asked for my feedback before the event. In our session, I was emotional. Fred is becoming a great speaker. I am sure his talk is a good candidate for any good conference next year.
 
 ## The joy of design reviews
 
@@ -24,7 +28,7 @@ We worked redesigning our design review process. I have learned so much. It was 
 
 ## The invisible work
 
-I’ve met Kevin Telfer this week to discuss ways of helping people to write about the work. I am a big fan of the w[orking out loud](https://workingoutloud.com/) concept. So I am excited that Kevin is leading this initiative to support XD’s in talking about their work and experiences in the open. Recently, James Price wrote an incredible article about [product design interviews and dyslexia](https://medium.com/babylon-design) that is inspiring us to improve our hiring practices.
+I’ve met Kevin Telfer this week to discuss ways of supporting people to write about their work. I am a big fan of the [working out loud](https://workingoutloud.com/) concept. I was so privileged to have Amy Hupe as my writing coach for ten weeks this year. I am excited that Kevin is leading this initiative to support XD’s in sharing their work and life experiences in the open. Recently, James Price wrote an incredible article about [product design interviews and dyslexia](https://medium.com/babylon-design). This is inspiring our team to improve our hiring practices. Writing operates magic. It feels like sending good intentions to the future. 
 
 ## Updating my Learning Canvas
 
@@ -42,7 +46,7 @@ Real agile teams (I am talking here about the mindset, not methodologies) love t
 
 The term we use in the industry is Ways of Working. There is so much opportunity when we share learnings across contexts (squads, disciplines) in an agile organisation. But there is also change fatigue. I am learning (and failed a lot) on this as I am working with several squads in 3-5 super tribes for more than one year. To transfer learnings across teams, you have to understand and respect context. Or deal with the pushback!
 
-Double down on clarity. Before making changes, make it clear why you are proposing that change and write it down! The way you suggest a change is essential as the change itself. As my friend Amy Hupe repeated like a pirate parrot in my head over and over for months:
+Double down on clarity. Before making changes, make it clear why you are proposing that change and write it down! The way you suggest a change is essential as the change itself. As my friend Amy Hupe (again) repeated like a pirate parrot in my head over and over for months:
 
 > Do the hard work to make things simple
 
