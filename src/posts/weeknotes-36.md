@@ -95,7 +95,7 @@ This is probably not relevant for any work that I am doing now. But interacting 
 
 ### My in-laws, Brasília and Tupaciguara
 
-![Landscape: blue sky with clouds reflecting in the lake surface  ](/images/lake_tupaciguara.jpg "Landscape: blue sky with clouds reflecting in the lake surface")
+![Landscape: blue sky with clouds reflecting in the lake surface  ](/images/lake_tupaciguara.jpg "Tupaciguara's blue sky")
 
 I've managed to fly to Brazil for Christmas, before the Brazilian government-imposed restrictions to UK passengers. After 2 weeks of quarantine in Brasilia, we travelled to my in-law's place in the countryside. It's a small city called Tupaciguara, located in Minas Gerais, my home state.
 
