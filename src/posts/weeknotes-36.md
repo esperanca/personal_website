@@ -57,20 +57,17 @@ XD bridge is basically a joint mini-conference with an external team. And it's n
 The format is simple: 5 minutes of warm-up, two 15 minute talks, followed by 20 minutes in the break-out rooms with the speakers. Up to now, we had four editions:  
 
 1. Babylon & Futurice (Co-host: Luiz Soyer)\
-Mia Muurimaki - Service Design and Futures Thinking\
-Yours truly - Untangling Design Leadership
-
+   Mia Muurimaki - Service Design and Futures Thinking\
+   Yours truly - Untangling Design Leadership
 2. Babylon & ASOS (Co-host: Emma Boulton)\
-Louise Lynn - Imagineering at ASOS — a really inspiring\
-Daniel Harvey - Manifesto on Society-Centered Design
-
+   Louise Lynn - Imagineering at ASOS — a really inspiring\
+   Daniel Harvey - Manifesto on Society-Centered Design
 3. Babylon & Redgate Software (Host: Daniel Harvey)\
-Neil Turner - The year without trousers\
-Emma Boulton - Helping Researchers do their Best Work
-
+   Neil Turner - The year without trousers\
+   Emma Boulton - Helping Researchers do their Best Work
 4. Babylon & A11y team (Host: Fred Warburton)\
-Taylar Bouwmeester - Why has a Sign Language interpreter joined the team?\
-Bruce Lawson - Accessibility for Designers
+   Taylar Bouwmeester - Why has a Sign Language interpreter joined the team?\
+   Bruce Lawson - Accessibility for Designers
 
 Feedback has been really, really positive. Because of that, we are planning to have more XD Bridges this year. If your team is looking for some fun and inspiration, email or tweet me. 
 
@@ -97,6 +94,8 @@ This is probably not relevant for any work that I am doing now. But interacting 
 ## Things that make happy
 
 ### My in-laws, Brasília and Tupaciguara
+
+![Landscape: blue sky with clouds reflecting in the lake surface  ](/images/lake_tupaciguara.jpg "Landscape: blue sky with clouds reflecting in the lake surface")
 
 I've managed to fly to Brazil for Christmas, before the Brazilian government-imposed restrictions to UK passengers. After 2 weeks of quarantine in Brasilia, we travelled to my in-law's place in the countryside. It's a small city called Tupaciguara, located in Minas Gerais, my home state.
 
