@@ -6,7 +6,7 @@ date: 2021-01-11T00:31:49.031Z
 tags:
   - babylonhealth
 ---
-I can't find my first weeknote, but I remember it was written in January 2020. It feels like a very distant past. 35 editions later, and I'm still happy with the commitment. Not so sure about the frequency and format. Expect some changes. The first one: every week, I will share three links instead of one. 
+<mailto:daniel.souza@babylonhealth.com>I can't find my first weeknote, but I remember it was written in January 2020. It feels like a very distant past. 35 editions later, and I'm still happy with the commitment. Not so sure about the frequency and format. Expect some changes. The first one: every week, I will share three links instead of one. 
 
 ## Top 3 links of the week
 
@@ -40,7 +40,7 @@ Following up, all XD's presented their best work of the year. One slide per minu
 
 I had to select one work to present. I choose to talk about the challenge of extending the Visual Stand-up.
 
-**XD Bridge: extending the Visual Stand-up**
+### XD Bridge: extending the Visual Stand-up
 
 Sometimes recurring ceremonies become boring. Last July I received this feedback about the Visual Stand-up. Some people were not satisfied with the format. Others wanted to know more about some of the projects or initiatives. Some questioned if we really needed to meet every week.
 
@@ -124,6 +124,6 @@ Blood sugar: 7,3
 Weight: (I don't have a scale here, but I am sure I've gained 4kg.)
 Alcohol: Too many beers.
 
-> It's harder to be kind than to be clever. It's the difference between gifts and choices. Cleverness is a gift. Kindness is a choice. 
+> It's harder to be kind than to be clever.
 
-Jeff Bezos From this [commencement speech at Princeton](https://www.theladders.com/career-advice/jeff-bezos-to-princetons-class-of-2010-its-harder-to-be-kind-than-clever)
+Jeff Bezos grandfather - from this [commencement speech at Princeton](https://www.theladders.com/career-advice/jeff-bezos-to-princetons-class-of-2010-its-harder-to-be-kind-than-clever)
