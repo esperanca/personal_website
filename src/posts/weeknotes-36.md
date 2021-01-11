@@ -6,7 +6,7 @@ date: 2021-01-11T00:31:49.031Z
 tags:
   - babylonhealth
 ---
-[daniel.souza@babylonhealth.com](mailto:daniel.souza@babylonhealth.com)I can't find my first weeknote, but I remember it was written in January 2020. It feels like a very distant past. 35 editions later, and I'm still happy with the commitment. Not so sure about the frequency and format. Expect some changes. The first one: every week, I will share three links instead of one. 
+I can't find my first weeknote. But I remember it was written in January 2020. It feels like a very distant past. 35 editions later, I am glad I commited to write more, but I not so sure about the frequency, quality and [format](https://gist.github.com/esperanca/5b91a7c64d6a1660cee2631759f425b7). Expect some changes. The first one: every week, I will share three links instead of one. 
 
 ## Top 3 links of the week
 
@@ -44,15 +44,15 @@ I had to select one work to present. I choose to talk about the challenge of ext
 
 Sometimes recurring ceremonies become boring. Last July I received this feedback about the Visual Stand-up. Some people were not satisfied with the format. Others wanted to know more about some of the projects or initiatives. Some questioned if we really needed to meet every week.
 
-We conducted some research XDs. Workshops with the XD Leadership. Many rounds of conversations with new joiners and people that provided feedback.
+A messy, chaotic problem. I was also having mixed signals about the problem, there was little agreement about anything. Design Thinking to the rescue: I conducted some research with XDs (new joiners, design managers, content people). We also had two workshops with the XD Leadership. And many rounds of conversations with the people who provided the initial feedback.
 
 The first change we made was to create a 10-minute slot called Show the Thing. It is straightforward: you book a slot and share your work or learnings with more time. Mr Jason Bootle helped to set-up this. Michela is now coordinating, and we had at least 6 short talks.
 
-But designers are hard to please. After the initial changes, I was still getting some comments about the value of the sessions. I had a hard time trying to figure out what was the real issue. But one day, I had a moment of clarity about what was going wrong. There was not enough novelty and inspiration.
+After the initial changes, I was still getting some comments about the value of the sessions. I had a hard time trying to figure out what was the real issue. But one day, I had a moment of clarity about what was going wrong. What was missing was novelty and inspiration.
 
 With that in mind, we trialled a new format: every other week we would replace one Visual Stand-up with the XD Bridge.
 
-XD bridge is basically a joint mini-conference with an external team. And it's not only about the content but also the relationships: creating a bridge with an external team or a particular group designed to last after the event.
+XD bridge is basically a mini-conference with an external team. And it's not only about the content but also the relationships: creating a bridge with an external team or a particular group designed to last after the event. It is also an opportunity for designers to invest time improving their presentation skills and test content they want to present externally. 
 
 The format is simple: 5 minutes of warm-up, two 15 minute talks, followed by 20 minutes in the break-out rooms with the speakers. Up to now, we had four editions:  
 
@@ -69,7 +69,7 @@ The format is simple: 5 minutes of warm-up, two 15 minute talks, followed by 20 
    Taylar Bouwmeester - Why has a Sign Language interpreter joined the team?\
    Bruce Lawson - Accessibility for Designers
 
-Feedback has been really, really positive. Because of that, we are planning to have more XD Bridges this year. If your team is looking for some fun and inspiration, email or tweet me. 
+Feedback has been really, really positive. Speakers loved. Teams from both sides shared a few good words about it. We are planning to have more XD Bridges this year. If your team is looking for some fun and inspiration, [email](mailto:daniel.souza@babylonhealth.com) or tweet me. 
 
 ## Things I've learned
 
@@ -83,7 +83,7 @@ I was browsing LinkedIn and found this video by Brielle Nickoloff about Politene
 
 ### The importance of wandering
 
-In my 1-1 with Amy Keeling this week we talked about curiosity. I shared that I am always trying new apps and websites without any specific reason. Downloading all the apps. Trying all new start-ups. My codename at Isobar was Beta Junkie: I am usually the first to sign-up for the indie start-up.
+In my 1-1 with Amy Keeling this week we talked about curiosity. I shared that I am always trying new digital services without any specific reason.  My codename at Isobar was Beta Junkie: I am usually the first to sign-up for the indie start-up. Downloading all the apps. Trying all new start-ups. Testing all new cool websites.
 
 The latest thing I am exploring is Clubhouse. Clubhouse is an audio-only social network. I got an invitation from Brielle this Friday, and I am addicted to it already.
 
