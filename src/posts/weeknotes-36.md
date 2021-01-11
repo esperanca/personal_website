@@ -6,13 +6,13 @@ date: 2021-01-11T00:31:49.031Z
 tags:
   - babylonhealth
 ---
-<mailto:daniel.souza@babylonhealth.com>I can't find my first weeknote, but I remember it was written in January 2020. It feels like a very distant past. 35 editions later, and I'm still happy with the commitment. Not so sure about the frequency and format. Expect some changes. The first one: every week, I will share three links instead of one. 
+[daniel.souza@babylonhealth.com](mailto:daniel.souza@babylonhealth.com)I can't find my first weeknote, but I remember it was written in January 2020. It feels like a very distant past. 35 editions later, and I'm still happy with the commitment. Not so sure about the frequency and format. Expect some changes. The first one: every week, I will share three links instead of one. 
 
 ## Top 3 links of the week
 
 **Circle of Concerns and designing at the NHS**
 
-Emma Parnell is a Lead Designer working for the NHS. In this post, she talks about her experience designing the COVID-19 Vaccinations Programme service. She also talks about ambiguity, service scopes and a tool to help you in times of uncertainty.
+Emma Parnell is a Lead Designer working for the NHS. In this post, she talks about her experience designing the [COVID-19 Vaccinations Programme](https://emmaparnell.medium.com/nhs-digital-20-weeks-ish-870c859ac557) service. She also talks about ambiguity, service scopes and a tool to help you in times of uncertainty.
 
 ### Baboons, bullies and stress
 
@@ -73,9 +73,9 @@ Feedback has been really, really positive. Because of that, we are planning to h
 
 ## Things I've learned
 
-### Doomscrolling makes you sad
+### Doomscrolling makes you mad (and sad)
 
-The Capitol racist incidents this week and the advance of the new virus variant in the UK impacted me a lot. The lesson for the week is that I am responsible to control my anxiety and news intake.  
+The Capitol racist incidents this week and the advance of the new virus variant in the UK impacted me a lot. The lesson for the week is that I am responsible to control my anxiety and news intake. I will take this more serious - goal for the year is more offline time.   
 
 ### Politeness, facework and voice
 
