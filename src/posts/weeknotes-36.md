@@ -44,11 +44,11 @@ I had to select one work to present. I choose to talk about the challenge of ext
 
 Sometimes recurring ceremonies become boring. Last July I received this feedback about the Visual Stand-up. Some people were not satisfied with the format. Others wanted to know more about some of the projects or initiatives. Some questioned if we really needed to meet every week.
 
-A messy, chaotic problem. I was also having mixed signals about the problem, there was little agreement about anything. Design Thinking to the rescue: I conducted some research with XDs (new joiners, design managers, content people). We also had two workshops with the XD Leadership. And many rounds of conversations with the people who provided the initial feedback.
+A messy, chaotic problem. I was also having mixed signals about the problem, there was little agreement about anything. Design Thinking to the rescue: We started with a workshop with the XD Leads. With some of the assumptions and questions in place, I conducted research with XDs (new joiners, design managers,  people across disciplines). We followed up with rounds of conversations with the people who provided the initial feedback. 
 
-The first change we made was to create a 10-minute slot called Show the Thing. It is straightforward: you book a slot and share your work or learnings with more time. Mr Jason Bootle helped to set-up this. Michela is now coordinating, and we had at least 6 short talks.
+The first change we made was to create a 10-minute slot called Show the Thing. It is straightforward: Designers book a slot and share their work or learnings with more time. Mr Jason Bootle helped to set-up this. Michela is now coordinating. Since we started we had about 8 talks, covering all disciplines. 
 
-After the initial changes, I was still getting some comments about the value of the sessions. I had a hard time trying to figure out what was the real issue. But one day, I had a moment of clarity about what was going wrong. What was missing was novelty and inspiration.
+However, I was still getting some comments about the value of the sessions. I had a hard time trying to figure out what was the real issue. But one day, I had a moment of clarity. What was missing was novelty and inspiration. Breaking the routine. 
 
 With that in mind, we trialled a new format: every other week we would replace one Visual Stand-up with the XD Bridge.
 
