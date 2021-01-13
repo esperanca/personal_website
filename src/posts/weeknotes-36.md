@@ -89,7 +89,7 @@ The latest thing I am exploring is Clubhouse. Clubhouse is an audio-only social 
 
 Fascinating concept, interaction design and community. It's like having an intimate conversation with a crowd, with some good structure. Clubhouse solves many of the moderation problems that we have on zoom.
 
-This is probably not relevant for any work that I am doing now. But interacting and observing how people use new products and services is so interesting. I guess it's not about inspiration. Maybe it is about creating a memory of interaction patterns and well-designed design details.
+This is probably not relevant for any work that I am doing now. But interacting and observing how people use new products and services is so rich. You learn about microcopy, information architecture, visual design. I guess it's not about inspiration. Maybe it is about creating a memory of interaction patterns and well-designed design details.
 
 ## Things that make happy
 
@@ -101,7 +101,7 @@ I've managed to fly to Brazil for Christmas, before the Brazilian government-imp
 
 Their home is so joyful. It's a big house, so there is plenty of space for Leili and me. They have a garden, a hammock and a huge kitchen, where we spend most of the time. We have BBQs frequently. Leili is always playing with Valentina, her 4-year-old niece.
 
-And nature here is impressive. I enjoy listening to the birds in the morning. Sometimes I walk in the city with my father in law in the afternoon. Good times.
+And nature here is impressive. I enjoy listening to the [birds in the morning](https://soundcloud.com/danielsouza/bird-sounds-waking-up-in-tupaciguara). Sometimes I walk in the city with my father in law in the afternoon. Good times.
 
 ### I can smell again
 
@@ -111,7 +111,9 @@ While I was showering in the cold water, I could smell the soap fragrance. After
 
 ### Brazilian ways of surviving COVID
 
-The racist, stupid Brazilian president isn't helping et al. l. His anti-mask, anti-vaccine bullshit creates ripples of disinformation. The numbers are terrible: two hundred thousand people died already. But regardless, I am optimistic about my country recovery from COVID. This is a resilient, smart nation that handles crisis like no other.
+The racist, stupid Brazilian president isn't helping et al. l. His anti-mask, anti-vaccine bullshit creates ripples of disinformation. Brazil is maybe the only country in the world the authorities recommend HCQ. The numbers are terrible: two hundred thousand people died already. \
+\
+Regardless, I am optimistic about my country recovery from COVID. This is a resilient, smart nation that handles crisis like no other.
 
 I had to learn all about the Brazilian way of dealing with COVID. Their capacity to adapt is remarkable. Everything moved to delivery pretty fast, and the majority of the commercial establishments are following common-sense practices: masks, thermometers, social distancing, lots of hand sanitisers. Brazilians are coping well with the lockdown.
 
