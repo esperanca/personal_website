@@ -11,7 +11,11 @@ Travelling to Brazil ruined my plans to write here more. Or should I rename this
 
 [Ruins, Rub-outs and Trash](https://www.youtube.com/watch?v=VcpNQ8yORk0&feature=youtu.be)
 
-World Information Architecture Day happened yesterday. Forty-two cities around the world joined this year. In his keynote for the Egypt event, Dan Klyn shared a pearl of wisdom. He talks about Richard Saul Wurman and presents a case against the flight and fight dichotomy. [Text version](https://understandinggroup.com/5-lives/ruins-rub-outs-and-trash) of his talk available on the TUG website.
+World Information Architecture Day happened yesterday. Forty-two cities around the world joined this year. In his keynote for the Egypt event, Dan Klyn shared a pearl of wisdom. He talks about Richard Saul Wurman and Lou Khan. He presents a case against the flight and fight dichotomy and the importance of being careful and thoughtful about process and documentation. This quote resonated with me a lot:
+
+> the processes and tools we use are aimed at helping us satisfy the demand for moving fast and breaking things, not to be good, or to better ensure the doing of good work. 
+
+Here is the [text version](https://understandinggroup.com/5-lives/ruins-rub-outs-and-trash) of his talk. And while you there, explore the TUG website as they have amazing content.
 
 [A Common Point Between UX Design and Politics: Irresolvable Problems.](https://onvey.com/ui-design/common-point-ux-design-politics-irresolvable-problems/)
 
