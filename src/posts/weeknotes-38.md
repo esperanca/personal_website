@@ -5,7 +5,7 @@ date: 2021-06-26T22:04:43.390Z
 tags:
   - babylonhealth
 ---
-Life was so challenging that writing was a nuisance. It's The latest update was about four months ago, and so much happened. After recovering from long-covid symptoms, I had two vaccines. The first one was hard: I suffered from the adverse effects for weeks. The second one was softer, and I am ok now. Health recovered, and a new job and another lap completed around the sun. I bring some good news and valuable learnings. If it's your first time here, here is how I structure my writing. I hope you enjoy it.
+Life was so challenging that writing was a nuisance. My latest update was four months ago, and so much happened. After recovering from long-covid symptoms, I had two vaccines. The first one was hard: I suffered from the adverse effects for weeks. The second one was softer, and I am ok now. Health recovered, a new job and another lap completed around the sun. I bring some good news and valuable learnings. If it's your first time here, here is how [I structure my writing](https://gist.github.com/esperanca/5b91a7c64d6a1660cee2631759f425b7). I hope you enjoy it.
 
 # Top 3 links
 
@@ -28,8 +28,7 @@ If you struggled before with the binary discussions about specialist versus gene
 
 I started in my new role about three weeks ago. I will be leading the Design & Research Operations practice at Farfetch. Interviewing wasn't so pleasant and easy as I thought. In the end, I received a few offers from tech companies and design studios. I decided to join based on two things: the culture and my manager, Justin Stach.
 
-Because it is a Portuguese-British company, there is a fascinating mix of people and cultures. What I could notice in the first few days is that many people at the company take the values seriously.
-The one I like most is *Todos Juntos*.
+Because it is a Portuguese-British company, there is a fascinating mix of people and cultures. What I could notice in the first few days is that many people at the company take the values seriously. The one I like most is *Todos Juntos*.
 
 > Act for the greater good of all teams, even when it's beyond your area of expertise. Foster positive actions in those around you, and celebrate our shared achievements.
 
@@ -39,12 +38,12 @@ My first weeks have been smooth. The onboarding experience was reasonable, consi
 
 ### The ones that you don't forget
 
-A positive lens of leaving a job is that you always make friends that you keep forever. I feel so privileged to have worked with so many talented people in my previous employments. Naming a few would be unfair.
+A positive lens of leaving a job is that you always keep some of the forever. I feel so privileged to have worked with so many talented people in my previous employments. Naming a few would be unfair.
 
-Yet, two of them made extra efforts for my growth in my last tenure. They also support me when things weren't easy: Jane Austin and Fred Warburton.
+Yet, two of them made extra efforts for my growth in my last tenure. They also supported me when things weren't easy: Jane Austin and Fred Warburton.
 
-Jane was one of the best managers I ever had. Working with Jane is like attending an MBA in resilience, positivity and team culture. One of the things I learned with Jane that changed me is the concept of [trusting people upfront](https://medium.com/@nicharry/try-this-out-trust-people-upfront-5a21e9de73ef).\
-\
+Jane was one of the best managers I ever had. Working with Jane is like attending an MBA in resilience, positivity and team culture. One of the things I learned with Jane that changed me is the concept of [trusting people upfront](https://medium.com/@nicharry/try-this-out-trust-people-upfront-5a21e9de73ef).
+
 The other unforgettable fellow: Fred Warburton. We joined together, and we became friends in the first week. He is a beacon of work ethics and competence. We worked together one year and a half, and I learned loads with him. He made me fall in love with accessibility and inclusive design.
 
 ## Learned things
