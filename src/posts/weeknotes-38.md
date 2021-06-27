@@ -3,14 +3,14 @@ layout: layouts/post.njk
 title: "Weeknotes #38"
 date: 2021-06-26T22:04:43.390Z
 tags:
-  - babylonhealth
+  - farfetch
 ---
 Life was so challenging that writing was a nuisance. My latest update was four months ago, and so much happened. After recovering from long-covid symptoms, I had the two vaccines. The first shot was hard: the adverse effects put me down for weeks. The second one was softer, and I am considering myself fully recovered. I have a new job and completed another lap completed around the sun: 43 years! In this blog post I am bringing some good news and valuable learnings. If it's your first time here, here is how [I structure my writing](https://gist.github.com/esperanca/5b91a7c64d6a1660cee2631759f425b7). I hope you enjoy it.
 
 # Top 3 links
 
 [An NDA Was Designed to Keep Me Quiet](https://www.printfriendly.com/p/g/hfEpqq)
-George Aye's piece about his time at IDEO was quite shocking. I am sure thousands had similar experiences but are silent. This piece by Ifeoma Ozoma on non-disclosure agreements is powerful. She shines a light on the gap in our legal systems to protect victims of abuse in the workplace.
+George Aye's piece about his time at IDEO was quite shocking. I am sure thousands have had similar experiences but are silent. This piece by Ifeoma Ozoma on non-disclosure agreements is powerful. She shines a light on the gap in our legal systems to protect victims of abuse in the workplace.
 
 [Sci-Fi & Me Stay Curious Café](https://vimeo.com/564829106)
 Jeremy Keith's love letter to science fiction is beautiful. I am a sci-fi enthusiast, but it was the first time I could understand the different categories. My book backlog is now complete for the next decade.
@@ -26,14 +26,15 @@ A friend from Brazil, Cleu Oliver, introduced me to the concept of Nexialism. If
 
 I started in my new role about three weeks ago. I will be leading the Design & Research Operations practice at Farfetch. I received offers from tech companies and design studios. But the decision to join Farfetch was based on two things: the culture and my manager, Justin Stach.
 
-Because it is a Portuguese-British company, there is a fascinating mix of people and cultures. What I could notice in the first few days is that many people at the company take the values seriously. The one I like most is *Todos Juntos*.
+Because it is a Portuguese-British company, there is a fascinating mix of people and cultures. What I noticed during my first few days is that people seem to take the values seriously. The one I like most is *Todos Juntos*.
 
 > Act for the greater good of all teams, even when it's beyond your area of expertise. Foster positive actions in those around you, and celebrate our shared achievements.
 
-I've met Justin for the first time in 2018. We had coffee at Ozone, a hipster place in the Old Street area. We kept chatting on Twitter, and since that first catch-up, we had sporadic calls on Google Meet. Justin curiosity is infinite, which is a characteristic I appreciate in managers. I love this post he wrote a few years ago about [accessibility](https://justin.stach.uk/how_we_built_the_most_accessible_grocery_app) at Tesco. With a great manager, you will normally find an amazing team. 
+I first met Justin for the first time in 2018. We had coffee at Ozone, a hipster place in the Old Street area. We kept chatting on Twitter, and since that first catch-up, we had sporadic calls on Google Meet. Justin curiosity is infinite, which is a characteristic I appreciate in managers. I love this post he wrote a few years ago about [accessibility](https://justin.stach.uk/how_we_built_the_most_accessible_grocery_app) at Tesco. With a great manager, you will normally find an amazing team. 
 My first weeks have been smooth. The onboarding experience was reasonable, considering it was fully remote. I've met 60% of the team in 1-1's already. I am confident, energized and already trying to make things better. One small minimal viable improvement at time.
 
 ### The ones that you don't forget
+
 A positive lens of leaving a job is that you always keep some of the people you met as friends for life. I feel so privileged to have worked with so many talented people in my previous employments. Naming a few would be unfair.
 
 Yet, two of them made extra efforts for my growth in my last tenure. They also supported me when things weren't easy: Jane Austin and Fred Warburton.
@@ -48,7 +49,7 @@ The other unforgettable one: Fred Warburton. We joined together, and we became f
 
 Mindaugas Petrutis is Program Director at BeonDeck, a revolutionary education company. He asked me to share my learnings about feedback with a community of design leaders. Inappropriate and biased feedback derailed my career twice. The invitation was an opportunity to deep dive into the subject. Teaching always forces me to learn with more focus and depth.
 
-Part of my research was reading Radical Candor by Kim Scott for the second time. Another source of inspiration was Lauren Currie's work on Stride. The result was a 90 minutes workshop: Feedback Dojo.
+Part of my research was reading Radical Candor by Kim Scott for the second time. Another source of inspiration was Lauren Currie's work on Stride. The result was a 90-minute workshop: Feedback Dojo.
 
 A group of brave joined me in a Miro board to discuss and practice feedback. During one of the activities, we discussed times where they experienced destructive feedback. I was in shock as I didn't know it was so common, particularly for women. My plan now is to run a new version of this activity with other design teams. For now, here is my curation of simple tips for effective feedback.
 
@@ -76,7 +77,7 @@ But there is a considerable mental cost in collecting complex information. Liste
 
 Justin recommended the book The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter before joining. It's a classic that helps people to accelerate their learning in their first months at work.
 
-There are many obvious things in the book, but I am surprised about how many times I forgot about the basics. An important reminder in the book is to be mindful of your learning strategies. The [risk assessment tool](https://smpsva.starchapter.com/images/The_First_90_Days.pdf) is beneficial.
+There are many obvious things in the book, but I am surprised by how many times I forgot about the basics. An important reminder in the book is to be mindful of your learning strategies. The [risk assessment tool](https://smpsva.starchapter.com/images/The_First_90_Days.pdf) is beneficial.
 
 ## Perception and Psychological safety
 
@@ -92,7 +93,7 @@ If we worked together, you know that I am an advocate of asynchronous and distri
 
 Later on that week I had the opportunity to meet 3/4 of my team for a beer. Such a great time. We talked about many things: food, language, annoying football fans. It felt like creating a good memory.
 
-I am now more open to get out and meet people in real life. Some friends are still not ready, which I understand completely. But I've met Rahel Bailie, Gabi Stripoli, Emily Sappington, Mariana Menezes and Daniel Burka recently. Social distancing and some awkward moments could not diminish the pleasure of catching up with friends.
+I am now more open to getting out and meeting people in real life. Some friends are still not ready, which I understand completely. But I've met Rahel Bailie, Gabi Stripoli, Emily Sappington, Mariana Menezes and Daniel Burka recently. Social distancing and some awkward moments could not diminish the pleasure of catching up with friends.
 
 ## Holidays at Pepys Street
 
@@ -104,11 +105,14 @@ Leili is my safe harbour and my lighthouse. You get to known someone with depth 
 
 I am investing a lot more time and effort in my health. I can say I am now 90% recovered from the COVID nightmares. Since March, I am managing my diabetes better. The NHS system helps but isn't enough. Next month I am testing a new service that promises diabetes reversal in 60% of the cases. A big challenge for me as it is all about dietary changes and behaviour change. I am using continuous monitoring for three months now, and it's been revealing.
 
-Weight: 98kg
+Weight: 98kg\
+
 Blood pressure: 14/8
+\
 Food: A good balance of delivery and homemade food.
+\
 Drinks: a few pints due to meeting friends - recently rediscovered low alcohol beers.
+\
 Smoking: I am trying to stop, but not ready yet.
 
 > "We only understand something relative to something we already understand." Peter Morville, Intertwingled
-
