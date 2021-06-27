@@ -4,6 +4,10 @@ title: "Weeknotes #38"
 date: 2021-06-26T22:04:43.390Z
 tags:
   - farfetch
+  - designops
+  - socialanxiety
+  - sci-fi
+  - nexialism
 ---
 Life was so challenging that writing was a nuisance. My latest update was four months ago, and so much happened. After recovering from long-covid symptoms, I had the two vaccines. The first shot was hard: the adverse effects put me down for weeks. The second one was softer, and I am considering myself fully recovered. I have a new job and completed another lap completed around the sun: 43 years! In this blog post I am bringing some good news and valuable learnings. If it's your first time here, here is how [I structure my writing](https://gist.github.com/esperanca/5b91a7c64d6a1660cee2631759f425b7). I hope you enjoy it.
 
@@ -105,8 +109,8 @@ Leili is my safe harbour and my lighthouse. You get to known someone with depth 
 
 I am investing a lot more time and effort in my health. I can say I am now 90% recovered from the COVID nightmares. Since March, I am managing my diabetes better. The NHS system helps but isn't enough. Next month I am testing a new service that promises diabetes reversal in 60% of the cases. A big challenge for me as it is all about dietary changes and behaviour change. I am using continuous monitoring for three months now, and it's been revealing.
 
-Weight: 98kg\
-
+Weight: 98kg
+\
 Blood pressure: 14/8
 \
 Food: A good balance of delivery and homemade food.
