@@ -20,7 +20,7 @@ George Aye's piece about his time at IDEO was quite shocking. I am sure thousand
 Jeremy Keith's love letter to science fiction is beautiful. I am a sci-fi enthusiast, but it was the first time I could understand the different categories. My book backlog is now complete for the next decade.
 
 [The Nexialist approach](https://archive.factordaily.com/new-worlds-weekly-van-vogt-nexialism/) 
-A friend from Brazil, Cleu Oliver, introduced me to the concept of Nexialism. If you struggled before with the binary discussions about specialist versus generalists you gonna love this article. 
+ Cleu Oliver, a friend from Brazil, introduced me to the concept of Nexialism. If you struggled before with the binary discussions about specialist versus generalists you gonna love this article. 
 
 > Nexialism is the science of joining in an orderly fashion the knowledge of one field of learning with that of other fields.
 
