@@ -11,7 +11,7 @@ tags:
 ---
 Life was so challenging that writing was a nuisance. My latest update was four months ago, and so much happened. After recovering from long-covid symptoms, I had the two vaccines. The first shot was hard: the adverse effects annoyed me for weeks. The second one was easier, and I am considering myself fully recovered. I have a new job and completed another lap completed around the sun: 43 years! In this blog post I am bringing some good news and valuable learnings. If it's your first time here, here is how [I structure my writing](https://gist.github.com/esperanca/5b91a7c64d6a1660cee2631759f425b7). I hope you enjoy it.
 
-# Top 3 links
+## Top 3 links
 
 [An NDA Was Designed to Keep Me Quiet](https://www.printfriendly.com/p/g/hfEpqq)
 George Aye's piece about his time at IDEO was quite shocking. I am sure thousands have had similar experiences but are silent. This piece by Ifeoma Ozoma on non-disclosure agreements is powerful. She shines a light on the gap in our legal systems to protect victims of abuse in the workplace.
