@@ -51,11 +51,11 @@ The other unforgettable one: Fred Warburton. We joined together, and we became f
 
 ### The lost art of good feedback
 
-Mindaugas Petrutis is Program Director at BeonDeck, a revolutionary education company. He asked me to share my learnings about feedback with a community of design leaders. Inappropriate and biased feedback derailed my career twice. The invitation was an opportunity to deep dive into the subject. Teaching always forces me to learn with more focus and depth.
+Mindaugas Petrutis is Program Director at [OnDeck Design](https://www.beondeck.com/design), a revolutionary co-hort based education program for design leaders. He asked me to share my learnings about feedback with a community of design leaders. Inappropriate and biased feedback derailed my career twice. The invitation was an opportunity to deep dive into the subject. Teaching always forces me to learn with more focus and depth.
 
 Part of my research was reading Radical Candor by Kim Scott for the second time. Another source of inspiration was Lauren Currie's work on Stride. The result was a 90-minute workshop: Feedback Dojo.
 
-A group of brave joined me in a Miro board to discuss and practice feedback. During one of the activities, we discussed times where they experienced destructive feedback. I was in shock as I didn't know it was so common, particularly for women. My plan now is to run a new version of this activity with other design teams. For now, here is my curation of simple tips for effective feedback.
+A group of brave designers joined me in a Miro board to discuss and practice feedback. During one of the activities, we discussed times where they experienced destructive feedback. I was in shock as I didn't know it was so common, particularly for women. My plan now is to run a new version of this activity with other design teams. For now, here is my curation of simple tips for effective feedback.
 
 ```
 Golden Rules of Feedback
@@ -79,7 +79,7 @@ But there is a considerable mental cost in collecting complex information. Liste
 
 ## The first 90 days
 
-Justin recommended the book The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter before joining. It's a classic that helps people to accelerate their learning in their first months at work.
+Justin Stach recommended the book The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter before joining. It's a classic that helps people to accelerate their learning in their first months at work.
 
 There are many obvious things in the book, but I am surprised by how many times I forgot about the basics. An important reminder in the book is to be mindful of your learning strategies. The [risk assessment tool](https://smpsva.starchapter.com/images/The_First_90_Days.pdf) is beneficial.
 
@@ -103,7 +103,7 @@ I am now more open to getting out and meeting people in real life. Some friends 
 
 Before starting to work again, I had some incredible days with Leili at home. We decided not to travel, and in hindsight, it was a great decision. We are trying new things together (like swimming), and it was good to have some time to rethink our routine. She is working on her book, and I am trying to help her. A few weeks ago, she prepared some Palestinian food for a new client, and the photo was so beautiful.
 
-Leili is my safe harbour and my lighthouse. You get to known someone with depth when life isn't easy. This shitty year has been transformative for our relationship. One great lesson is creating space and time for solitude while sharing the same physical space.
+Leili is my safe harbour and my lighthouse. You get to known someone with depth when life isn't easy. This shitty year has been transformative for our relationship. A lesson learned recently is creating space and time for solitude. Sharing the same physical space for long periods isn't easy.
 
 # Healthcheck
 
