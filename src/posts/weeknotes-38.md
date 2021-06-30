@@ -119,4 +119,4 @@ Drinks: a few pints due to meeting friends - recently rediscovered low alcohol b
 \
 Smoking: I am trying to stop, but not ready yet.
 
-> "We only understand something relative to something we already understand." Peter Morville, Intertwingled
+> "We only understand something relative to something we already understand." Richard Saul Wurman 
