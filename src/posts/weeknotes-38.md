@@ -57,8 +57,7 @@ Part of my research was reading Radical Candor by Kim Scott for the second time.
 
 A group of brave designers joined me in a Miro board to discuss and practice feedback. During one of the activities, we discussed times where they experienced destructive feedback. I was in shock as I didn't know it was so common, particularly for women. My plan now is to run a new version of this activity with other design teams. For now, here is my curation of simple tips for effective feedback.
 
-```
-Golden Rules of Feedback
+**Golden Rules of Feedback**
 
 * Ask for permission and respect the personal context.
 * Vet your feedback - fair, humble, unbiased
@@ -67,7 +66,6 @@ Golden Rules of Feedback
 * Use descriptive language over evaluative. Avoid generalizations
 * Isolate feedback from advice
 * Focus on the future
-```
 
 ## Things I've learned
 
