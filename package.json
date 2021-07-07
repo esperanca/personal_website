@@ -1,21 +1,21 @@
 {
-  "name": "hylia",
+  "name": "danielsouza",
   "version": "0.7.0",
-  "description": "A simple Eleventy starter kit to help you have a blog of your own",
+  "description": "Personal website of Daniel Souza",
   "main": "index.js",
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-img": "^0.9.0",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6",
     "@tbranyen/jsdom": "^13.0.0",
     "concurrently": "^6.2.0",
+    "eleventy-plugin-svg-contents": "^0.7.0",
     "html-minifier": "^4.0.0",
     "image-size": "^1.0.0",
-    "json-to-scss": "^1.6.2",
     "sass": "^1.35.1",
     "semver": "^7.3.5",
-    "slugify": "^1.5.3",
-    "stalfos": "github:hankchizljaw/stalfos#c8971d22726326cfc04089b2da4d51eeb1ebb0eb"
+    "slugify": "^1.5.3"
   },
   "devDependencies": {
     "@erquhart/rollup-plugin-node-builtins": "^2.1.5",
@@ -30,8 +30,7 @@
     "rollup-plugin-node-resolve": "^5.2.0"
   },
   "scripts": {
-    "sass:tokens": "npx json-to-scss src/_data/tokens.json src/scss/_tokens.scss",
-    "sass:process": "npm run sass:tokens && sass src/scss/global.scss src/_includes/assets/css/global.css --style=compressed",
+    "sass:process": "npx sass src/scss/style.scss src/_includes/css/style.css --style=compressed",
     "cms:precompile": "make-dir dist/admin && nunjucks-precompile src/_includes > dist/admin/templates.js -i \"\\.(njk|css|svg)$\"",
     "cms:bundle": "rollup --config",
     "start": "concurrently \"npm run sass:process -- --watch\" \"npm run cms:bundle -- --watch\" \"chokidar \\\"src/_includes/**\\\" -c \\\"npm run cms:precompile\\\"\" \"npm run serve\"",
@@ -40,13 +39,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hankchizljaw/hylia.git"
+    "url": "git+https://github.com/esperanca/personal_website.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hankchizljaw/hylia/issues"
+    "url": "https://github.com/esperanca/personal_website/issues"
   },
-  "homepage": "https://github.com/hankchizljaw/hylia#readme"
+  "homepage": "https://github.com/esperanca/personal_website#readme"
 }
