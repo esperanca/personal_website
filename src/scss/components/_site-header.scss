@@ -1,0 +1,48 @@
+.site-header {
+  background: $color-header-bg;
+  color: $color-header-text;
+  font-size: $text-base;
+  text-transform: uppercase;
+  font-weight: 900;
+  padding: $space-sm 0;
+
+  &__site-name {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  &__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  a {
+    display: inline-block;
+    color: inherit;
+    text-decoration: none;
+    padding: $space-xs;
+    transition: color 0.2s ease;
+  }
+
+  a:hover {
+    color: transparentize($color-header-text, 0.3);
+  }
+
+  a:focus {
+    border: 1px solid white;
+  }
+}
+
+.nav {
+  &__list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    > * + * {
+      margin-left: $space-lg;
+    }
+  }
+}

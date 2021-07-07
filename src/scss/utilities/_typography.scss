@@ -1,0 +1,63 @@
+@use 'variables' as *;
+
+@font-face {
+  font-family: 'Noto Sans';
+  src: local('Noto Sans'), url('/fonts/notosans-regular-webfont.woff2') format('woff2'),
+    url('/fonts/notosans-regular-webfont.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  src: local('Noto Sans Black'),
+    url('/fonts/notosans-black-webfont.woff2') format('woff2'),
+    url('/fonts/notosans-black-webfont.woff') format('woff');
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: local('Playfair Display'),
+    url('/fonts/playfairdisplay-regular-webfont.woff2') format('woff2'),
+    url('/fonts/playfairdisplay-regular-webfont.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: local('Playfair Display Bold'),
+    url('/fonts/playfairdisplay-bold-webfont.woff2') format('woff2'),
+    url('/fonts/playfairdisplay-bold-webfont.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
+}
+
+body {
+  line-height: 1.6rem;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  font-size: $text-4xl;
+}
+
+h2 {
+  font-size: $text-3xl;
+}
+
+h3 {
+  font-size: $text-2xl;
+}
+
+h4 {
+  font-size: $text-lg;
+}

@@ -1,7 +1,9 @@
+@use 'variables' as *;
+
 .wrapper {
-  max-width: map-get($metrics, 'wrap-max-width');
+  max-width: 75rem;
   margin-left: auto;
   margin-right: auto;
-  padding-left: get-size(500);
-  padding-right: get-size(500);
+  padding-left: $space-md;
+  padding-right: $space-md;
 }

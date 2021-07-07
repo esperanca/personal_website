@@ -1,0 +1,48 @@
+.site-footer {
+  background: $color-footer-bg;
+  color: $color-footer-text;
+  padding: $space-lg 0;
+
+  &__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__social-links {
+    > * + * {
+      margin-left: $space-lg;
+    }
+
+    > a {
+      display: inline-block;
+      height: $space-lg;
+      width: $space-lg;
+      text-decoration: none;
+
+      .icon {
+        height: 100%;
+        width: 100%;
+      }
+    }
+  }
+
+  &__details {
+    font-size: $text-lg;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+    transition: color 0.2s ease;
+  }
+
+  a:focus {
+    border: 1px solid white;
+  }
+
+  a:hover {
+    color: inherit;
+    color: transparentize($color-footer-text, 0.3);
+  }
+}

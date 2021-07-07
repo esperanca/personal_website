@@ -1,25 +1,43 @@
 .intro {
-  background: var(--color-theme-highlight-block);
+  padding-top: $space-xxl;
 
-  &__summary {
-    --flow-space: #{get-size(500)};
-    font-size: get-size(500);
+  h1 {
+    font-weight: 400;
+    font-size: $text-3xl;
+    max-width: $space-xxl * 20;
+  }
 
-    a {
-      color: currentColor;
+  h2 {
+    margin-top: $space-lg;
+    font-weight: 400;
+    font-size: $text-5xl;
+    max-width: $space-xxl * 8;
 
-      &:hover {
-        text-decoration: none;
-      }
+    strong {
+      font-weight: 700;
     }
   }
 
-  &__heading {
-    max-width: 40ex;
-    color: var(--color-theme-feature-text);
+  img {
+    max-width: 300px;
+  }
 
-    &--compact {
-      max-width: 20ex;
+  &__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__nav {
+    margin-top: $space-lg;
+    font-size: $text-lg;
+
+    a {
+      color: inherit;
     }
+  }
+
+  hr {
+    margin-top: $space-xl;
   }
 }

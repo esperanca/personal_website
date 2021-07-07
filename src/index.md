@@ -1,14 +1,10 @@
 ---
 layout: home
-title: Hi!
 metaTitle: Daniel Souza -  Information Architect and Design Researcher
-metaDesc: Daniel Souza -  Information Architect and Design Researcher. Juggling
-  creativity and pragmatism, I help multi-disciplinary teams to design excellent
-  services and experiences.
-postsHeading: Latest posts
-archiveButtonText: See all posts
-socialImage: ""
+metaDesc: Daniel Souza -  Information Architect and Design Researcher. Jiggling creativity and pragmatism, I help multi-disciplinary teams to design & build excellent services and experiences.
+introImage: 'images/intro-image.png'
 ---
 
-Brazilian Information Architect and Design Researcher.
-Juggling creativity and pragmatism, I help multi-disciplinary teams to design excellent services and experiences.
+# Information Architect and Design Researcher
+
+## Jiggling creativity and pragmatism, I help multi&#x2011;disciplinary teams to **design & build excellent** services and experiences.

@@ -1,29 +1,13 @@
-.pagination {
-  flex-wrap: wrap;
+.homepage__pagination {
+  display: flex;
+  font-weight: 400;
+  padding-bottom: $space-xl;
 
-  a {
-    color: var(--color-theme-primary);
+  &-link {
+    margin-left: auto;
+    display: inline-block;
+    text-transform: uppercase;
 
-    &:not(:hover) {
-      text-decoration: none;
-    }
-
-    // Flip content if direction is backwards
-    &[data-direction='backwards'] {
-      flex-direction: row-reverse;
-
-      svg {
-        transform: rotate(-180deg);
-      }
-    }
-
-    // If only child and forwards, push out to the right
-    &[data-direction='forwards']:only-child {
-      margin-left: auto;
-    }
-  }
-
-  svg {
-    pointer-events: none;
+    color: inherit;
   }
 }
