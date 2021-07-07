@@ -8,34 +8,23 @@
     "@11ty/eleventy-img": "^0.9.0",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6",
-    "@tbranyen/jsdom": "^13.0.0",
-    "concurrently": "^6.2.0",
     "eleventy-plugin-svg-contents": "^0.7.0",
     "html-minifier": "^4.0.0",
-    "image-size": "^1.0.0",
-    "sass": "^1.35.1",
+    "sass": "^1.35.2",
     "semver": "^7.3.5",
     "slugify": "^1.5.3"
   },
   "devDependencies": {
-    "@erquhart/rollup-plugin-node-builtins": "^2.1.5",
     "bl": "^5.0.0",
-    "chokidar-cli": "^2.1.0",
-    "cross-env": "^7.0.3",
-    "make-dir-cli": "^3.0.0",
-    "prettier": "^2.3.2",
-    "rollup": "^2.52.7",
-    "rollup-plugin-commonjs": "^10.1.0",
-    "rollup-plugin-json": "^4.0.0",
-    "rollup-plugin-node-resolve": "^5.2.0"
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.3.2"
   },
   "scripts": {
-    "sass:process": "npx sass src/scss/style.scss src/_includes/css/style.css --style=compressed",
-    "cms:precompile": "make-dir dist/admin && nunjucks-precompile src/_includes > dist/admin/templates.js -i \"\\.(njk|css|svg)$\"",
-    "cms:bundle": "rollup --config",
-    "start": "concurrently \"npm run sass:process -- --watch\" \"npm run cms:bundle -- --watch\" \"chokidar \\\"src/_includes/**\\\" -c \\\"npm run cms:precompile\\\"\" \"npm run serve\"",
-    "serve": "cross-env ELEVENTY_ENV=development npx eleventy --serve",
-    "production": "npm run sass:process && npm run cms:precompile && npm run cms:bundle && npx eleventy"
+    "sass": "npx sass src/scss/style.scss src/_includes/css/style.css --style=compressed",
+    "watch:eleventy": "eleventy --serve",
+    "watch:sass": "npm run sass -- --watch",
+    "start": "npm-run-all sass --parallel watch:*",
+    "build": "npm run sass && eleventy"
   },
   "repository": {
     "type": "git",
