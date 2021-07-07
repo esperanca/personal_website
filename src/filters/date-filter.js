@@ -1,15 +1,19 @@
-// Stolen from https://stackoverflow.com/a/31615643
-const appendSuffix = n => {
-  var s = ['th', 'st', 'nd', 'rd'],
-    v = n % 100;
-  return n + (s[(v - 20) % 10] || s[v] || s[0]);
-};
-
 module.exports = function dateFilter(value) {
   const dateObject = new Date(value);
+  let dd = null;
+  let mm = null;
 
-  const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-  const dayWithSuffix = appendSuffix(dateObject.getDate());
+  if (dateObject.getDate() < 10) {
+    dd = `0${dateObject.getDate()}`;
+  } else {
+    dd = dateObject.getDate();
+  }
 
-  return `${dayWithSuffix} ${months[dateObject.getMonth()]} ${dateObject.getFullYear()}`;
+  if (dateObject.getMonth() < 10) {
+    mm = `0${dateObject.getMonth()}`;
+  } else {
+    mm = dateObject.getMonth();
+  }
+
+  return `${dd}/${mm}`;
 };
