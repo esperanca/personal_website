@@ -1,17 +1,15 @@
 {% extends 'layouts/base.njk' %}
 
 {# Intro content #}
-{% set introHeading = title %}
-{% set introSummary %}
-  {{ content | safe }}
+{% set introContent %}
+{{ content | safe }}
 {% endset %}
 
 {# Post list content #}
-{% set postListHeading = postsHeading %}
 {% set postListItems = collections.postFeed %}
 
 {# Archive link #}
-{% if postListItems.length < collections.posts.length %} 
+{% if postListItems.length < collections.posts.length %}
   {% set paginationNextText = archiveButtonText %}
   {% set paginationNextUrl = '/archive' %}
 {% endif %}
@@ -20,6 +18,11 @@
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
     {% include "partials/components/post-list.njk" %}
-    {% include "partials/components/pagination.njk" %}
+
+    <div class="wrapper homepage__pagination">
+      <a href="/archive" class="homepage__pagination-link">View All Updates</a>
+    </div>
+
+    {% include "partials/components/newsletter.njk" %}
   </main>
 {% endblock %}
