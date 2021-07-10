@@ -15,11 +15,6 @@ const htmlMinTransform = require('./src/transforms/html-min-transform.js');
 const site = require('./src/_data/site.json');
 
 module.exports = function (config) {
-  // Eleventy reloads when SCSS changes
-  config.setBrowserSyncConfig({
-    files: './src/_includes/css',
-  });
-
   // Filters
   config.addFilter('dateFilter', dateFilter);
   config.addFilter('markdownFilter', markdownFilter);
