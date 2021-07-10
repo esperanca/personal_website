@@ -1,20 +1,34 @@
 .site-header {
   background: $color-header-bg;
   color: $color-header-text;
-  font-size: $text-base;
+  font-size: $text-lg;
   text-transform: uppercase;
   font-weight: 900;
-  padding: $space-sm 0;
+  padding: $space-md 0;
 
   &__site-name {
     color: inherit;
     text-decoration: none;
+    text-align: center;
   }
 
   &__wrapper {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+
+    & > * {
+      flex-grow: 1;
+    }
+  }
+
+  // https://9elements.com/blog/the-devils-albatros-an-algorithmic-layout-technique/
+  .devils-albatross {
+    flex-grow: 666;
+    // Substract 100% from a chosen threshold
+    flex-basis: calc((45em - 100%) * 666);
+    padding-top: $space-md;
   }
 
   a {
@@ -35,6 +49,8 @@
 }
 
 .nav {
+  overflow-x: auto;
+
   &__list {
     display: flex;
     list-style: none;
@@ -43,6 +59,11 @@
 
     > * + * {
       margin-left: $space-lg;
+    }
+
+    @include phone {
+      font-size: $text-sm;
+      justify-content: space-between;
     }
   }
 }

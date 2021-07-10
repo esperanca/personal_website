@@ -48,3 +48,25 @@ $form-text-placeholder: $gray-4;
 $btn-primary-bg: $black;
 $btn-primary-hover: $gray-10;
 $btn-primary-label: $white;
+
+$phone-width: 64em;
+$tablet-width: 64em;
+$desktop-width: 80em;
+
+@mixin phone {
+  @media screen and  (max-width: #{$phone-width}) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media screen and (min-width: #{$tablet-width}) and (max-width: #{$desktop-width - 0.063em}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media screen and (min-width: #{$desktop-width}) {
+    @content;
+  }
+}

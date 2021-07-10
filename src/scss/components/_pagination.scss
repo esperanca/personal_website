@@ -7,7 +7,15 @@
     margin-left: auto;
     display: inline-block;
     text-transform: uppercase;
-
+    transition: color 0.3s ease-out;
     color: inherit;
+
+    &:hover {
+      color: $accent;
+    }
+
+    @include phone {
+      margin-right: auto;
+    }
   }
 }

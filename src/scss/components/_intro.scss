@@ -3,15 +3,27 @@
 
   h1 {
     font-weight: 400;
-    font-size: $text-3xl;
+    font-size: $text-4xl;
     max-width: $space-xxl * 20;
+
+    @include phone {
+      font-size: $text-2xl;
+      text-align: center;
+    }
   }
 
   h2 {
     margin-top: $space-lg;
     font-weight: 400;
-    font-size: $text-5xl;
+    font-size: $text-5xl + 0.6rem;
     max-width: $space-xxl * 8;
+    line-height: 76px;
+
+    @include phone {
+      font-size: $text-4xl;
+      line-height: 1.5;
+      text-align: center;
+    }
 
     strong {
       font-weight: 700;
@@ -19,21 +31,39 @@
   }
 
   img {
-    max-width: 300px;
+    max-width: 20rem;
+
+    @include phone {
+      max-width: 60%;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: $space-lg;
+    }
   }
 
   &__wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    @include phone {
+      flex-direction: column;
+      justify-content: center;
+    }
   }
 
   &__nav {
     margin-top: $space-lg;
-    font-size: $text-lg;
+    font-size: $text-2xl;
 
     a {
       color: inherit;
+    }
+
+    @include phone {
+      font-size: $text-xl;
+      text-align: center;
     }
   }
 

@@ -5,8 +5,10 @@
       <span class="visually-hidden">{{ site.name }} - Home</span>
       <span class="site-head__site-name" aria-hidden="true">{{ site.name }}</span>
     </a>
-    {% set ariaLabel = 'navigation' %}
 
+    <div class="devils-albatross"></div>
+
+    {% set ariaLabel = 'navigation' %}
     {% if navigation.items %}
       <nav class="nav" aria-label="{{ariaLabel}}">
         <ul class="nav__list">

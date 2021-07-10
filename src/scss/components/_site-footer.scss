@@ -5,8 +5,20 @@
 
   &__wrapper {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
+
+    & > * {
+      flex-grow: 1;
+    }
+  }
+
+  // https://9elements.com/blog/the-devils-albatros-an-algorithmic-layout-technique/
+  .devils-albatross {
+    flex-grow: 666;
+    flex-basis: calc((45em - 100%) * 666);
+    padding-top: $space-lg;
   }
 
   &__social-links {
@@ -20,15 +32,29 @@
       width: $space-lg;
       text-decoration: none;
 
-      .icon {
+      svg {
         height: 100%;
         width: 100%;
+        transition: opacity 0.2s ease;
       }
+
+      svg:hover {
+        opacity: 0.6;
+      }
+    }
+
+    @include phone {
+      display: flex;
+      justify-content: center;
     }
   }
 
   &__details {
     font-size: $text-lg;
+
+    @include phone {
+      text-align: center;
+    }
   }
 
   a {

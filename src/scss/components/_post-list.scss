@@ -5,7 +5,7 @@
     text-transform: uppercase;
     font-family: 'Noto Sans', san-serif;
     font-weight: 700;
-    font-size: $text-xl;
+    font-size: $text-xl + 0.2rem;
     display: flex;
     align-items: center;
     margin-top: $space-xl;
@@ -28,23 +28,33 @@
     margin: 0;
     list-style: none;
     margin-top: $space-xl;
-    padding-left: $space-xl;
   }
 
   &__item {
-    margin-top: $space-xl;
+    margin-top: $space-xxl;
     font-family: 'Noto Sans', san-serif;
+
+    p {
+      font-size: $text-lg;
+    }
 
     h3 {
       font-family: inherit;
       font-weight: 400;
-      font-size: $text-3xl;
+      font-size: $text-4xl;
+    }
+
+    @include phone {
+      h3 {
+        font-size: $text-2xl;
+      }
     }
   }
 
   &__link {
     color: inherit;
     text-decoration: underline;
+    transition: color 0.3s ease-out;
 
     &:visited {
       text-decoration: none;
@@ -52,6 +62,7 @@
 
     &:hover {
       text-decoration: underline;
+      color: $accent;
     }
   }
 }
