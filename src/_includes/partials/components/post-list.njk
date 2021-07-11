@@ -1,11 +1,6 @@
 {% if postListItems.length %}
   <section class="post-list wrapper">
-    <h2 class="post-list__heading">
-      <span class="post-list__icon">
-        {{ '/src/_includes/icons/zap-icon.svg' | svgContents | safe  }}
-      </span>Updates
-    </h2>
-    <div class="">
+    <div>
       <ol class="post-list__items" reversed>
         {% for item in postListItems %}
           {% if item

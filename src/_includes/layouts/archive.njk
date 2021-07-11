@@ -10,7 +10,10 @@
 
 {% block content %}
   <main id="main-content" tabindex="-1">
-    {% include "partials/components/intro.njk" %}
+    <div class="wrapper archive">
+      <h1 class="archive__heading">All Week Notes</h1>
+    </div>
+
     {% include "partials/components/post-list.njk" %}
   </main>
 {% endblock %}

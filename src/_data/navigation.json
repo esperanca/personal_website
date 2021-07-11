@@ -1,12 +1,13 @@
 {
-  "items": [{
+  "items": [
+    {
       "text": "about",
       "url": "/about",
       "external": false
     },
     {
       "text": "weeknotes",
-      "url": "/weeknotes",
+      "url": "/archive",
       "external": false
     },
     {

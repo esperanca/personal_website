@@ -53,7 +53,7 @@
     }
   }
 
-  &__nav {
+  &__more-about {
     margin-top: $space-lg;
     font-size: $text-2xl;
 
@@ -64,6 +64,28 @@
     @include phone {
       font-size: $text-xl;
       text-align: center;
+    }
+  }
+
+  &__post-list-heading {
+    text-transform: uppercase;
+    font-family: 'Noto Sans', san-serif;
+    font-weight: 700 !important;
+    font-size: $text-xl + 0.2rem !important;
+    display: flex;
+    align-items: center;
+    margin-top: $space-xl;
+  }
+
+  &__post-list-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    display: flex;
+    margin-right: $space-sm;
+
+    svg {
+      width: 100%;
+      height: 100%;
     }
   }
 
