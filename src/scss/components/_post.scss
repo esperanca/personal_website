@@ -142,9 +142,22 @@
     align-items: center;
     margin-top: $space-xxl;
 
+    .nav__list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+
+      li {
+        margin-right: $space-sm;
+        margin-left: 0;
+        margin-top: $space-sm;
+      }
+    }
+
     h2 {
       font-size: $text-base;
       margin-right: 1rem;
+      margin-top: $space-sm;
     }
 
     a {
