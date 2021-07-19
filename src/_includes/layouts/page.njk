@@ -1,16 +1,12 @@
 {% extends 'layouts/base.njk' %}
 
-{# Intro content #}
-{% set introHeading = title %}
-
 {% block content %}
   <main id="main-content" tabindex="-1">
     <article class="wrapper">
+      <h1>{{title}}</h1>
       <div>
         {{ content | safe }}
       </div>
     </article>
   </main>
 {% endblock %}
-
-{{ content | safe }}

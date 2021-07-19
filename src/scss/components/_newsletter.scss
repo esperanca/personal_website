@@ -11,7 +11,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    opacity: 0.25;
+    opacity: 0.15;
     z-index: -1;
   }
 
@@ -22,7 +22,7 @@
   }
 
   &__heading {
-    max-width: $space-xxl * 7;
+    max-width: 42rem;
     font-size: $text-5xl;
 
     @include phone {
@@ -48,7 +48,7 @@
     flex-direction: column;
     align-items: center;
     margin-top: $space-sm;
-    max-width: 45rem;
+    max-width: 40rem;
     padding: $space-xs;
     width: 100%;
   }
@@ -57,6 +57,7 @@
     margin-top: $space-md;
     text-align-last: left;
     align-self: start;
+    font-weight: 900;
   }
 
   &__input {
@@ -65,6 +66,8 @@
     z-index: 2;
     width: 100%;
     transition: all 0.3s ease;
+    padding: 1rem;
+    font-size: $text-lg;
   }
 
   &__input:focus {
@@ -97,119 +100,4 @@
       opacity: 0.8;
     }
   }
-}
-
-form {
-  max-width: 35rem;
-}
-
-form br {
-  display: none;
-}
-
-label {
-  display: block;
-  font-weight: 600;
-}
-
-input,
-select {
-  line-height: 1;
-}
-
-input,
-textarea,
-select {
-  background-color: #fff;
-  font: inherit;
-  border: 1px solid $color-text;
-  margin-top: 0.15rem;
-  padding: 0.5rem 1rem;
-  width: 100%;
-}
-
-label input {
-  margin: -0.25rem 0.5rem 0 0;
-  width: auto;
-  vertical-align: middle;
-}
-
-fieldset {
-  border: 0;
-  margin: 0;
-  padding: 0;
-}
-
-legend {
-  display: block;
-  font-weight: bold;
-}
-
-.field-list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.field-list__field-group {
-  margin-bottom: 2rem;
-  transition: transform 150ms;
-
-  &__description {
-    display: block;
-    margin-top: 0.3rem;
-    font-size: 0.875rem;
-    line-height: 1.25;
-  }
-
-  textarea + &__description {
-    margin-top: 0;
-  }
-
-  &--confirm {
-    font-weight: normal;
-  }
-
-  &__list {
-    list-style: none;
-    margin: 0;
-
-    label {
-      font-weight: normal;
-    }
-
-    .field-list__field-group__description {
-      margin: 0 0 0 1.35rem;
-    }
-  }
-}
-
-.button {
-  display: inline-block;
-  border: none;
-  padding: get-size(300) get-size('base');
-  line-height: 1;
-  margin: 0;
-  text-decoration: none;
-  cursor: pointer;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-}
-
-.button:hover,
-.button:focus {
-  filter: brightness(1.2);
-}
-
-.button:focus:hover {
-  outline: none;
-}
-
-.button:focus:not(:hover) {
-  outline: 1px solid $color-text;
-  outline-offset: -4px;
-}
-
-.button:active {
-  transform: scale(0.99);
 }

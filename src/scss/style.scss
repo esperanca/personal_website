@@ -85,6 +85,15 @@ select {
   outline: 1px solid $black;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
+
 @import 'components/heading-permalink';
 @import 'components/intro';
 @import 'components/newsletter';
@@ -97,3 +106,4 @@ select {
 @import 'components/syntax-highlighting';
 @import 'components/video-player';
 @import 'components/archive';
+@import 'components/page';

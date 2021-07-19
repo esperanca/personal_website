@@ -10,25 +10,18 @@
     color: inherit;
     text-decoration: none;
     text-align: center;
+    text-transform: lowercase;
+    margin-right: $space-lg;
+
+    @include phone {
+      font-size: $text-sm;
+    }
   }
 
   &__wrapper {
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-
-    & > * {
-      flex-grow: 1;
-    }
-  }
-
-  // https://9elements.com/blog/the-devils-albatros-an-algorithmic-layout-technique/
-  .devils-albatross {
-    flex-grow: 666;
-    // Substract 100% from a chosen threshold
-    flex-basis: calc((45em - 100%) * 666);
-    padding-top: $space-md;
   }
 
   a {
@@ -37,13 +30,14 @@
     text-decoration: none;
     padding: $space-xs;
     transition: color 0.2s ease;
+    border: 1px solid transparent;
   }
 
   a:hover {
     color: transparentize($color-header-text, 0.3);
   }
 
-  a:focus {
+  a:focus-visible {
     border: 1px solid white;
   }
 }
@@ -64,6 +58,10 @@
     @include phone {
       font-size: $text-sm;
       justify-content: space-between;
+
+      > * + * {
+        margin-left: 0.5rem;
+      }
     }
   }
 }

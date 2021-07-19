@@ -1,5 +1,5 @@
 .intro {
-  padding-top: $space-xxl;
+  padding-top: $space-lg;
 
   h1 {
     font-weight: 400;
@@ -7,22 +7,20 @@
     max-width: $space-xxl * 20;
 
     @include phone {
-      font-size: $text-2xl;
-      text-align: center;
+      font-size: $text-lg;
     }
   }
 
   h2 {
-    margin-top: $space-lg;
+    margin-top: 22px;
     font-weight: 400;
-    font-size: $text-5xl + 0.6rem;
-    max-width: $space-xxl * 8;
+    font-size: $text-5xl + 0.5rem;
+    max-width: $space-xxl * 9;
     line-height: 76px;
 
     @include phone {
-      font-size: $text-4xl;
-      line-height: 1.5;
-      text-align: center;
+      font-size: $text-3xl;
+      line-height: 38px;
     }
 
     strong {
@@ -46,15 +44,17 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    line-height: 1;
 
     @include phone {
       flex-direction: column;
       justify-content: center;
+      align-items: flex-start;
     }
   }
 
   &__more-about {
-    margin-top: $space-lg;
+    margin-top: 22px;
     font-size: $text-2xl;
 
     a {
@@ -63,7 +63,6 @@
 
     @include phone {
       font-size: $text-xl;
-      text-align: center;
     }
   }
 
@@ -90,6 +89,6 @@
   }
 
   hr {
-    margin-top: $space-xl;
+    margin-top: $space-lg;
   }
 }

@@ -1,15 +1,19 @@
 .post-list {
-  padding-bottom: $space-xxl * 1.5;
+  padding-bottom: $space-xxl;
 
   &__items {
     padding: 0;
     margin: 0;
     list-style: none;
+    margin-top: 22px;
+    padding-left: $space-lg;
+  }
+
+  &__item:not(:first-of-type) {
     margin-top: $space-xl;
   }
 
   &__item {
-    margin-top: $space-xxl;
     font-family: 'Noto Sans', san-serif;
 
     p {

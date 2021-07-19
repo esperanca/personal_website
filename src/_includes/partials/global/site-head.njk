@@ -3,10 +3,8 @@
   <div class="wrapper site-header__wrapper">
     <a href="/" class="site-header__site-name">
       <span class="visually-hidden">{{ site.name }} - Home</span>
-      <span class="site-head__site-name" aria-hidden="true">{{ site.name }}</span>
+      <span class="site-head__site-name" aria-hidden="true">{{ site.authorHandle }}</span>
     </a>
-
-    <div class="devils-albatross"></div>
 
     {% set ariaLabel = 'navigation' %}
     {% if navigation.items %}
