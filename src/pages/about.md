@@ -2,16 +2,18 @@
 layout: layouts/page.njk
 title: About
 permalink: /about/index.html
-socialImage: ""
+socialImage: ''
 ---
-I was born in Minas Gerais, a Brazilian region well known for its great coffee, cheese and their talkative inhabitants. 
 
-In the last ten years, I have lived in six different cities. The most interesting one was for sure, Marabá, in the legal Amazon. My favourite is still Brasília, capital of Brazil. I moved to the UK in 2016, and I live in London with my lovely and talented wife, Leiliane Valadares.  
+I was born in Minas Gerais, a Brazilian region well known for its great coffee, cheese and their talkative inhabitants.
 
-I am design nexialist. Learning new things and making connections across disciplines excites me. I consider myself an Information Architect and Design Researcher - the primary lenses I use to make things better. 
+In the last ten years, I have lived in six different cities. The most interesting one was for sure, Marabá, in the legal Amazon. My favourite is still Brasília, capital of Brazil. I moved to the UK in 2016, and I live in London with my lovely and talented wife, Leiliane Valadares.
+
+I am design nexialist. Learning new things and making connections across disciplines excites me. I consider myself an Information Architect and Design Researcher - the primary lenses I use to make things better.
 
 My goal is to bring clarity and simplicity so teams can be creative and connected. I use simple language and information architecture to decode complexity. Processes, services, digital experiences or even organisations.
 
-Currently, I work with executives and design leaders scaling design and research teams, with a new set of practices known in our industry as Design Operations.  
+Currently, I work with executives and design leaders scaling design and research teams, with a new set of practices known in our industry as Design Operations.
 
-![A photograph of Daniel Souza taken in London](/images/daniel_souza_photo.jpg "A photograph of Daniel Souza ")
+![A photograph of Daniel Souza](/images/daniel_souza_photo.jpg 'A photograph of Daniel Souza ')
+_A photograph of Daniel Souza_

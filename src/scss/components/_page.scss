@@ -1,0 +1,158 @@
+.page {
+  width: 100%;
+  padding-bottom: $space-xl;
+
+  .inner-wrapper {
+    max-width: 90ch;
+  }
+
+  &__header-wrapper {
+    background-color: #f5f5f5;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: $space-lg;
+
+    h1 {
+      font-size: 3.75rem;
+      font-weight: normal;
+    }
+  }
+
+  &__content {
+    margin-top: $space-xxl;
+    word-wrap: break-word;
+    font-size: $text-lg;
+    max-width: 90ch;
+    margin-right: auto;
+
+    & > * + * {
+      margin-top: 22px;
+    }
+
+    p {
+      margin-top: $space-lg;
+      line-height: 1.6;
+      font-size: $text-xl;
+    }
+
+    h1,
+    h2,
+    h3 {
+      text-transform: capitalize;
+    }
+
+    h1,
+    h2 {
+      display: flex;
+      align-items: center;
+      position: relative;
+
+      a {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        margin-left: $space-sm;
+        color: inherit;
+      }
+
+      svg {
+        fill: currentColor;
+        transform: scale(0.7);
+      }
+    }
+
+    h1 + p,
+    h2 + p,
+    h3 + p {
+      margin-top: $space-sm;
+    }
+
+    * + h1,
+    * + h2,
+    * + h3 {
+      margin-top: $space-xxl;
+    }
+
+    h2 + h3 {
+      margin-top: $space-lg;
+    }
+
+    h2 {
+      font-size: $text-4xl;
+    }
+
+    h3 {
+      font-size: $text-2xl;
+    }
+
+    a:not([class]) {
+      color: inherit;
+      display: inline-block;
+      text-decoration: underline;
+    }
+
+    a:not([class]):hover {
+      color: $accent;
+    }
+
+    strong {
+      font-weight: bold;
+      font-size: 0.9em;
+    }
+
+    code {
+      font-size: 1.2em;
+      font-weight: 600;
+      margin-left: 0.01ch;
+      margin-right: 0.01ch;
+    }
+
+    pre > code {
+      margin-right: 0;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    blockquote {
+      margin-top: $space-lg;
+      margin-left: 0;
+      font-style: italic;
+      border-left: 5px solid #c4c4c4;
+      padding-left: $space-sm;
+      padding-top: $space-md;
+      padding-bottom: $space-md;
+
+      p {
+        opacity: 0.85;
+        margin-top: 0;
+      }
+    }
+
+    ol:not([class]),
+    ul:not([class]) {
+      margin-left: 1rem;
+
+      li + li {
+        margin-top: 1rem;
+      }
+    }
+
+    figure img,
+    pre > code,
+    .video-player {
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    }
+
+    figure img {
+      position: relative;
+      z-index: 1;
+    }
+
+    figcaption {
+      font-size: 0.8em;
+      font-style: italic;
+      margin: 0.5rem auto 0 auto;
+    }
+  }
+}

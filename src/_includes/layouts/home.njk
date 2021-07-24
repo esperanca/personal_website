@@ -16,8 +16,32 @@
 
 {% block content %}
   <main id="main-content" tabindex="-1">
-    {% include "partials/components/intro.njk" %}
-    {% include "partials/components/post-list.njk" %}
+    <header class="homepage">
+      <div class="wrapper">
+        <h1>{{heading}}</h1>
+        <div class="homepage__wrapper">
+          <div class="homepage__content">{{ introContent | safe }}</div>
+          <div>
+            <img loading="lazy" src="{{ introImage | url }}" alt="">
+          </div>
+        </div>
+        <span class="homepage__more-about">More <a href="/about">about</a> me</span>
+        <hr/>
+      </div>
+
+      <div class="wrapper">
+        <h2 class="homepage__post-list-heading">
+          <span class="homepage__post-list-icon">
+            {{ '/src/_includes/icons/zap-icon.svg' | svgContents | safe  }}
+          </span>
+          <span>Updates</span>
+        </h2>
+      </div>
+    </header>
+
+    <div class="homepage__post-list">
+      {% include "partials/components/post-list.njk" %}
+    </div>
 
     <div class="wrapper homepage__pagination">
       <a href="/archive" class="homepage__pagination-link">View All Updates</a>

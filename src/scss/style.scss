@@ -81,8 +81,15 @@ select {
   }
 }
 
-:focus {
+:focus-visible {
   outline: 1px solid $black;
+}
+
+h1,
+h2 {
+  a {
+    display: none;
+  }
 }
 
 body {
@@ -95,9 +102,9 @@ footer {
 }
 
 @import 'components/heading-permalink';
-@import 'components/intro';
+@import 'components/homepage';
 @import 'components/newsletter';
-@import 'components/pagination';
+@import 'components/contact';
 @import 'components/post';
 @import 'components/post-list';
 @import 'components/site-header';

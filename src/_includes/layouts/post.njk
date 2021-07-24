@@ -1,44 +1,43 @@
-{% extends 'layouts/base.njk' %}
+{% extends 'layouts/page.njk' %}
 
 {% block content %}
-  <main id="main-content" tabindex="-1" class="post wrapper" >
-    <div class="inner-wrapper">
-      <header>
-        <h1>{{title}}</h1>
+  <main id="main-content" tabindex="-1" class="page" >
+    <div class="page__header-wrapper wrapper">
+      <h1>Blog</h1>
+    </div>
 
-        <p class="meta-info">
-          {% if date %}
-            <time datetime="{{ date | w3DateFilter }}" class="dt-published">{{ date | dateFilter }}</time>
+    <div class="wrapper">
+      <div class="inner-wrapper">
+        <header>
+          <h1>{{title}}</h1>
+
+          <p class="meta-info">
+            {% if date %}
+              <time datetime="{{ date | postDate }}" class="dt-published">{{ date | postDate }}</time>
+            {% endif %}
+            <span>— {{ helpers.getReadingTime(content) }} minute read</span>
+          </p>
+        </header>
+
+        <article>
+          <div class="page__content">
+            {{ content | safe }}
+          </div>
+
+          {% if tags %}
+            <footer class="post__footer">
+              <h2 class="">Filed under:</h2>
+              <ul class="nav__list">
+                {% for item in tags %}
+                  <li class="nav__item">
+                    <a href="/tags/{{ item }}">{{ item }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </footer>
           {% endif %}
-          <span>— {{ helpers.getReadingTime(content) }} minute read</span>
-        </p>
-      </header>
-
-      <article>
-        <div class="post__body">
-          {{ content | safe }}
-        </div>
-
-        {% if tags %}
-          <footer class="post__footer">
-            <h2 class="">Filed under:</h2>
-            <ul class="nav__list">
-              {% for item in tags %}
-                <li class="nav__item">
-                  <a href="/tags/{{ item }}">{{ item }}</a>
-                </li>
-              {% endfor %}
-            </ul>
-          </footer>
-        {% endif %}
-
-        {% if site.enableThirdPartyComments %}
-          <hr/>
-          <aside class="">
-            {% include "partials/global/third-party-comments.njk" %}
-          </aside>
-        {% endif %}
-      </article>
+        </article>
+      </div>
     </div>
   </main>
 {% endblock %}

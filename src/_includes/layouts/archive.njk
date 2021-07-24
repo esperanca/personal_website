@@ -1,17 +1,13 @@
 {% extends 'layouts/base.njk' %}
 
-{# Intro content #}
-{% set introHeading = title %}
-{% set introSummary %}{{ content | safe }}{% endset %}
-
 {# Post list content #}
-{% set postListHeading = 'All posts' %}
+{% set title = "Blog" %}
 {% set postListItems = collections.posts %}
 
 {% block content %}
   <main id="main-content" tabindex="-1">
-    <div class="wrapper archive">
-      <h1 class="archive__heading">All Week Notes</h1>
+    <div class="page__header-wrapper wrapper">
+      <h1>{{title}}</h1>
     </div>
 
     {% include "partials/components/post-list.njk" %}
