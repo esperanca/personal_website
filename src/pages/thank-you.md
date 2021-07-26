@@ -3,8 +3,10 @@ title: 'Thank you'
 permalink: '/thank-you/index.html'
 ---
 
-Thank you!
+Obrigada!
 
-If you are in a hurry, feel free to ping me on [twitter](twitter.com/danielsouza) 
+You are all set.
 
-🙂
+I normally send the e-mail the last day of the month. You will get a confirmation in your e-mail in a few minutes.
+
+See you soon.
