@@ -1,12 +1,9 @@
 {
-  "showThemeCredit": false,
   "name": "Daniel Souza",
-  "shortDesc": "",
   "url": "https://danielsouza.org",
+  "authorName": "Daniel Souza",
   "authorEmail": "ola@danielsouza.org",
   "authorHandle": "@danielsouza",
-  "authorName": "Daniel Souza",
-  "enableThirdPartyComments": false,
   "maxPostsPerPage": 6,
   "faviconPath": "/images/favicon.png"
 }
