@@ -33,6 +33,7 @@
   }
 
   &__link {
+    display: inline-block;
     color: inherit;
     text-decoration: underline;
     transition: color 0.3s ease-out;
