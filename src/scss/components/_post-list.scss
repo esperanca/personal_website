@@ -1,17 +1,50 @@
 .post-list {
+  padding-bottom: $space-xxl;
+
+  &__items {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    margin-top: 22px;
+  }
+
+  &__item:not(:first-of-type) {
+    margin-top: $space-xl;
+  }
+
   &__item {
-    --flow-space: #{get-size(700)};
+    font-family: 'Noto Sans', san-serif;
+
+    p {
+      font-size: $text-lg;
+    }
+
+    h3 {
+      font-family: inherit;
+      font-weight: 400;
+      font-size: $text-4xl;
+    }
+
+    @include phone {
+      h3 {
+        font-size: $text-2xl;
+      }
+    }
   }
 
   &__link {
-    &,
+    display: inline-block;
+    color: inherit;
+    text-decoration: underline;
+    transition: color 0.3s ease-out;
+
     &:visited {
-      color: var(--color-theme-primary);
       text-decoration: none;
     }
 
     &:hover {
       text-decoration: underline;
+      color: $accent;
     }
   }
 }

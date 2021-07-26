@@ -1,0 +1,68 @@
+.site-header {
+  background: $color-header-bg;
+  color: $color-header-text;
+  font-size: $text-lg;
+  text-transform: uppercase;
+  font-weight: 900;
+  padding: $space-md 0;
+
+  &__site-name {
+    color: inherit;
+    text-decoration: none;
+    text-align: center;
+    text-transform: lowercase;
+    margin-right: $space-lg;
+
+    @include phone {
+      font-size: $text-sm;
+    }
+  }
+
+  &__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  a {
+    display: inline-block;
+    color: inherit;
+    text-decoration: none;
+    padding: $space-xs;
+    transition: color 0.2s ease;
+    border: 1px solid transparent;
+  }
+
+  a:hover {
+    color: transparentize($color-header-text, 0.3);
+  }
+
+  a:focus-visible {
+    border: 1px solid white;
+  }
+}
+
+.nav {
+  overflow-x: auto;
+
+  &__list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    > * + * {
+      margin-left: $space-lg;
+    }
+
+    @include phone {
+      font-size: $text-sm;
+      justify-content: space-between;
+
+      > * + * {
+        margin-left: 0.5rem;
+      }
+    }
+  }
+}

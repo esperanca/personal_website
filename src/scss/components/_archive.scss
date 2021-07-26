@@ -1,0 +1,11 @@
+.archive {
+  padding-top: $space-xxl * 1.5;
+
+  &__heading {
+    font-size: $text-5xl;
+
+    @include phone {
+      font-size: $text-4xl;
+    }
+  }
+}

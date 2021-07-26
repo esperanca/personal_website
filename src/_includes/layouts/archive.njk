@@ -1,16 +1,19 @@
 {% extends 'layouts/base.njk' %}
 
-{# Intro content #}
-{% set introHeading = title %}
-{% set introSummary %}{{ content | safe }}{% endset %}
-
 {# Post list content #}
-{% set postListHeading = 'All posts' %}
+{% set title = "Blog" %}
 {% set postListItems = collections.posts %}
 
 {% block content %}
   <main id="main-content" tabindex="-1">
-    {% include "partials/components/intro.njk" %}
-    {% include "partials/components/post-list.njk" %}
+    <div class="page__header-wrapper">
+      <div class="page__inner-wrapper">
+        <h1>{{title}}</h1>
+      </div>
+    </div>
+
+    <div class="page__inner-wrapper">
+      {% include "partials/components/post-list.njk" %}
+    </div>
   </main>
 {% endblock %}

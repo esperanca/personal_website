@@ -1,0 +1,103 @@
+.newsletter {
+  position: relative;
+  padding-top: $space-xl;
+  padding-bottom: $space-xxl;
+
+  &::before {
+    content: '';
+    background-image: url(images/footer-background.png);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0.15;
+    z-index: -1;
+  }
+
+  &__wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__heading {
+    max-width: 42rem;
+    font-size: $text-5xl;
+
+    @include phone {
+      font-size: $text-3xl;
+      text-align: center;
+      max-width: 100%;
+    }
+  }
+
+  &__body {
+    max-width: 50rem;
+    text-align: center;
+    font-size: $text-2xl;
+    margin-top: $space-sm;
+
+    @include phone {
+      font-size: $text-lg;
+    }
+  }
+
+  &__form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: $space-sm;
+    max-width: 40rem;
+    padding: $space-xs;
+    width: 100%;
+  }
+
+  &__label {
+    margin-top: $space-md;
+    text-align-last: left;
+    align-self: start;
+    font-weight: 900;
+  }
+
+  &__input {
+    background: $form-element-bg;
+    border: 1px solid $form-element-border;
+    z-index: 2;
+    width: 100%;
+    transition: all 0.3s ease;
+    padding: 1rem;
+    font-size: $text-lg;
+  }
+
+  &__input:focus {
+    border: 1px solid $form-element-border-focus;
+    outline: none;
+    box-shadow: 0 0 0 2px $gray-10 inset;
+  }
+
+  &__button {
+    background-color: $btn-primary-bg;
+    color: $btn-primary-label;
+    margin-top: $space-md;
+    outline: none;
+    box-shadow: none;
+    border-radius: 20px;
+    border-width: 0;
+    max-width: $space-xxl * 2.5;
+    width: 100%;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+    font-size: $text-2xl;
+    padding: $space-xs;
+    transition: all 0.3s ease;
+
+    &:focus {
+      box-shadow: 0 0 0 5px $gray-6;
+    }
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}

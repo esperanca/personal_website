@@ -1,0 +1,72 @@
+$text-xs: 0.75rem;
+$text-sm: 0.875rem;
+$text-base: 1rem;
+$text-lg: 1.125rem;
+$text-xl: 1.25rem;
+$text-2xl: 1.5rem;
+$text-3xl: 1.875rem;
+$text-4xl: 2.25rem;
+$text-5xl: 3rem;
+$text-6xl: 5rem;
+
+$space-unit: 1rem;
+$space-xxs: 0.25 * $space-unit;
+$space-xs: 0.5 * $space-unit;
+$space-sm: 0.75 * $space-unit;
+$space-md: 1.25 * $space-unit;
+$space-lg: 2 * $space-unit;
+$space-xl: 3.25 * $space-unit;
+$space-xxl: 5.25 * $space-unit;
+
+$black: #000036;
+$white: white;
+$gray-10: #2e2e31;
+$gray-6: #7b7a7d;
+$gray-4: #a5a5a6;
+$gray-3: #bbbbbc;
+$gray-2: #d1d0d2;
+$gray-1: #e8e7e8;
+$accent: rgb(9, 121, 250);
+
+$color-bg: $white;
+$color-text: $black;
+$color-border: $black;
+$color-link: $black;
+$color-link-hover: $accent;
+$color-blockquote-border: $black;
+
+$color-header-bg: $black;
+$color-header-text: $white;
+$color-footer-bg: $black;
+$color-footer-text: $white;
+
+$form-element-border: $black;
+$form-element-bg: $white;
+$form-element-border-focus: $gray-10;
+$form-text-placeholder: $gray-4;
+
+$btn-primary-bg: $black;
+$btn-primary-hover: $gray-10;
+$btn-primary-label: $white;
+
+$phone-width: 64em;
+$tablet-width: 64em;
+$desktop-width: 80em;
+
+@mixin phone {
+  @media screen and  (max-width: #{$phone-width}) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media screen and (min-width: #{$tablet-width}) and (max-width: #{$desktop-width - 0.063em}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media screen and (min-width: #{$desktop-width}) {
+    @content;
+  }
+}

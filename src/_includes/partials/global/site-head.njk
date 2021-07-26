@@ -1,13 +1,33 @@
 <a class="skip-link" href="#main-content">Skip to content</a>
-<header role="banner" class="[ site-head ] [ pad-top-700 pad-bottom-700 ">
-  <div class="wrapper">
-    <div class="[ site-head__inner ] [ md:box-flex space-between align-center ]">
-      <a href="/" class="[ site-head__site-name ] [ leading-tight ]">
-        <span class="visually-hidden">{{ site.name }} - Home</span>
-        <span class="[ site-head__site-name ] [ text-600 ]" aria-hidden="true">{{ site.name }}</span>
-      </a>
-      {% set ariaLabel = 'navigation' %}
-      {% include "partials/components/nav.njk" %}
-    </div>
+<header role="banner" class="site-header">
+  <div class="wrapper site-header__wrapper">
+    <a href="/" class="site-header__site-name">
+      <span class="visually-hidden">{{ site.name }} - Home</span>
+      <span class="site-head__site-name" aria-hidden="true">{{ site.authorHandle }}</span>
+    </a>
+
+    {% set ariaLabel = 'navigation' %}
+    {% if navigation.items %}
+      <nav class="nav" aria-label="{{ariaLabel}}">
+        <ul class="nav__list">
+          {% for item in navigation.items %}
+            {% set relAttribute = '' %}
+            {% set currentAttribute = '' %}
+
+            {% if item.rel %}
+              {% set relAttribute = ' rel="' + item.rel + '"' %}
+            {% endif %}
+
+            {% if page.url == item.url %}
+              {% set currentAttribute = ' aria-current="page"' %}
+            {% endif %}
+
+            <li class="nav__item">
+              <a href="{{ item.url }}"{{ relAttribute | safe }}{{ currentAttribute | safe }}>{{ item.text }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    {% endif %}
   </div>
 </header>

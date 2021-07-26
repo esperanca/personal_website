@@ -1,17 +1,19 @@
 {% extends 'layouts/base.njk' %}
 
-{# Intro content #}
-{% set introHeading = title %}
-
 {% block content %}
-  <main id="main-content" tabindex="-1">
-    <article class="[ post ] [ h-entry ]">
-      {% include "partials/components/intro.njk" %}
-      <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
-        {{ content | safe }}
+  <main id="main-content" tabindex="-1" class="page">
+    <div class="page__header-wrapper">
+      <div class="page__inner-wrapper">
+        <h1>{{title}}</h1>
       </div>
-    </article>
+    </div>
+
+    <div class="wrapper">
+      <div class="page__inner-wrapper">
+        <div class="page__content">
+          {{ content | safe }}
+        </div>
+      </div>
+    </div>
   </main>
 {% endblock %}
-
-{{ content | safe }}

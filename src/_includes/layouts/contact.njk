@@ -1,18 +1,32 @@
-{% extends 'layouts/base.njk' %}
-
-{# Intro content #}
-{% set introHeading = title %}
+{% extends 'layouts/page.njk' %}
 
 {% block content %}
-  <main id="main-content" tabindex="-1">
-    <article class="[ post ] [ h-entry ]">
-      {% include "partials/components/intro.njk" %}
-      <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
-        {{ content | safe }}
-        {% include "partials/components/contact-form.njk" %}
+  <main id="main-content" tabindex="-1" class="contact">
+    <div class="page__header-wrapper">
+      <div class="page__inner-wrapper">
+        <h1>{{title}}</h1>
       </div>
-    </article>
+    </div>
+
+    <div class="wrapper">
+      <div class="page__inner-wrapper">
+        {{ content | safe }}
+
+        <form class="contact__form" name="contact" method="POST" data-netlify="true" action="/success">
+          <label for="email" class="contact__label">Whats your name:</label>
+          <input id="email" type="text" class="contact__input" name="name"/>
+
+          <label for="email" class="contact__label">Whats your e-mail:</label>
+          <input id="email" type="email" class="contact__input" name="email"/>
+
+          <label for="email" class="contact__label">Whats your message:</label>
+          <textarea name="message" id="" cols="30" rows="10"></textarea>
+
+          <input type="hidden" name="form-name" value="contact">
+
+          <button type="submit" class="contact__button">Subscribe</button>
+        </form>
+      </div>
+    </div>
   </main>
 {% endblock %}
-
-{{ content | safe }}
