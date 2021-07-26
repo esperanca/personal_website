@@ -18,7 +18,7 @@ const markdownLibrary = markdownIt({
         </svg>`,
   permalinkSpace: true,
   permalinkBefore: false,
-  level: [1, 2],
+  level: [1, 2, 3],
   slugify: (s) =>
     s
       .trim()
