@@ -2,24 +2,29 @@
 
 {% block content %}
   <main id="main-content" tabindex="-1" class="contact">
-    <div class="page__header-wrapper wrapper">
-      <h1>{{title}}</h1>
+    <div class="page__header-wrapper">
+      <div class="page__inner-wrapper">
+        <h1>{{title}}</h1>
+      </div>
     </div>
+
     <div class="wrapper">
-      {{ content | safe }}
+      <div class="page__inner-wrapper">
+        {{ content | safe }}
 
-      <form class="contact__form">
-        <label for="email" class="contact__label">Whats your name:</label>
-        <input id="email" type="text" class="contact__input"/>
+        <form class="contact__form">
+          <label for="email" class="contact__label">Whats your name:</label>
+          <input id="email" type="text" class="contact__input"/>
 
-        <label for="email" class="contact__label">Whats your e-mail:</label>
-        <input id="email" type="email" class="contact__input"/>
+          <label for="email" class="contact__label">Whats your e-mail:</label>
+          <input id="email" type="email" class="contact__input"/>
 
-        <label for="email" class="contact__label">Whats your message:</label>
-        <textarea name="message" id="" cols="30" rows="10"></textarea>
+          <label for="email" class="contact__label">Whats your message:</label>
+          <textarea name="message" id="" cols="30" rows="10"></textarea>
 
-        <button type="submit" class="contact__button">Subscribe</button>
-      </form>
+          <button type="submit" class="contact__button">Subscribe</button>
+        </form>
+      </div>
     </div>
   </main>
 {% endblock %}

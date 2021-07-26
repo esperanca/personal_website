@@ -4,6 +4,15 @@
 
   .inner-wrapper {
     max-width: 90ch;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid red;
+  }
+
+  &__inner-wrapper {
+    max-width: 90ch;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   &__header-wrapper {
@@ -11,6 +20,13 @@
     padding-top: 2rem;
     padding-bottom: 2rem;
     margin-bottom: $space-lg;
+
+    & > div.post {
+      max-width: 90ch;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 0;
+    }
 
     h1 {
       font-size: 3.75rem;
@@ -23,7 +39,6 @@
     word-wrap: break-word;
     font-size: $text-lg;
     max-width: 90ch;
-    margin-right: auto;
 
     & > * + * {
       margin-top: 22px;
