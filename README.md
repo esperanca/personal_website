@@ -21,7 +21,7 @@ npm run start
 npm run  build
 ```
 
-# Setting up Netlify CMS
+## Setting up Netlify CMS
 
 This project is preconfigured to work with Netlify CMS.
 When Netlify CMS makes commits to your repo, Netlify will auto-trigger a rebuild / deploy when new commits are made.
