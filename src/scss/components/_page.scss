@@ -6,12 +6,22 @@
     max-width: 90ch;
     margin-left: auto;
     margin-right: auto;
+
+    @include phone {
+      padding-left: $space-md;
+      padding-right: $space-md;
+    }
   }
 
   &__inner-wrapper {
     max-width: 90ch;
     margin-left: auto;
     margin-right: auto;
+
+    @include phone {
+      padding-left: $space-md;
+      padding-right: $space-md;
+    }
   }
 
   &__header-wrapper {
