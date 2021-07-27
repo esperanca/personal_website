@@ -1,8 +1,8 @@
 ---
 layout: layouts/page.njk
-title: Colohon
+title: Colophon
 permalink: /colophon/index.html
-socialImage: ''
+socialImage: ""
 ---
 
 How we made this website
