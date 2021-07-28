@@ -1,12 +1,11 @@
 <section class="newsletter">
   <div class="wrapper newsletter__wrapper">
     <h2 class="newsletter__heading">The best of my fuzzy brain</h2>
-    <p class="newsletter__body">A monthly newsletter with things that are too risky to publish. A fine selection of experience design articles, book reviews and jokes</p>
+    <p class="newsletter__body">A monthly newsletter with things that are too raw or risky to publish. A fine selection of experience design articles, book reviews and jokes</p>
 
-    <form class="newsletter__form" name="formNewsletter" method="POST" data-netlify="true" action="/thank-you">
+    <form class="newsletter__form" name="newsletter" method="POST" data-netlify="true" action="/thank-you">
       <label for="email" class="newsletter__label">Your email:</label>
       <input id="email" type="text" class="newsletter__input" required/>
-      <input type="hidden" name="form-name" value="newsletter">
       <button type="submit" class="newsletter__button">Subscribe</button>
     </form>
   </div>
