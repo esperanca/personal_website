@@ -14,13 +14,13 @@
 
         <form class="contact__form" name="contact" method="POST" data-netlify="true" action="/success">
           <label for="email" class="contact__label">Whats your name:</label>
-          <input id="email" type="text" class="contact__input" name="name"/>
+          <input id="email" type="text" class="contact__input" name="name" required/>
 
           <label for="email" class="contact__label">Whats your e-mail:</label>
-          <input id="email" type="email" class="contact__input" name="email"/>
+          <input id="email" type="email" class="contact__input" name="email" required/>
 
           <label for="email" class="contact__label">Whats your message:</label>
-          <textarea name="message" id="" cols="30" rows="10"></textarea>
+          <textarea name="message" id="" cols="30" rows="10" required ></textarea>
 
           <input type="hidden" name="form-name" value="contact">
 
