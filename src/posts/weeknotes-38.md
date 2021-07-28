@@ -100,6 +100,10 @@ Later on that week I had the opportunity to meet 3/4 of my team for a beer. Such
 
 I am now more open to getting out and meeting people in real life. Some friends are still not ready, which I understand completely. But I've met Rahel Bailie, Gabi Stripoli, Emily Sappington, Mariana Menezes and Daniel Burka recently. Social distancing and some awkward moments could not diminish the pleasure of catching up with friends.
 
+![Picture from the Office](/images/office_visit.jpg "Cool office at Old Street ")
+
+![]()
+
 ### Holidays at Pepys Street
 
 Before starting to work again, I had some incredible days with Leili at home. We decided not to travel, and in hindsight, it was a great decision. We are trying new things together (like swimming), and it was good to have some time to rethink our routine. She is working on her book, and I am trying to help her. A few weeks ago, she prepared some Palestinian food for a new client, and the photo was so beautiful.
