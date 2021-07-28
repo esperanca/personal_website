@@ -1,6 +1,9 @@
 ---
 layout: layouts/post.njk
 title: "Weeknotes #38"
+metaTitle: Weeknotes, by  Daniel Souza
+metaDesc: "In this edition of my weeknotes, I share a bit about starting a new
+  job, feedback for designers and psychological safety "
 date: 2021-06-26T22:04:43.390Z
 tags:
   - farfetch
