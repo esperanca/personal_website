@@ -107,14 +107,10 @@ Leili is my safe harbour and my lighthouse. You get to known someone with depth 
 
 I am investing a lot more time and effort in my health. I can say I am now 90% recovered from the COVID nightmares. Since March, I am managing my diabetes better. The NHS system helps but isn't enough. Next month I am testing a new service that promises diabetes reversal in 60% of the cases. A big challenge for me as it is all about dietary changes and behaviour change. I am using continuous monitoring for three months now, and it's been revealing.
 
-Weight: 98kg
-\
-Blood pressure: 14/8
-\
-Food: A good balance of delivery and homemade food.
-\
-Drinks: a few pints due to meeting friends - recently rediscovered low alcohol beers.
-\
-Smoking: I am trying to stop, but not ready yet.
+**Weight:** 98kg
+**Blood pressure:** 14/8
+**Food:** A good balance of delivery and homemade food.
+**Drinks:** a few pints due to meeting friends - recently rediscovered low alcohol beers.
+**Smoking**: I am trying to stop, but not ready yet.
 
-> "We only understand something relative to something we already understand." Richard Saul Wurman 
+> "We only understand something relative to something we already understand." Richard Saul Wurman
