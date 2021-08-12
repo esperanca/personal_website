@@ -15,7 +15,7 @@ pagination:
 permalink: /tags/{{ tag }}/
 ---
 
-{% extends 'layouts/base.njk' %}
+{% extends 'layouts/page.njk' %}
 
 {# Post list content #}
 {% set postListHeadingLevel = '2' %}
@@ -23,12 +23,19 @@ permalink: /tags/{{ tag }}/
 {% set postListItems = collections[tag] %}
 
 {% block content %}
-  <main id="main-content" tabindex="-1" >
-    <div class="wrapper archive">
-      <h1>Posts tagged “{{ tag }}”</h1>
+  <main id="main-content" tabindex="-1"  class="page">
+    <div class="page__header-wrapper">
+      <div class="page__inner-wrapper">
+        <h1>Tags</h1>
+      </div>
     </div>
 
-    {% include "partials/components/post-list.njk" %}
-    {% include "partials/components/pagination.njk" %}
+    <div class="class inner-wrapper">
+      <h1>Posts tagged “{{ tag }}”</h1>
+
+      {% include "partials/components/post-list.njk" %}
+      {% include "partials/components/pagination.njk" %}
+    </div>
+
   </main>
 {% endblock %}
