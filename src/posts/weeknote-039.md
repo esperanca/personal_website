@@ -1,11 +1,14 @@
 ---
 layout: layouts/post.njk
-title: "Weeknote 39 "
+title: "Weeknote #39 "
 date: 2021-09-25T12:02:25.829Z
 tags:
   - farfetch
+  - agile
+  - design
+  - covid
 ---
-Since July, I’ve invested my time in redesigning this website instead of writing. I love designing and coding stuff because I can. There is still a lot to do, but it was an exciting side project, and I had help from a brilliant bunch.
+Since July, I’ve invested my time in redesigning this website instead of writing. I love designing and coding stuff because I can. There is still a lot to do, but it was an exciting side project, and I had help from a brilliant [bunch of people](/colophon).
 
 Hope you like it, and please send any [feedback](/contact). Priority is for accessibility improvements. But visual and interaction design comments are valid.
 
@@ -69,9 +72,9 @@ It baffles me that in 2021 we are still having discussions about this. It’s no
 
 Even [Apple is having trouble](https://www.vox.com/recode/22690190/apple-remote-work-from-home-employee-cher-scarlett-janneke-parrish). This article published today at Vox is enlightening: it explains so much about the arrogance that comes with power and what is really behind these decisions.
 
-Perhaps the only FAANG that is not having so much trouble on this is Facebook. Since June, they acted fast and opened the work at home policy to all employees after trying to enforce some rules in May.
+Perhaps the only FAANG that is not having so much trouble on this arena is Facebook. Since June, they acted fast and opened the work at home policy to all employees after trying to enforce some rules in May. Perhaps is because they have way [bigger issues to deal](https://www.getrevue.co/profile/themarkup/issues/facebook-and-the-terrible-horrible-no-good-very-bad-month-770649) with it in terms of reputation.
 
-The back story of the war on talent is that sad, really. Millions making bad decisions. The uncomfortable truth is that the changes in how we work are happening fast, and leadership and management aren’t able to cope.
+The back story of the war on talent retention is that sad, really. Millions making bad decisions. The uncomfortable truth is that the changes in how we work are happening fast, and leadership and management teams aren’t able to cope.
 
 I am navigating this theme and doing what I can. Having honest conversations with my team and learning more and more about asynchronous work. We have pleanty of possibilities and ways of solving this charade. But the solutions will require more empathy and flexibility.
 
@@ -83,7 +86,7 @@ Burn-out isn’t something that you recover fully quickly. I am still recovering
 
 ### A day in the office, again
 
-Thursday, I visited the office again, and I’ve met people from Product for the first time. It was nice to see them in 3D, having some tea and high fives and hugs. It was a joy to find out we have a library and I also had lunch with Justin and Rufus. 
+Thursday, I visited the office again, and I’ve met people from Product for the first time. It was nice to see them in 3D, taking some selfies, having some tea, high fives and hugs. It was a joy to find out we have a design library and having lunch with Justin and Rufus was great. 
 
 ### Leili’s book is ready
 
