@@ -8,9 +8,7 @@ tags:
   - design
   - covid
 ---
-Since July, I’ve invested my time in redesigning this website instead of writing. I love designing and coding stuff because I can. There is still a lot to do, but it was an exciting side project, and I had help from a brilliant [bunch of people](/colophon).
-
-Hope you like it, and please send any [feedback](/contact). Priority is for accessibility improvements. But visual and interaction design comments are valid.
+I made a decision to invest my time redesigning this website instead of writing more frequently. There is still a lot to do, but it was an exciting side project, and I had help from a brilliant [bunch of people](/colophon). The new layout is live, with the same content and a few new features. I can wait to get some feedback [feedback](/contact) and iterate. Onward.  
 
 **Top 3 links**
 
