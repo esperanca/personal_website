@@ -9,7 +9,7 @@ tags:
   - covid
   - holidays
 ---
-Instead of writing more frequently, i decided to redesign this website. There is still a lot to do, but it was an exciting side project, and I had help from a brilliant [bunch of people](/colophon). The new layout is live since August, with the same content and a few new features. I can wait to get some [feedback](/contact) and iterate. Onward.  
+Instead of writing more frequently, i decided to redesign this website in the summer. There is still a lot to do, but it was an exciting side project, and I had help from a brilliant [bunch of people](/colophon). The new layout is live since August, with the same content and a few new features. I can wait to get some [feedback](/contact) and iterate. Onward.  
 
 **Top 3 links**
 
@@ -29,20 +29,20 @@ Inayaili De León shares a lot of wisdom in her 2018 talk at the Design Systems 
 
 ### First 90 days
 
-When I joined my current job I bought this book "The First 90 days". It was heplful to plan my activities during the probation, and a lesson in finding the balance of learning new things and reusing existing practices. I've learned a bit about luxury and fashion, and I understand more how significant self-expression is for people's lives. I  an say that I know a lot now about the company culture and our design team context and achievements. 
+When I joined my current job I bought this book "The First 90 days". It was heplful to plan my activities during the probation, and a lesson in finding the balance of learning new things and reusing existing knowledge. I feel more connected now with the world of luxury and fashion, and I understand more how meaningful self-expression in clothing and style is for people's lives. I know a lot more about the company culture and our design team context and achievements. 
 
-There support I am getting from the team and the design leadership is excellent, and having this great chap called Justin to call boss is a privilege.  
+The support I am getting from the team and the design leadership is excellent, and having this great chap called Justin to call boss is a privilege. So yes, I am happy and excited for the next quarter. 
 
 ### Workshops, love and productive conflict
 
 When I joined, there was a process in place for strategic design work. It’s an innovative approach that intertwines research and sprint activities smoothly. My first mission at the company was to improve part of this process. It was not my first time working with custom sprints and complex
 programs related to innovation. But I was changing the process while planning the next initiative, which is not an ideal approach. In the end, it worked really well. 
 
-During the planning activities, I was lucky to work with Deborah Nogueira, a long time friend and talented designer. She led an interesting piece on inspiration and competitive analysis, cross-polinated with the research inisghts.
+During the planning activities, I was lucky to work with Deborah Nogueira, a long time friend and talented designer. She led an interesting piece on inspiration and competitive analysis. With the right cross-polination with research insights, everything was ready for the hard work to start. 
 
-I had to join the team in the sprint itself because it was the first pilot to put in place the change and a relatively new and big group.\
+I had to join the incredible team of 5 designers in the sprint itself. It was our first pilot with a lot of changes, and a relatively new group.\
 \
-I was in charge of the facilitation and planning, working with a Head of Design, a Principal and a Lead Researcher. Together we learned a lot about storytelling, async work and ideation activities.
+I was in charge of the facilitation and planning, working with a Head of Design, a Principal and a Lead Researcher. Together we learned a lot about storytelling, async work, cadence and improvisation of ideation activities.
 
 In some moments I did a bit of hands-on work as well, which was something extraordinary for me. Design Operations work can be tedious sometimes. I frequently miss the simplicity and the joy of delivering design work.
 
