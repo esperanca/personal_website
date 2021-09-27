@@ -8,7 +8,7 @@ tags:
   - design
   - covid
 ---
-I made a decision to invest my time redesigning this website instead of writing more frequently. There is still a lot to do, but it was an exciting side project, and I had help from a brilliant [bunch of people](/colophon). The new layout is live, with the same content and a few new features. I can wait to get some feedback [feedback](/contact) and iterate. Onward.  
+Instead of writing more frequently, i decided to redesign this website. There is still a lot to do, but it was an exciting side project, and I had help from a brilliant [bunch of people](/colophon). The new layout is live since August, with the same content and a few new features. I can wait to get some [feedback](/contact) and iterate. Onward.  
 
 **Top 3 links**
 
@@ -28,15 +28,22 @@ Inayaili De León shares a lot of wisdom in her 2018 talk at the Design Systems 
 
 ### First 90 days
 
-When I joined my current job I bought this book "The First 90 days". It’s funny how we don’t celebrate much the end of probation because it's an important milestone for everyone. My first 90 days at Farfetch have been completed, and I am happy. Learned a bit about luxury and fashion, and I understand more the meaning expression brings to people's lives. I’ve learned a lot about the company culture and our design team context and achievements. There is excellent support from the team and the design leadership, and having this great chap called Justin to call boss is a privilege.  
+When I joined my current job I bought this book "The First 90 days". It was heplful to plan my activities during the probation, and a lesson in finding the balance of learning new things and reusing existing practices. I've learned a bit about luxury and fashion, and I understand more how significant self-expression is for people's lives. I  an say that I know a lot now about the company culture and our design team context and achievements. 
+
+There support I am getting from the team and the design leadership is excellent, and having this great chap called Justin to call boss is a privilege.  
 
 ### Workshops, love and productive conflict
 
-When I joined, there was a process in place for strategic design work. It’s an innovative approach that intertwines research and sprint activities smoothly. My first mission at the company was to improve part of this process. It was not my first time working with custom sprints. But I was changing the process while planning the next initiative, which is not an ideal approach. In the end, it worked really well. 
+When I joined, there was a process in place for strategic design work. It’s an innovative approach that intertwines research and sprint activities smoothly. My first mission at the company was to improve part of this process. It was not my first time working with custom sprints and complex
+programs related to innovation. But I was changing the process while planning the next initiative, which is not an ideal approach. In the end, it worked really well. 
 
-During the planning activities, I was lucky to work with Deborah Nogueira, a long time friend and talented designer. I had the privilege of joining the team in the sprint itself because it was the first pilot to put in place the change.\
+During the planning activities, I was lucky to work with Deborah Nogueira, a long time friend and talented designer. She led an interesting piece on inspiration and competitive analysis, cross-polinated with the research inisghts.
+
+I had to join the team in the sprint itself because it was the first pilot to put in place the change and a relatively new and big group.\
 \
-I was in charge of the facilitation and planning, working with a Head of Design, a Principal and a Lead Researcher. Together we learned a lot about storytelling, async work and ideation activities.In some moments I did a bit of hands-on work as well, which was something extraordinary for me. Design Operations work can be tedious sometimes. I frequently miss the simplicity and the joy of delivering design work and creating beauty and structure.
+I was in charge of the facilitation and planning, working with a Head of Design, a Principal and a Lead Researcher. Together we learned a lot about storytelling, async work and ideation activities.
+
+In some moments I did a bit of hands-on work as well, which was something extraordinary for me. Design Operations work can be tedious sometimes. I frequently miss the simplicity and the joy of delivering design work.
 
 Two weeks ago we had a retrospective about this work. The feedback about facilitation, structure, and energy was very positive. Product leaders and the team were also pretty happy with the outcomes. Feedback from users was positive.
 
@@ -56,11 +63,11 @@ The topic we talked about was slow change, which I was honestly not prepared to 
 
 ### Meaning is pain
 
-Like many of you, I have lost important people in my life. My three grandparents and my best friend are the ones I am still struggling to mourn. Mainly because I didn't have the opportunity to say goodbye properly. Most recently, Fabio Palamedi, a mentor and friend died of Covid. Right now, the last of my grandparents, Atilia, is in the hospital. Accepting death and the end of things is something I struggle with. \
+Like many of you, I have lost important people in my life. My three grandparents and my best friend are the ones I am still struggling to mourn, and this happened before the pandemic. Mainly because I didn't have the opportunity to say goodbye properly. In July, Fabio Palamedi, a mentor and friend died of Covid. Right now, the last of my grandparents alive, Atilia, is in the hospital. Accepting death and the end of things is something I struggle with. \
 \
-I have been thinking a lot about finding happiness. At work, at life, in my relationships. Besides being a self-proclaimed pissed-off optimist, I confess that I have been overwhelmed recently. 
+All of this makes me think a lot about finding happiness. At work, at life, in my relationships. Besides being a self-proclaimed pissed-off optimist, I confess that I have been overwhelmed recently. 
 
-Stupidity and politics are now hurting or killing the ones I love more frequently. Staying happy in my privilege bubble while the world falls apart isn’t easy. The ebbs and flows of doom and optimism are insanely hard for my mental health. 
+Stupidity, prejudice and politics are now hurting or killing the ones I love more frequently. Staying happy in my privilege bubble while the world falls apart isn’t easy. The ebbs and flows of doom and optimism are insanely hard for my mental health. 
 
 My therapist, Helena, is helping me to cope with these dilemmas. It might sound like a truism, but here it is: everything that carries meaning will definitely bring painful moments. If change is the only thing that remains constant, pain is the sidekick. 
 
@@ -74,11 +81,11 @@ It baffles me that in 2021 we are still having discussions about this. It’s no
 
 Even [Apple is having trouble](https://www.vox.com/recode/22690190/apple-remote-work-from-home-employee-cher-scarlett-janneke-parrish). This article published today at Vox is enlightening: it explains so much about the arrogance that comes with power and what is really behind these decisions.
 
-Perhaps the only FAANG that is not having so much trouble on this arena is Facebook. Since June, they acted fast and opened the work at home policy to all employees after trying to enforce some rules in May. Perhaps is because they have way [bigger issues to deal](https://www.getrevue.co/profile/themarkup/issues/facebook-and-the-terrible-horrible-no-good-very-bad-month-770649) with it in terms of reputation.
+Perhaps the only FAANG that is not having so much problems on this arena is Facebook. Since June, they acted fast and opened the work at home policy to all employees after trying to enforce some rules in May. Perhaps it is because they have way [bigger issues to deal](https://www.getrevue.co/profile/themarkup/issues/facebook-and-the-terrible-horrible-no-good-very-bad-month-770649) with it in terms of reputation.
 
-The back story of the war on global talent and retention is that sad, really. Millions making bad decisions. Changes in how we work are happening fast, and leadership and management teams aren’t able to cope with that speed. 
+The back story of the war on global talent and retention is that sad, really. Millions making bad decisions and a communication breakdown. Changes in how we work are happening fast, and leadership and management teams aren’t able to cope with that speed. 
 
-I am navigating this theme and doing what I can. Having honest conversations with my team and learning more and more about asynchronous work. We have plenty of possibilities and ways of solving this charade. But the solutions will require flexibility and a new approach. And better communication, of course.
+I am navigating this theme carefully and doing what I can. Having honest conversations with my team and learning more and more about asynchronous work. We have plenty of possibilities and ways of solving this charade. But the solutions will require flexibility and a new approach. And better communication and transparency, of course.
 
 ## Things that bring me joy
 
