@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Weeknote #34"
-metaDesc: "Weeknotes #34 - Daniel Souza"
+metaDesc: "Weeknote #34 - Daniel Souza"
 date: 2020-11-28T12:49:27.375Z
 tags:
   - babylonhealth
