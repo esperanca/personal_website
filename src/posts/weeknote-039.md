@@ -7,6 +7,7 @@ tags:
   - agile
   - design
   - covid
+  - holidays
 ---
 Instead of writing more frequently, i decided to redesign this website. There is still a lot to do, but it was an exciting side project, and I had help from a brilliant [bunch of people](/colophon). The new layout is live since August, with the same content and a few new features. I can wait to get some [feedback](/contact) and iterate. Onward.  
 
@@ -114,5 +115,7 @@ Many things have happened in this area since my last post in June. I had another
 \- Food: We had great and healthy food this week
 
 \- Drinks: No alcohol since August.
+
+### Quote of the week
 
 > None of us, including me, ever do great things. But we can all do small things, with great love, and together we can do something wonderful.” – Mother Teresa.
