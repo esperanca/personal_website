@@ -9,13 +9,17 @@ tags:
   - covid
   - holidays
 ---
-Instead of writing more frequently, i decided to redesign this website in the summer. There is still a lot to do, but it was an exciting side project, and I had help from a brilliant [bunch of people](/colophon). The new layout is live since August, with the same content and a few new features. I can wait to get some [feedback](/contact) and iterate. Onward.  
+I decided to redesign this website this summer, instead of writing more frequently.
+
+There is still a lot to do, but it was an exciting side project, and I had help from a brilliant [bunch of people](/colophon). The new layout is live since August, with the same content and new features.
+
+I can wait to get some [feedback](/contact) and iterate. Onward.  
 
 **Top 3 links**
 
 [Teach Slower to Teach Better](https://www.moderniststudio.com/corporate-education/teach-slower-to-teach-better/)
 
-Jon Kolko is a designer and founder of the Austin Center for Design. As I am more and more interested in education and learning, I found this article about how designers learn and the issue of quality versus speed is so inspiring. Jon is a prolific writer and you definitely should visit his site.  
+Jon Kolko is a designer and founder of the Austin Center for Design. As I am more and more interested in education and learning, I found this article about how designers learn and the issue of quality versus speed. Jon is a prolific writer and you definitely should visit his site.  
 
 [Cancel your meetings](https://www.mmhmm.app/events/#cancel-your-meetings)
 
@@ -64,13 +68,13 @@ The topic we talked about was slow change, which I was honestly not prepared to 
 
 ### Meaning is pain
 
-Like many of you, I have lost important people in my life. My three grandparents and my best friend are the ones I am still struggling to mourn, and this happened before the pandemic. Mainly because I didn't have the opportunity to say goodbye properly. In July, Fabio Palamedi, a mentor and friend died of Covid. Right now, the last of my grandparents alive, Atilia, is in the hospital. Accepting death and the end of things is something I struggle with. \
+Like many of you, I have lost important people in my life. My best friend and three grandparents and are the ones I am still mourning. And all happened before the pandemic. Mainly because I didn't have the opportunity to say goodbye properly. In July, Fabio Palamedi, a mentor and friend died of Covid. Right now, the last of my grandparents alive, Atilia, is in the hospital. Accepting death and the end of things is something I struggle with. \
 \
 All of this makes me think a lot about finding happiness. At work, at life, in my relationships. Besides being a self-proclaimed pissed-off optimist, I confess that I have been overwhelmed recently. 
 
-Stupidity, prejudice and politics are now hurting or killing the ones I love more frequently. Staying happy in my privilege bubble while the world falls apart isn’t easy. The ebbs and flows of doom and optimism are insanely hard for my mental health. 
+Stupidity, prejudice and politics are now hurting or killing the ones I love more frequently. The situation in Brazil is out of control. Staying happy in my privilege bubble while the world falls apart isn’t easy. The ebbs and flows of doom and optimism are insanely hard for my mental health. 
 
-My therapist, Helena, is helping me to cope with these dilemmas. It might sound like a truism, but here it is: everything that carries meaning will definitely bring painful moments. If change is the only thing that remains constant, pain is the sidekick. 
+Helena, my therapist, is helping me to cope with these dilemmas. It might sound like a truism, but here it is: everything that carries meaning will definitely bring painful moments. If change is the only thing that remains constant, pain is the sidekick. 
 
 If you are interested in digging into this, perhaps you will find some joy and reflection [reading this post](https://blogs.scientificamerican.com/beautiful-minds/the-differences-between-happiness-and-meaning-in-life/) from Scientific American.
 
