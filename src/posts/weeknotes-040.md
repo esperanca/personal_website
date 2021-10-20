@@ -14,13 +14,13 @@ Preet, the conference organiser, freaked me out. He said that there will be prob
 
 Not because of the crowd. I have delivered keynotes to hundreds of people before, but in Portuguese. And this will not be my first gig speaking in English to a big audience. Last year I talked about Design Operations at the first DesignOps Assembly event in London. And the year before, when we used to gather in real life, I was invited for two Design Leadership panels by the kind folks from Clearleft. It was packed, and I think it went fine. 
 
-But this is the first time I am sharing something I am not so confident in my skills: Asynchronous ways of working. I work remotely for years now, but async is a new game.  And while I was researching for the talk I could not find a lot of information about this.  But with or without the anxiety, I am doing this. Impostor syndrome and stage fright: bugger off, you are not welcome. Something that makes smile is that my brilliant partner, Leiliane, is gonna be one of my co-facilitator. She has this ability of calming me.   
+But this is the first time I am sharing something I am not so confident in my skills: Asynchronous ways of working. I work remotely for years now, but async is a new game.  And while I was researching for the talk I could not find a lot of information about this.  But with or without the anxiety, I am doing this. Impostor syndrome and stage fright: bugger off, you are not welcome. Something that makes smile is that my brilliant partner, Leiliane, is gonna be one of my co-facilitators. She has this ability of calming me.   
 
-Yesterday we run the beta version of the workshop. I failed miserably with tooling. I had the privilege of having some cool cats from my team at Farfetch,  a few friends and the part of the DEX01 team attending.  It was great because now I know exactly what to change.I failed miserably with tooling and the timing was not right, so I have to edit myself.  
+Yesterday we run the beta version of the workshop. I had the privilege of having some cool cats from my team at Farfetch,  a few friends and the part of DEX01 team attending.  It was great because now I know exactly what to change. I failed miserably with tooling and the timing was not right, so I have to edit myself.  
 
-I haven’t finished the workshop design and the talk yet. But I decided to write today to share this post as a Goodie Bag and with a thank you note for the ones who supported me yesterday. 
+I haven’t finished the workshop design and the talk yet. But I decided to write today and share this post as a Goodie Bag with a thank you note for the nice people that helped me yesterday. 
 
-The five people bellow inspired me for this talk. I am grateful to say that I had the opportunity to learn with them in this great community we have around the topic of facilitation. 
+The five people bellow inspired me for this talk. They not only deserve the credit, but my gratitide. I had the opportunity to learn with them because they all work in the opne, creating valuable content. 
 
 ### Alison Coward
 
