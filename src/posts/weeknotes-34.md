@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Weeknote #34"
+title: "Weeknote #034"
 metaDesc: "Weeknote #34 - Daniel Souza"
 date: 2020-11-28T12:49:27.375Z
 tags:
