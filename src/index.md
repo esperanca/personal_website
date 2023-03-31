@@ -8,4 +8,4 @@ introImage: images/intro-image.png
 heading: Information Architect and Design Researcher
 ---
 
-## Jiggling creativity and pragmatism, I help multi-disciplinary teams to design & build excellent services and experiences.
+## Juggling creativity and pragmatism, I help multi-disciplinary teams to design & build excellent services and experiences.
