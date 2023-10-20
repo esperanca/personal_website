@@ -9,7 +9,7 @@
             .now %}
             <li class="post-list__item">
               <p class="">
-                <time datetime="{{ item.date | dateFilter }}">{{ item.date | dateFilter }}</time>
+                <time datetime="{{ item.date | postDate }}">{{ item.date | postDate }}</time>
               </p>
               <h3 class="">
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
