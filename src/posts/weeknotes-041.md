@@ -26,15 +26,15 @@ Computer vision and machine learning have improved, and many people have discuss
 
 ### Do what you love.
 
-The last time I updated my LinkedIn profile, changing for a new job, people sent the usual congrats and comments. But one person asked me privately why I have changed jobs so frequently. That question haunted me for months. I have been in this industry for over two decades and have never experienced that speed of change.  
+The last time I updated my LinkedIn profile, people sent the usual congrats and comments. But one person asked me privately why I have changed jobs so frequently. That question haunted me for months. I have been in this industry for over two decades and have never experienced this speed of change.
 
-Reflecting on my colleague's inquiry, I've been thinking about if we, as a society, need to adjust our expectations about what a stable career is. Let's say that an office-based, 9-5, with a 5-year plan in the same company isn't the norm these days. We live in a VUCA, post-COVID, AI-supported new world. Perhaps we should be thinking in new ways, like the squiggly careers concept by Helen Tupper and Sarah Ellis.  
+Reflecting on my colleague's inquiry, I've been thinking about whether we, as a society, need to adjust our expectations about what a stable career is. An office-based, 9-5, with a 5-year tenure in the same company isn't the norm these days. We live in a VUCA, post-COVID, AI-supported world. In my opinion, we should think in new ways—The [Squiggly Career](https://www.amazingif.com/about/) by Helen Tupper and Sarah Ellis comes to my mind. 
 
-I am usually extremely happy at work when the basic conditions are in place. But there is life, layoffs, unstable CEOs, reorganizations. Stuff happens. I am resilient, but sometimes changing is for the best.         
- 
-I have my mind clear, and my purpose hasn't changed. Every day, when I wake up, I think about that one great thing I will design with my people. Most of the time, I will support and inspire designers/writers/researchers/engineers and "design" the conditions and conversations for them to thrive. I am often hands-on, leading by example or trying to be more precise and helpful, showing the thing instead of talking about the thing. Some people call this being a "player-coach", but I find that a bit misleading. 
+I am usually thrilled at work when the primary conditions are in place. But there is life, layoffs, unstable management, and reorganizations. Stuff happens. I am resilient, but sometimes changing is for the best.
 
-I am empowered at this career stage to choose better. The adventure of finding a new job (or perhaps doing something different) just started. Am I afraid? Definitely yes. The market is challenging these days. But I am also excited, at the top of my game. Onward. 
+I have my mind clear, and my purpose hasn't changed. Every day, when I wake up, I think about that one great thing I will design with my people. Most of the time, I will support and inspire the conditions and conversations for teams to thrive. I am often hands-on, leading by example or trying to be more precise and helpful, showing the thing instead of talking about the thing. Some people call this being a "player-coach". My superpower is to connect designers/writers/researchers/engineers so they can deliver excellent work - I know how to do many things relatively well, but the player-coach definition might be misleading. 
+
+I am empowered at this career stage to choose better. The adventure of finding a new job (or doing something different) just started. Am I afraid? Definitely yes. The market is challenging these days. But I am also excited, at the top of my game. Onward.
 
 * I am using WeWork's motto ironically, of course. 
 
@@ -56,7 +56,7 @@ This week, I attended the AI and Society Forum, part of the AI Fringe programme.
 ### Speaking and giving back
 
 I have also had the chance to speak at IRL conferences this year. Last March, Patrizia Bertini invited me to join a panel with Peter Boesma, Anna Wojcieszczak and others at the [Design Operations London](https://www.henrystewartconferences.com/events/design-operations-london-2023) conference to discuss the impact of DesignOps. The panel title was How to Introduce and Position DesignOps in Your Organisation to Maximise the Impact. Lovely Zoe Seaman also presented on the same day. 
-Next Tuesday, I will speak at the [Innovation Conference](https://semanadeinovacao.enap.gov.br/index.php/en/). It's the most significant innovation conference in Latin America, with more than 6000 people attending online and about 2000 in loco. I was one of the conference curators, covering service design and inclusive design. I convinced Daniel Burka, Stéphanie Krus, and Anamaria to share their brilliance remotely. 
+Next Tuesday, I will speak at the [Innovation Conference](https://semanadeinovacao.enap.gov.br/index.php/en/). It's the most significant innovation conference in Latin America, with more than 6000 people attending online and about 2000 in Brasilia. I was one of the conference curators, covering service design and inclusive design. I convinced Daniel Burka, Stéphanie Krus, and Anamaria to share their brilliance remotely. 
 I will be moderating a panel about inclusive design. And co-facilitating a workshop about designing voice services with Janaína Pereira. I am excited to return to my home country with such a meaningful contribution.
 After the conference, I will be travelling to Belo Horizonte to relax, visit my family and eat lots of great food. 
 
@@ -68,15 +68,15 @@ I am teaching my second cohort at Experience Haus. It's a small team of 6 design
 ## Things that bring me joy
 
 ### Leili, AKA little bird. 
-It was a sweltering day in Brasilia, Brazil. My life was very different at that time. I was young, louder, stronger. And I was dating a girl from my home state. She lived with her adorable auntie, but we were spending a lot of time together. I honestly already knew at the time she was the one. A few months later, impulsively, I asked her to marry me. Over twitter. About 13 years ago, on the first of April. We celebrate this milestone by travelling to Cabo Verde in March.
+It was a sweltering day in Brasilia, Brazil. My life was very different at that time. I was young, louder, stronger. And I was dating a girl from my home state. She lived with her adorable auntie, but we were spending a lot of time together. I honestly already knew she was the one from the get go. A few months later, impulsively, I asked her to marry me. Over twitter. About 13 years ago, on the first of April. We celebrate this milestone by travelling to Cabo Verde in March.
 
-Every day, I think how lucky I am to have Leili in my life. 
+Every day, I think how lucky I am to have Leili in my life.  
 
 ### Healthcheck
 
-Overall, I am ok. My diabetes is under control, but I am still using continuous glucose monitoring.  
+Overall, I am ok. My diabetes is under control. I am still using continuous glucose monitoring, but things are better. I have lost some weight, and I am slowly coming back to exercising.
 
-Weight: 92 kg
+Weight: 91 kg
 Blood pressure: 12/8
 Food: I'm trying to eat fewer and fewer carbs, but Gail's Bakery is in my life. 
 Drinks: Not drinking for months, except for extraordinary occasions. 
