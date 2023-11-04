@@ -1,3 +1,14 @@
+---
+layout: layouts/post.njk
+title: "Weeknotes #041"
+metaTitle: Last edition!
+date: 2023-11-04T09:10:36.743Z
+tags:
+  - conferences
+  - work
+  - bt
+  - facilitation
+---
 A lot changed since the last time I wrote here. A few days ago, the content team in my previous gig invited Giles Turnbull for a talk. Giles wrote the [The Agile Comms Handbook](https://defradigital.blog.gov.uk/a-guide-to-agile-communication/) and the rules for [Weeknotes](https://gilest.org/weeknotes-rules.html). His speech inspired me to write here again and make a change. I am officially killing my weeknotes format. I have been testing this format for years, and I am pivoting. I will make things shorter, sharper, and more personal. I will try to keep the cadence in my newsletter. 
 
 ## Top 3 links
@@ -25,7 +36,7 @@ But now understand better why my colleague asked this. Perhaps he was trying to 
 Thriving in this industry as a designer, researcher or content person isn't as easy as some people think. But I am extremely happy with what I do and how I do it. Sometimes, that means moving from places and people I like faster than I want, but that is just life.     
  
 I have my mind clear, and my purpose hasn't changed. Every day, when I wake up, before the stand-ups, I think about that one great thing I will design with my people. 
-Most of the time, I will support and inspire designers/writers/researchers and "design" the conditions and conversations for them to thrive. Many times, it is being hands-on to lead by example or just to be more helpful. 
+Most of the time, I will support and inspire designers/writers/researchers and "design" the conditions and conversations for them to thrive. It is often being hands-on to lead by example or just to be more helpful. 
 
 It is not easy - you can’t do that while quietly quitting - but it is always rewarding. Some people call this being a "player-coach", but I find that a bit misleading. 
 
