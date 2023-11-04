@@ -9,7 +9,7 @@ tags:
   - bt
   - facilitation
 ---
-A lot changed since the last time I wrote here. A few days ago, the content team in my previous gig invited Giles Turnbull for a talk. Giles wrote the [The Agile Comms Handbook](https://defradigital.blog.gov.uk/a-guide-to-agile-communication/) and the rules for [Weeknotes](https://gilest.org/weeknotes-rules.html). His speech inspired me to write here again and make a change. I am officially killing my weeknotes format. I have been testing this format for years, and I am pivoting. I will make things shorter, sharper, and more personal. I will try to publish more frequently. 
+A lot changed since the last time I wrote here. A few days ago, the content team in my previous gig invited Giles Turnbull for a talk. Giles wrote the [The Agile Comms Handbook](https://defradigital.blog.gov.uk/a-guide-to-agile-communication/) and the rules for [Weeknotes](https://gilest.org/weeknotes-rules.html). His speech inspired me to write here again and make a change. I am officially killing my weeknotes format. I have been testing this format for years, and I am pivoting. I will make things shorter, sharper, and more personal. I will publish more frequently. 
 
 ## Top 3 links
 
@@ -26,19 +26,15 @@ Computer vision and machine learning have improved, and many people have discuss
 
 ### Do what you love.
 
-The last time I updated my LinkedIn profile, changing for a new job, people sent the usual congrats and comments. But one person asked me privately why I have changed jobs so frequently. That question haunted me for months. 
+The last time I updated my LinkedIn profile, changing for a new job, people sent the usual congrats and comments. But one person asked me privately why I have changed jobs so frequently. That question haunted me for months. I have been in this industry for over two decades and have never experienced that speed of change.  
 
-I usually change because I outgrow my position or a better opportunity appears. 
+Reflecting on my colleague's inquiry, I've been thinking about if we, as a society, need to adjust our expectations about what a stable career is. Let's say that an office-based, 9-5, with a 5-year plan in the same company isn't the norm these days. We live in a VUCA, post-COVID, AI-supported new world. Perhaps we should be thinking in new ways, like the squiggly careers concept by Helen Tupper and Sarah Ellis.  
 
-But I have also changed jobs because of the catastrophic stage of the tech industry. Designers are like the canary in the gold mine. One doesn't need to think a lot about looking for reasons for changing jobs these days. Thriving in this industry as a designer, researcher or content person isn't easy.  
-
-Reflecting on my colleague's inquiry, I've been thinking about why we, as a society, haven't changed our expectations about what a stable career is. An office-based 9-5, join-get-promoted-retire, solid 5-year plan in the same company isn't the norm anymore. We live in a VUCA, post-COVID, AI new world and adaptations will be needed.    
-
-This doesn't need to be seen as a bad thing. I am extremely happy with what I do and how I have been doing it. Moving from some places on my rhythm means I feel my work there is done, or I could foresee the conditions changing for the worse. Life, layoffs, unstable CEOs, reorganizations. Sh*t happens.       
+I am usually extremely happy at work when the basic conditions are in place. But there is life, layoffs, unstable CEOs, reorganizations. Stuff happens. I am resilient, but sometimes changing is for the best.         
  
 I have my mind clear, and my purpose hasn't changed. Every day, when I wake up, I think about that one great thing I will design with my people. Most of the time, I will support and inspire designers/writers/researchers/engineers and "design" the conditions and conversations for them to thrive. I am often hands-on, leading by example or trying to be more precise and helpful, showing the thing instead of talking about the thing. Some people call this being a "player-coach", but I find that a bit misleading. 
 
-I am empowered at this career stage to choose better. The adventure of finding a new job (or perhaps doing something different) just started. Am I afraid? Definitely yes. The market is challenging these days. But I am also excited, at the top of my game, and I don't need to deal with the visa sponsorship drama anymore. If you know me and have worked with me, recommend me to your network. There is a lot of noise on LinkedIn. 
+I am empowered at this career stage to choose better. The adventure of finding a new job (or perhaps doing something different) just started. Am I afraid? Definitely yes. The market is challenging these days. But I am also excited, at the top of my game. Onward. 
 
 * I am using WeWork's motto ironically, of course. 
 
@@ -47,7 +43,7 @@ I am empowered at this career stage to choose better. The adventure of finding a
 
 Anamaria Dorgo is the Head of Community at Butter and the most curious person I know. She is always inviting me for cool stuff. We share this infinite love for understanding collaboration. Last year, she asked me to join Butter's first Bootcamp, a week of talks about facilitation - one of the core tools you can use to rethink group collaboration. But my talk was more straightforward and more focused on the basics. 
 
-The title was [Don’t Leave Anything to Chance: Plan Your Sessions in Butter](https://www.youtube.com/watch?v=WuXEMNW5jFg&t=785s). There was a bit of theory about the stages of planning workshops and a basic framework to schedule any session. The participants tried the framework live, and I heard people liked it very much. If you want to learn a tried and tested framework to plan workshops, you are in for a treat. It's like a Crash Course on planning and leading a workshop. Hope you enjoy it. 
+The title was [Don’t Leave Anything to Chance: Plan Your Sessions in Butter](https://www.youtube.com/watch?v=WuXEMNW5jFg&t=785s). There was a bit of theory about the stages of planning workshops and a basic framework to schedule any session. The participants tried the framework live, and I heard people liked it very much. If you want to learn a tried and tested framework to plan workshops, you are in for a treat. It's like a Crash Course on planning and leading a workshop. I hope you enjoy it. 
 
 ### Conference circuit
 
@@ -60,7 +56,7 @@ This week, I attended the AI and Society Forum, part of the AI Fringe programme.
 ### Speaking and giving back
 
 I have also had the chance to speak at IRL conferences this year. Last March, Patrizia Bertini invited me to join a panel with Peter Boesma, Anna Wojcieszczak and others at the [Design Operations London](https://www.henrystewartconferences.com/events/design-operations-london-2023) conference to discuss the impact of DesignOps. The panel title was How to Introduce and Position DesignOps in Your Organisation to Maximise the Impact. Lovely Zoe Seaman also presented on the same day. 
-Next Tuesday, I will speak at the [Innovation Conference](https://semanadeinovacao.enap.gov.br/index.php/en/). It's the biggest innovation conference in Latin America, with more than 6000 people attending online and about 2000 in loco. I was one of the conference curators, covering service design and inclusive design. I convinced Daniel Burka, Stéphanie Krus, and Anamaria to share their brilliance remotely. 
+Next Tuesday, I will speak at the [Innovation Conference](https://semanadeinovacao.enap.gov.br/index.php/en/). It's the most significant innovation conference in Latin America, with more than 6000 people attending online and about 2000 in loco. I was one of the conference curators, covering service design and inclusive design. I convinced Daniel Burka, Stéphanie Krus, and Anamaria to share their brilliance remotely. 
 I will be moderating a panel about inclusive design. And co-facilitating a workshop about designing voice services with Janaína Pereira. I am excited to return to my home country with such a meaningful contribution.
 After the conference, I will be travelling to Belo Horizonte to relax, visit my family and eat lots of great food. 
 
