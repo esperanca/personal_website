@@ -30,9 +30,9 @@ The last time I updated my LinkedIn profile, changing for a new job, people sent
 
 I usually change because I outgrow my position or a better opportunity appears. 
 
-But I have also changed jobs because of the catastrophic stage of the tech industry. Designers are like the canary in the gold mine. One doesn't need to think a lot about looking for reasons for changing jobs these days. Thriving in this industry as a designer, researcher or content person isn't as easy.  
+But I have also changed jobs because of the catastrophic stage of the tech industry. Designers are like the canary in the gold mine. One doesn't need to think a lot about looking for reasons for changing jobs these days. Thriving in this industry as a designer, researcher or content person isn't easy.  
 
-Reflecting on my colleague's inquiry, I've been thinking about why we have, as a society, the expectations of an office-based 9-5, join-get-promoted-retire, solid 5-year plans and stable careers in the same company in the world we live in. 
+Reflecting on my colleague's inquiry, I've been thinking about why we have, as a society, haven't changed our expectations about stability. An office-based 9-5, join-get-promoted-retire, solid 5-year plans and stable careers in the same company aren't the norm anymore. We have to adapt to survive.    
 
 This doesn't need to be seen as a bad thing. I am extremely happy with what I do and how I have been doing it. Moving from some places on my rhythm means I feel my work there is done, or I could foresee the conditions changing for the worse. Life, layoffs, unstable CEOs, reorganizations. Sh*t happens.       
  
