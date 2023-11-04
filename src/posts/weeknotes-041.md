@@ -32,19 +32,22 @@ I usually change because I outgrow my position or a better opportunity appears.
 
 But I have also changed jobs because of the catastrophic stage of the tech industry. Designers are like the canary in the gold mine. One doesn't need to think a lot about looking for reasons for changing jobs these days. Thriving in this industry as a designer, researcher or content person isn't easy.  
 
-Reflecting on my colleague's inquiry, I've been thinking about why we have, as a society, haven't changed our expectations about stability. An office-based 9-5, join-get-promoted-retire, solid 5-year plans and stable careers in the same company aren't the norm anymore. We have to adapt to survive.    
+Reflecting on my colleague's inquiry, I've been thinking about why we, as a society, haven't changed our expectations about what a stable career is. An office-based 9-5, join-get-promoted-retire, solid 5-year plan in the same company isn't the norm anymore. We live in a VUCA, post-COVID, AI new world and adaptations will be needed.    
 
 This doesn't need to be seen as a bad thing. I am extremely happy with what I do and how I have been doing it. Moving from some places on my rhythm means I feel my work there is done, or I could foresee the conditions changing for the worse. Life, layoffs, unstable CEOs, reorganizations. Sh*t happens.       
  
-I have my mind clear, and my purpose hasn't changed. Every day, when I wake up, I think about that one great thing I will design with my people. Most of the time, I will support and inspire designers/writers/researchers and "design" the conditions and conversations for them to thrive. I am often hands-on, leading by example or trying to be more precise and more helpful. Some people call this being a "player-coach", but I find that a bit misleading. 
+I have my mind clear, and my purpose hasn't changed. Every day, when I wake up, I think about that one great thing I will design with my people. Most of the time, I will support and inspire designers/writers/researchers/engineers and "design" the conditions and conversations for them to thrive. I am often hands-on, leading by example or trying to be more precise and helpful, showing the thing instead of talking about the thing. Some people call this being a "player-coach", but I find that a bit misleading. 
 
-I am empowered at this career stage to choose better. The adventure of finding a new job (or perhaps doing something different) just started. Am I afraid? Definitely yes. The market is challenging these days. But I am also excited, at the top of my game, and I don't need to deal with the visa sponsorship drama anymore.  
+I am empowered at this career stage to choose better. The adventure of finding a new job (or perhaps doing something different) just started. Am I afraid? Definitely yes. The market is challenging these days. But I am also excited, at the top of my game, and I don't need to deal with the visa sponsorship drama anymore. If you know me and have worked with me, recommend me to your network. There is a lot of noise on LinkedIn. 
+
+* I am using WeWork's motto ironically, of course. 
+
 
 ### Facilitation and Butter
 
 Anamaria Dorgo is the Head of Community at Butter and the most curious person I know. She is always inviting me for cool stuff. We share this infinite love for understanding collaboration. Last year, she asked me to join Butter's first Bootcamp, a week of talks about facilitation - one of the core tools you can use to rethink group collaboration. But my talk was more straightforward and more focused on the basics. 
 
-The title was Don’t Leave Anything to Chance: Plan Your Sessions in Butter. There was a bit of theory about the stages of planning workshops and a basic framework to schedule any session. The participants tried the framework live, and I heard people liked it very much. If you want to learn a tried and tested framework to plan workshops, you are in for a treat.
+The title was [Don’t Leave Anything to Chance: Plan Your Sessions in Butter](https://www.youtube.com/watch?v=WuXEMNW5jFg&t=785s). There was a bit of theory about the stages of planning workshops and a basic framework to schedule any session. The participants tried the framework live, and I heard people liked it very much. If you want to learn a tried and tested framework to plan workshops, you are in for a treat. It's like a Crash Course on planning and leading a workshop. Hope you enjoy it. 
 
 ### Conference circuit
 
