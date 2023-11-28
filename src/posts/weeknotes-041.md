@@ -9,7 +9,9 @@ tags:
   - bt
   - facilitation
 ---
-A lot changed since the last time I wrote here. A few days ago, the content team in my previous gig invited Giles Turnbull for a talk. Giles wrote the [The Agile Comms Handbook](https://defradigital.blog.gov.uk/a-guide-to-agile-communication/) and the rules for [Weeknotes](https://gilest.org/weeknotes-rules.html). His speech inspired me to write here again and make a change. I am officially killing my weeknotes format. I have been testing this format for years, and I am pivoting. I will make things shorter, sharper, and more personal. I will publish more frequently. 
+A few days ago, the content team in my previous workplace invited Giles Turnbull for a talk. Giles is a writer, and his book [The Agile Comms Handbook](https://defradigital.blog.gov.uk/a-guide-to-agile-communication/) is precious. More recently, he shared about Weeknotes and the superpowers they enable in organizations. His talk inspired me to write here again after several months. I    
+I have been writing this blog using a [custom weeknote format](https://gist.github.com/esperanca/5b91a7c64d6a1660cee2631759f425b7) I created for myself three years ago. However, I realized that the format prevents me from exploring new topics. This is precisely what Giles says about structure in one of his old posts with [tips for writing good weeknotes](https://gilest.org/weeknotes-tips.html).  
+From now on, I will write shorter, sharper, and more personal posts. I might be completely shifting away from this blog's format and original intent. This one will be the last using the old format. Enjoy.  
 
 ## Top 3 links
 
@@ -28,9 +30,9 @@ Computer vision and machine learning have improved, and many people have discuss
 
 The last time I updated my LinkedIn profile, people sent the usual congrats and comments. But one person asked me privately why I have changed jobs so frequently. That question haunted me for months. I have been in this industry for over two decades and have never experienced this speed of change.
 
-Reflecting on my colleague's inquiry, I've been thinking about whether we, as a society, need to adjust our expectations about what a stable career is. An office-based, 9-5, with a 5-year tenure in the same company isn't the norm these days. We live in a VUCA, post-COVID, AI-supported world. In my opinion, we should think in new ways—The [Squiggly Career](https://www.amazingif.com/about/) by Helen Tupper and Sarah Ellis comes to my mind. 
+Reflecting on my colleague's inquiry, I've been thinking about whether we, as a society, need to adjust our expectations about what a stable career is. An office-based, 9-5, with a 5-year tenure in the same company, is different from the norm these days. We live in a VUCA, post-COVID, AI-supported world. 
 
-I am usually thrilled at work when the primary conditions are in place. But there is life, layoffs, unstable management, and reorganizations. Stuff happens. I am resilient, but sometimes changing is for the best.
+I am resilient, but sometimes changing is for the best. With time, I have learned to be confident in my decisions and my ability to spot when the conditions are favourable. Or when I can influence change. 
 
 I have my mind clear, and my purpose hasn't changed. Every day, when I wake up, I think about that one great thing I will design with my people. Most of the time, I will support and inspire the conditions and conversations for teams to thrive. I am often hands-on, leading by example or trying to be more precise and helpful, showing the thing instead of talking about the thing. Some people call this being a "player-coach". My superpower is to connect designers/writers/researchers/engineers so they can deliver excellent work - I know how to do many things relatively well, but the player-coach definition might be misleading. 
 
