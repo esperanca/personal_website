@@ -10,7 +10,7 @@ tags:
   - facilitation
 ---
 A few days ago, the content team in my previous workplace invited Giles Turnbull for a talk. Giles is a writer, and his book [The Agile Comms Handbook](https://defradigital.blog.gov.uk/a-guide-to-agile-communication/) is precious. More recently, he shared about Weeknotes and the superpowers they enable in organizations. His talk inspired me to write here again after several months. I    
-I have been writing this blog using a custom weeknote format I created for myself three years ago. However, I realized that the format prevents me from exploring new topics. This is precisely what Giles says about structure in one of his old posts with [tips for writing good weeknotes](https://gilest.org/weeknotes-tips.html).  
+I have been writing this blog using a [custom weeknote format](https://gist.github.com/esperanca/5b91a7c64d6a1660cee2631759f425b7) I created for myself three years ago. However, I realized that the format prevents me from exploring new topics. This is precisely what Giles says about structure in one of his old posts with [tips for writing good weeknotes](https://gilest.org/weeknotes-tips.html).  
 From now on, I will write shorter, sharper, and more personal posts. I might be completely shifting away from this blog's format and original intent. This one will be the last using the old format. Enjoy.  
 
 ## Top 3 links
