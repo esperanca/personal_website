@@ -9,7 +9,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6",
     "eleventy-plugin-svg-contents": "^0.7.0",
     "html-minifier": "^4.0.0",
-    "sass": "^1.35.2",
+    "sass": "^1.69.4",
     "semver": "^7.5.2",
     "slugify": "^1.5.3"
   },
