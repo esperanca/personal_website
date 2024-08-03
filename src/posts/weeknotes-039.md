@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Weeknote #039 "
+title: "Weeknotes #039 "
 date: 2021-09-25T12:02:25.829Z
 tags:
   - farfetch
