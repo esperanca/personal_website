@@ -4,24 +4,22 @@ title: "Weeknotes 042"
 metaTitle: New format?!
 date: 2024-08-03T11:11:11.743Z
 tags:
-  - work
+  - valencia
   - secretflavours
   - servicedesign
 ---
-A few days ago, the content team in my previous workplace invited Giles Turnbull for a talk. Giles is a writer, and his book [The Agile Comms Handbook](https://defradigital.blog.gov.uk/a-guide-to-agile-communication/) is precious. More recently, he shared about Weeknotes and the superpowers they enable in organizations. His talk inspired me to write here again after several months. I    
-I have been writing this blog using a [custom weeknote format](https://gist.github.com/esperanca/5b91a7c64d6a1660cee2631759f425b7) I created for myself three years ago. However, I realized that the format prevents me from exploring new topics. This is precisely what Giles says about structure in one of his old posts with [tips for writing good weeknotes](https://gilest.org/weeknotes-tips.html).  
-From now on, I will write shorter, sharper, and more personal posts. I might be completely shifting away from this blog's format and original intent. This one will be the last using the old format. Enjoy.  
+A lot happened - 9 months since the last post! I now live in Valencia, working in healthcare again and trying by best to find balance and joy in life.  
 
 ## Top 3 links
 
-[How to disagree with someone more powerful than you](https://hbr.org/2016/03/how-to-disagree-with-someone-more-powerful-than-you?utm_medium=social&utm_campaign=hbr&utm_source=facebook&tpcc=orgsocial_edit&fbclid=IwAR3gJugpn8ConDxq_MNY8YJyKmfOC1kxCS-biRqZCQqv854pdnet4ODSfU0_aem_Abhm3JSD7zKZLsNiatgW5n2agq0mF_h_Yfr4__jzJKXFV_Qnjby2urCfqyg7PvZbjXY)
-I'm not a fan of HBR content, but Amy Gallo deserves your attention. 
+[Occupational health and safety management — Psychological health and safety at work — Guidelines for managing psychosocial risks](https://www.iso.org/standard/64283.html)
+There is an ISO Standard for psichological safety and I find that fascinating. It talks about wellbeing at work, psychosocial risks and how to identify hazards and minimize the risks associated with them. It's a shame it's under a paywall, but that is why we have Anna's Archive. 
 
-[He killed something beautiful](https://www.fromjason.xyz/notebook/he-killed-something-beautiful/#ps-aia) 
-Jason wrote a beautiful eulogy about the Twitter design team and their contributions. Space Karen killed something important.
+[How to go on an information Diet, by Anne-Laure Le Cunff](https://nesslabs.com/information-diet)
+"Information is a drug. From an evolutionary perspective, it makes sense: the more information our ancestors had, the more likely they were to survive. But this is the first time in history that humans have been exposed to such a constant flow of information. And in the same way the superabundance of high-calorie foods has led to obesity, this new information overload encourages overconsumption". Anne-Laure is so smart!  
 
-[Addressing Arguments Against Facial Expressions of Emotion](https://www.humintell.com/2020/05/addressing-arguments-against-facial-expressions-of-emotion/)
-Computer vision and machine learning have improved, and many people have discussed applications to detect emotions based on facial expressions. Dr. David Matsumoto attempts to address some of the arguments against that. 
+[Content Operations: The Invisible Scaffold You Can’t Live Without](https://www.fenwick.media/all-blog-posts/what-is-content-operations)
+My go-to person for Content Operations is Rahel Bailie, AKA Content Empress. I have found this article an interesting (but incomplete) introduction to the topic, as it is focused more in Marketing. Lovely illustrations.   
   
 ## Good things
 
