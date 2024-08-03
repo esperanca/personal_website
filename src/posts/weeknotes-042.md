@@ -19,7 +19,7 @@ There is an ISO Standard for psichological safety and I find that fascinating. I
 "Information is a drug. From an evolutionary perspective, it makes sense: the more information our ancestors had, the more likely they were to survive. But this is the first time in history that humans have been exposed to such a constant flow of information. And in the same way the superabundance of high-calorie foods has led to obesity, this new information overload encourages overconsumption". Anne-Laure is so smart!  
 
 [Content Operations: The Invisible Scaffold You Can’t Live Without](https://www.fenwick.media/all-blog-posts/what-is-content-operations)
-My go-to person for Content Operations is Rahel Bailie, AKA Content Empress. I have found this article an interesting (but incomplete) introduction to the topic, as it is focused more in Marketing. Lovely illustrations.   
+This article it's an interesting introduction to the topic. It's focused on Marketing, so I would say it doesn't cover the complexities of global product teams. On this topic, the book [Content Operations at Scale](https://publishing.vt.edu/site/books/e/10.21061/content_operations_evia/) is more helpful. If you are into podcasts, listen this episode [Defining Content Operations](https://player.captivate.fm/episode/18c97655-adef-4e9e-a489-54b16f272253) with my dear Content Empress, Rahel Bailie.        
   
 ## Good things
 
@@ -31,7 +31,7 @@ I was asked to lead a strategic initiative as soon as I joined. I worked so hard
  
 Using Indi Young’s Listening Sessions method again was so helpful. I met a group of inspiring women in Brazil and learned so much about what/how/why healthcare still sucks for many. 
 
-After finishing that work, I could focus more on my team, which was very timely since we just finished the semester’s performance reviews. My small but mighty design team is lovely and spread over 3 countries: Poland, Spain and Germany.
+After finishing that work, I could focus more on my team, which was very timely. My small but mighty design team is lovely and spread over 3 countries: Poland, Spain and Germany.
 
 I am lucky to say I already have people I can call friends at work. A good start, indeed. 
 
@@ -41,7 +41,7 @@ I am lucky to say I already have people I can call friends at work. A good start
 
 This year, I am trying to balance resting, healing and creating good stuff. One of the most important lessons I have learned recently is that my spicy brain will never be fulfilled creatively working in a product team. I don’t have hobbies, so I enjoy doing great stuff in my free time.  
 
-So, while this is a year of trying to be my best at work, I am committed to trying new things in my spare time that warm my heart. 
+So, while this is a year of trying to be my best at work, I am committed to try new things in my spare time that warm my heart. 
 
 I recently finished my fourth cohort teaching service design online, which was rewarding. The fifth one happens in December, and there are a few spots available.  I am also creating another learning experience on voice interfaces this summer for a Portuguese design school. 
 
