@@ -53,6 +53,8 @@ Leili is the owner and head chef. She is also the love of my life, my muse, and 
 
 ### Souza's are winning around the world 
 
+![Bia Souza, Olympic Gold Medal - Paris 2024 ](/biasouza.jpeg "Bia Souza")
+
 Bia Souza smashed Brazil’s first gold medal this week. It was her first time competing in the Olympic games. While that might seem insignificant to many, it struck a chord with me, and I cried joyfully.
 
 She is a perfect example of Brazilian grit and resilience. 
@@ -68,8 +70,11 @@ I can’t stop thinking about how these fantastic black women are. The role mode
 ### Healthcheck
 
 Diabetes is under control. Mental Health is ok. My lovely therapist, Helena, discharged me.  
+
 Weight: 93 kg
+
 Food: The quality of the food in Spain is astounding. The tomatoes, fruits, cheeses. I am eating healthy as I can.  
+
 Drinks: Had a few beers and some wine this month. 
 
 ###  Quote
