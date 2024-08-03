@@ -23,6 +23,13 @@ This article it's an interesting introduction to the topic. It's focused on Mark
   
 ## Good things
 
+### Hola Valencia!
+
+It's my first month living in Valencia next Monday. Moving out of London after eight years was not an easy decision. Besides the [Kafkaesque experience of obtaining my working visa](https://www.youtube.com/watch?v=myh_GWyliXU), I miss a few friends I made in London, but I feel confident about this decision.   
+Living near the beach was always something I dreamed of. I am not dipping in the Mediterranean Sea with the frequency I want. But just riding my bike to Malvarrosa whenever I want makes me smile. 
+Another quality-of-life improvement is having friends who care for you within walking distance. We are so lucky to have Lady Cabanyal and Don Bumface (not using their real names to protect their privacy) to hang out frequently. Their help navigating the Spanish bureaucracy and learning about the local culture made all the difference. 
+Learning Spanish, a language I never cared about before, has been good. It has many similarities with old Brazilian Portuguese, which is poetic and rich. Spanish people are also more compatible with my personality than the British. Something about their warmth and receptiveness makes things easier for me. 
+
 ### Making the healthcare experience human
 
 I will soon complete six months of work at Docplanner. Their mission and values inspire me, and it is a joy to work in a scale-up again. It’s a world of possibilities, and the pace, for now, is ideal for me. 
@@ -53,7 +60,7 @@ Leili is the owner and head chef. She is also the love of my life, my muse, and 
 
 ### Souza's are winning around the world 
 
-![Bia Souza, Olympic Gold Medal - Paris 2024 ](images/biasouza.jpeg "Bia Souza")
+![Bia Souza, Olympic Gold Medal - Paris 2024](/images/biasouza.jpeg)
 
 Bia Souza smashed Brazil’s first gold medal this week. It was her first time competing in the Olympic games. While that might seem insignificant to many, it struck a chord with me, and I cried joyfully.
 
