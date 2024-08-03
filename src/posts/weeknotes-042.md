@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Weeknotes #042"
-metaTitle: New format?!
+metaTitle: Weeknotes, a blog by Daniel Souza - Edition: Valencia
 date: 2024-08-03T10:11:11.743Z
 tags:
   - valencia
