@@ -8,7 +8,7 @@ tags:
   - secretflavours
   - servicedesign
 ---
-A lot happened - 9 months since the last post! I now live in Valencia, working in healthcare again and trying by best to find balance and joy in life.  
+A lot happened since the last post last year! I now live in Valencia, I have a new job working in healthcare (again) and doing my best to find balance and joy in life.  
 
 ## Top 3 links
 
