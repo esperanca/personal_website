@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Weeknotes 042"
+title: "Weeknotes #042"
 metaTitle: New format?!
 date: 2024-08-03T10:11:11.743Z
 tags:
