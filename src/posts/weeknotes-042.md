@@ -13,7 +13,7 @@ A lot happened since the last post last year! I now live in Valencia, I have a n
 ## Top 3 links
 
 [Occupational health and safety management — Psychological health and safety at work — Guidelines for managing psychosocial risks](https://www.iso.org/standard/64283.html)
-There is an ISO Standard for psichological safety and I find that fascinating. It talks about wellbeing at work, psychosocial risks and how to identify hazards and minimize the risks associated with them. It's a shame it's under a paywall, but that is why we have Anna's Archive. 
+There is an ISO Standard for psychological safety and I find that fascinating. It talks about wellbeing at work, psychosocial risks and how to identify hazards and minimize the risks associated with them. It's a shame it's under a paywall, but that is why we have Anna's Archive. 
 
 [How to go on an information Diet, by Anne-Laure Le Cunff](https://nesslabs.com/information-diet)
 "Information is a drug. From an evolutionary perspective, it makes sense: the more information our ancestors had, the more likely they were to survive. But this is the first time in history that humans have been exposed to such a constant flow of information. And in the same way the superabundance of high-calorie foods has led to obesity, this new information overload encourages overconsumption". Anne-Laure is so smart!  
@@ -53,7 +53,7 @@ Leili is the owner and head chef. She is also the love of my life, my muse, and 
 
 ### Souza's are winning around the world 
 
-![Bia Souza, Olympic Gold Medal - Paris 2024 ](/biasouza.jpeg "Bia Souza")
+![Bia Souza, Olympic Gold Medal - Paris 2024 ](images/biasouza.jpeg "Bia Souza")
 
 Bia Souza smashed Brazil’s first gold medal this week. It was her first time competing in the Olympic games. While that might seem insignificant to many, it struck a chord with me, and I cried joyfully.
 
