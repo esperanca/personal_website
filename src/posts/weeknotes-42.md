@@ -73,7 +73,6 @@ I can’t stop thinking about how these fantastic black women are. The role mode
 
 Diabetes is under control. Mental Health is ok.  
 Weight: 93 kg
-Blood pressure: 12/8
 Food: The quality of the food in Spain is astounding. The tomatoes, fruits, cheeses. I am eating healthy as I can.  
 Drinks: Had a few beers and some wine this month. 
 
