@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Weeknotes 042"
 metaTitle: New format?!
-date: 2024-08-03T11:11:11.743Z
+date: 2024-08-03T10:11:11.743Z
 tags:
   - valencia
   - secretflavours
@@ -67,7 +67,7 @@ I can’t stop thinking about how these fantastic black women are. The role mode
 
 ### Healthcheck
 
-Diabetes is under control. Mental Health is ok.  
+Diabetes is under control. Mental Health is ok. My lovely therapist, Helena, discharged me.  
 Weight: 93 kg
 Food: The quality of the food in Spain is astounding. The tomatoes, fruits, cheeses. I am eating healthy as I can.  
 Drinks: Had a few beers and some wine this month. 
