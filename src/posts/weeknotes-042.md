@@ -9,7 +9,7 @@ tags:
   - servicedesign
   - psychologicalsafety
 ---
-A lot happened since the last post last year! I now live in Valencia, I have a new job working in healthcare (again) and doing my best to find balance and joy in life.    
+A lot has happened since my last update in november last year! I got my british citizenship. I am now living in Valencia. I have a new job working in healthcare. And the theme for my second half of the year is finding balance. 
 
 ## Top 3 links
 
@@ -34,13 +34,13 @@ Learning Spanish, a language I never cared about before, has been good. It has m
 
 ### Making the healthcare experience human
 
-This week I am completing my probation in the new job. Six months of work at Docplanner, and it's been good. Their mission and values inspire me, and it is a joy to work in a scale-up again. It’s a world of possibilities, and the pace is ideal for me. 
+This week I am completing my probation in the new job. Six months of work at Docplanner, and it's been good - and fast. Their mission and values inspire me, and it is a joy to work in a scale-up again. It’s a world of possibilities, and the pace is manageable for me. 
 
 I was assigned to lead a strategic initiative as soon as I joined. I worked so hard — like I hadn’t for long. Since it was a greenfield opportunity, there was a gap in knowledge about the people we were designing for. It was an opportunity to lead the research strategy and conducting all interviews. This is my third time using Indi Young’s Listening Sessions method. I listened a group of inspiring women in Brazil and learned so much about what/how/why healthcare is still complex, disjointed for many. 
 
-We are delving into the learnings, and with the sprint outcomes we are now in solution discovery. This work in now on track, and I could refocus more on my team, which was very timely and needed. My small but mighty design team is lovely - and spread over 3 countries: Poland, Spain and Germany.
+We are delving into the learnings, and with the design sprint outcomes we are now in solution discovery. This work in now on track, and I can now focus more on my team, which is very timely. My small but mighty design team is lovely - and spread over 3 countries: Poland, Spain and Germany.
 
-I am lucky to say I think I have already people I can call friends at work. A good start, indeed. 
+I am lucky to say I think I have already people I can call friends at work. A good start. 
 
 
 ## Learned things
