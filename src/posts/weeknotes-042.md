@@ -26,19 +26,19 @@ This article it's an interesting introduction to the topic. It's focused on Mark
 
 ### Hola Valencia!
 
-It's my first month living in Valencia next Monday. Moving out of London after eight years was not an easy decision. I really miss my frieds there, and the design community was huge and so kind. But the job search in this weird market resulted in an offer that required this move, so here we are in Valencia. 
-Besides the [Kafkaesque experience of obtaining my working visa](https://www.youtube.com/watch?v=myh_GWyliXU) but I feel confident about this decision.   
+It's my first month living in Valencia next Monday. Moving out of London after eight years was not an easy decision. I miss my frieds there, the design community and the art. But Valencia it's growing  in my heart in a way I was not expecting. 
+Besides the [Kafkaesque experience of obtaining my working visa](https://www.youtube.com/watch?v=myh_GWyliXU) I feel confident about this decision.   
 Living near the beach was always something I dreamed of. I am not dipping in the Mediterranean Sea with the frequency I want. But just riding my bike to Malvarrosa whenever I want makes me smile. 
 Another quality-of-life improvement is having old friends who care for you now living within walking distance. We are so lucky to have Lady Cabanyal and Don Bumface (not using their real names to protect their privacy) to hang out frequently. Their help navigating the Spanish bureaucracy and learning about the local culture made all the difference. 
-Learning Spanish, a language I never cared about before, has been good. It has many similarities with old Brazilian Portuguese, which is poetic and rich. Spanish people are also more compatible with my personality than the British. Something about their warmth and receptiveness makes things easier for me. 
+Learning Spanish, a language that I never had any curiosity before, has been good. It has many similarities with old Brazilian Portuguese. It is poetic, rich and sometimes fun. I am impressed with the locals warmth and receptiveness when listening to my terrible portunol.  
 
 ### Making the healthcare experience human
 
-I will soon complete six months of work at Docplanner. Their mission and values inspire me, and it is a joy to work in a scale-up again. It’s a world of possibilities, and the pace is ideal for me. 
+I will soon complete six months of work at Docplanner. The mission and values inspired me to joy, and it has been a joy to work in a scale-up again.   
 
-I was asked to lead a strategic initiative as soon as I joined. I worked so hard — like I hadn’t for long. Since it was a greenfield opportunity, with little internal knowledge about the people we were designing for, I had to lead the research strategy and conducted all interviews.Using Indi Young’s Listening Sessions method again was so helpful. I met a group of inspiring women in Brazil and learned so much about what/how/why healthcare still sucks for many. 
+I was asked to lead a strategic initiative as soon as I joined. I worked so hard — like I hadn’t for long. Since it was a greenfield opportunity, with little internal knowledge about the people we were designing for, I had to lead the research strategy and conducted all interviews.Using Indi Young’s Listening Sessions method again was so helpful. I listened to a group of inspiring women in Brazil and learned so much about what/how/why healthcare still not even good for many. We sprinted. We tested. We argued. I feel people are excited about the learnings and the challenges and I am quite optimistic.  
 
-After finishing that work, I could refocus more on my team, which was very timely and needed. My small but mighty design team is lovely - and spread over 3 countries: Poland, Spain and Germany.
+I have been refocusing my time on my team, which was very timely and needed. My small but mighty design team. They are spread over 3 countries: Poland, Spain and Germany. All of them are lovely, talent and unique.   
 
 I am lucky to say I think I have already people I can call friends at work. A good start, indeed. 
 
@@ -46,9 +46,7 @@ I am lucky to say I think I have already people I can call friends at work. A go
 ## Learned things
 ### Doing great work matters
 
-This year, I am trying to balance resting, healing and creating good stuff. One of the most important lessons I have learned recently is that my spicy brain will never be fulfilled creatively working in a product team. I don’t have hobbies, so I enjoy doing great stuff in my free time.  
-
-While this is a year of trying to be my best at work, I am also committed to try new things in my spare time that warm my heart. 
+This year, I am trying to balance resting, healing and creating good stuff. One of the most important lessons I have learned recently is that my spicy brain will never be fulfilled creatively working in a product team. I enjoy doing great stuff in my free time, so that is my hobbie.  I am also committed to try new things in my spare time that warm my heart. 
 
 I recently finished my fourth cohort teaching service design online, which was rewarding. The fifth one happens in December, and there are a few spots available. I am also creating another learning experience on voice interfaces this summer for a Portuguese design school. 
 
