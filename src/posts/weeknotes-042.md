@@ -29,7 +29,7 @@ I was asked to lead a strategic initiative as soon as I joined. I worked so hard
 
 More recently, I have been refocusing my time on my small but mighty design team. They are spread over 3 countries: Poland, Spain and Germany. All of them are lovely, talent and unique.    
 
-I am lucky to say I think I have already people I can call friends at work. A good start, indeed. 
+I am lucky to say I think I have already people I can call friends at work. A good start. 
 
 
 ## Learned things
