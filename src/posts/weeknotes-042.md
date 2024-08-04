@@ -7,8 +7,9 @@ tags:
   - valencia
   - secretflavours
   - servicedesign
+  - psychologicalsafety
 ---
-A lot happened since the last post last year! I now live in Valencia, I have a new job working in healthcare (again) and doing my best to find balance and joy in life.   
+A lot happened since the last post last year! I now live in Valencia, I have a new job working in healthcare (again) and doing my best to find balance and joy in life.    
 
 ## Top 3 links
 
@@ -59,7 +60,7 @@ Leili is the owner and head chef. She is also the love of my life, my muse, and 
 
 ### Souza's are winning around the world 
 
-![Bia Souza, Olympic Gold Medal - Paris 2024](/images/biasouza.jpeg)
+![Bia Souza, Olympic Gold Medal - Paris 2024](/images/biasouza.jpeg "Bia Souza, olympic athlete, celebrates her victory in Paris")
 
 Bia Souza smashed Brazil’s first gold medal this week. It was her first time competing in the Olympic games. While that might seem insignificant to many, it struck a chord with me, and I cried joyfully. When I was a kid, I trained judo for 6 months, and I loved. 
 
