@@ -34,11 +34,11 @@ Learning Spanish, a language I never cared about before, has been good. It has m
 
 ### Making the healthcare experience human
 
-I will soon complete six months of work at Docplanner. Their mission and values inspire me, and it is a joy to work in a scale-up again. It’s a world of possibilities, and the pace is ideal for me. 
+This week I am completing my probation in the new job. Six months of work at Docplanner, and it's been good. Their mission and values inspire me, and it is a joy to work in a scale-up again. It’s a world of possibilities, and the pace is ideal for me. 
 
-I was asked to lead a strategic initiative as soon as I joined. I worked so hard — like I hadn’t for long. Since it was a greenfield opportunity, with little internal knowledge about the people we were designing for, I had to lead the research strategy and conducted all interviews.Using Indi Young’s Listening Sessions method again was so helpful. I met a group of inspiring women in Brazil and learned so much about what/how/why healthcare still sucks for many. 
+I was assigned to lead a strategic initiative as soon as I joined. I worked so hard — like I hadn’t for long. Since it was a greenfield opportunity, there was a gap in knowledge about the people we were designing for. It was an opportunity to lead the research strategy and conducting all interviews. This is my third time using Indi Young’s Listening Sessions method. I listened a group of inspiring women in Brazil and learned so much about what/how/why healthcare is still complex, disjointed for many. 
 
-After finishing that work, I could refocus more on my team, which was very timely and needed. My small but mighty design team is lovely - and spread over 3 countries: Poland, Spain and Germany.
+We are delving into the learnings, and with the sprint outcomes we are now in solution discovery. This work in now on track, and I could refocus more on my team, which was very timely and needed. My small but mighty design team is lovely - and spread over 3 countries: Poland, Spain and Germany.
 
 I am lucky to say I think I have already people I can call friends at work. A good start, indeed. 
 
