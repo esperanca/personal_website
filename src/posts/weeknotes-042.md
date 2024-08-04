@@ -1,14 +1,14 @@
 ---
 layout: layouts/post.njk
 title: "Weeknotes #042"
-metaTitle: Weeknotes, a blog by Daniel Souza - Edition: Valencia
+metaTitle: Weeknotes, a blog by Daniel Souza - Edition Valencia
 date: 2024-08-03T10:11:11.743Z
 tags:
   - valencia
   - secretflavours
   - servicedesign
 ---
-A lot happened since the last post last year! I now live in Valencia, I have a new job working in healthcare (again) and doing my best to find balance and joy in life.  
+A lot happened since the last post last year! I now live in Valencia, I have a new job working in healthcare (again) and doing my best to find balance and joy in life.   
 
 ## Top 3 links
 
@@ -25,22 +25,21 @@ This article it's an interesting introduction to the topic. It's focused on Mark
 
 ### Hola Valencia!
 
-It's my first month living in Valencia next Monday. Moving out of London after eight years was not an easy decision. Besides the [Kafkaesque experience of obtaining my working visa](https://www.youtube.com/watch?v=myh_GWyliXU), I miss a few friends I made in London, but I feel confident about this decision.   
+It's my first month living in Valencia next Monday. Moving out of London after eight years was not an easy decision. I really miss my frieds there, and the design community was huge and so kind. But the job search in this weird market resulted in an offer that required this move, so here we are in Valencia. 
+Besides the [Kafkaesque experience of obtaining my working visa](https://www.youtube.com/watch?v=myh_GWyliXU) but I feel confident about this decision.   
 Living near the beach was always something I dreamed of. I am not dipping in the Mediterranean Sea with the frequency I want. But just riding my bike to Malvarrosa whenever I want makes me smile. 
-Another quality-of-life improvement is having friends who care for you within walking distance. We are so lucky to have Lady Cabanyal and Don Bumface (not using their real names to protect their privacy) to hang out frequently. Their help navigating the Spanish bureaucracy and learning about the local culture made all the difference. 
+Another quality-of-life improvement is having old friends who care for you now living within walking distance. We are so lucky to have Lady Cabanyal and Don Bumface (not using their real names to protect their privacy) to hang out frequently. Their help navigating the Spanish bureaucracy and learning about the local culture made all the difference. 
 Learning Spanish, a language I never cared about before, has been good. It has many similarities with old Brazilian Portuguese, which is poetic and rich. Spanish people are also more compatible with my personality than the British. Something about their warmth and receptiveness makes things easier for me. 
 
 ### Making the healthcare experience human
 
-I will soon complete six months of work at Docplanner. Their mission and values inspire me, and it is a joy to work in a scale-up again. It’s a world of possibilities, and the pace, for now, is ideal for me. 
+I will soon complete six months of work at Docplanner. Their mission and values inspire me, and it is a joy to work in a scale-up again. It’s a world of possibilities, and the pace is ideal for me. 
 
-I was asked to lead a strategic initiative as soon as I joined. I worked so hard — like I hadn’t for long. Since it was a greenfield opportunity, with little internal knowledge about the people we were designing for, I led the research strategy and conducted all interviews.
- 
-Using Indi Young’s Listening Sessions method again was so helpful. I met a group of inspiring women in Brazil and learned so much about what/how/why healthcare still sucks for many. 
+I was asked to lead a strategic initiative as soon as I joined. I worked so hard — like I hadn’t for long. Since it was a greenfield opportunity, with little internal knowledge about the people we were designing for, I had to lead the research strategy and conducted all interviews.Using Indi Young’s Listening Sessions method again was so helpful. I met a group of inspiring women in Brazil and learned so much about what/how/why healthcare still sucks for many. 
 
-After finishing that work, I could focus more on my team, which was very timely. My small but mighty design team is lovely and spread over 3 countries: Poland, Spain and Germany.
+After finishing that work, I could refocus more on my team, which was very timely and needed. My small but mighty design team is lovely - and spread over 3 countries: Poland, Spain and Germany.
 
-I am lucky to say I already have people I can call friends at work. A good start, indeed. 
+I am lucky to say I think I have already people I can call friends at work. A good start, indeed. 
 
 
 ## Learned things
@@ -48,11 +47,11 @@ I am lucky to say I already have people I can call friends at work. A good start
 
 This year, I am trying to balance resting, healing and creating good stuff. One of the most important lessons I have learned recently is that my spicy brain will never be fulfilled creatively working in a product team. I don’t have hobbies, so I enjoy doing great stuff in my free time.  
 
-So, while this is a year of trying to be my best at work, I am committed to try new things in my spare time that warm my heart. 
+While this is a year of trying to be my best at work, I am also committed to try new things in my spare time that warm my heart. 
 
-I recently finished my fourth cohort teaching service design online, which was rewarding. The fifth one happens in December, and there are a few spots available.  I am also creating another learning experience on voice interfaces this summer for a Portuguese design school. 
+I recently finished my fourth cohort teaching service design online, which was rewarding. The fifth one happens in December, and there are a few spots available. I am also creating another learning experience on voice interfaces this summer for a Portuguese design school. 
 
-But the creative endeavour I am more excited about now is Secret Flavours. I am an assistant photographer, marketer, salesperson, UX intern, and Commis.    
+But the creative endeavour I am more excited about now is [Secret Flavours](https://www.secretflavours.com). I am an assistant photographer, marketer, salesperson, UX intern, and Commis. This week we had our two first prototype testing dinners. The menu, inspired by Bahia, was deliciously crowned by a Moqueca Baiana (A fish stew with brazilian ingredients, shrimp. Some say it's similar to a light curry).      
 
 Leili is the owner and head chef. She is also the love of my life, my muse, and everything for me. Her culinary talent and creativity are a gift to the world that needs to be shared.    
     
@@ -62,13 +61,13 @@ Leili is the owner and head chef. She is also the love of my life, my muse, and 
 
 ![Bia Souza, Olympic Gold Medal - Paris 2024](/images/biasouza.jpeg)
 
-Bia Souza smashed Brazil’s first gold medal this week. It was her first time competing in the Olympic games. While that might seem insignificant to many, it struck a chord with me, and I cried joyfully.
-
-She is a perfect example of Brazilian grit and resilience. 
+Bia Souza smashed Brazil’s first gold medal this week. It was her first time competing in the Olympic games. While that might seem insignificant to many, it struck a chord with me, and I cried joyfully. When I was a kid, I trained judo for 6 months, and I loved. 
 
 Bia’s father, Poseidonio, is a former judo athlete. Inspired by him, Bia has practised judo since she was seven years old. When she was a kid, she was uncomfortable with her body, and Judo helped her to build confidence. 
 
-She won many medals before. In the Tokyo games, Maria Suelen Altheman, now her coach, beat her, so she was not selected for the games. And now she got there and rocked our world.   
+She won many medals before but not in the Olympic Games. In Tokyo, Maria Suelen Altheman, now her coach, beat her, and she was not selected for the games. And now she got there and rocked our world.
+
+Bia is the perfect example of Brazilian grit and resilience. 
 
 Like 80% of the Brazilian athletes in Paris, Bia is supported by a government grant created by President Lula in 2004. 
 
