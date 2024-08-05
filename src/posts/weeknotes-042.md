@@ -25,9 +25,9 @@ Learning Spanish, a language that I never had any curiosity before, has been goo
 
 This week I am completing six months working at Docplanner. The mission and values inspired me to join. It has been a joy to work in a scale-up again.   
 
-I was asked to lead a strategic initiative as soon as I joined. I worked so hard — like I hadn’t for long. Since it was a greenfield opportunity, with little internal knowledge about the people we were designing for, I had to lead the research strategy and conducted all interviews.Using Indi Young’s Listening Sessions method again was so helpful. I listened to a group of inspiring women in Brazil and learned so much about what/how/why healthcare still not even good for many. We sprinted. We tested. We argued. I feel people are excited about the learnings and the challenges and I am quite optimistic.  
+I was assigned to lead a strategic initiative as soon as I joined. I worked so hard — like I hadn’t for long. Since it was a greenfield opportunity, with little internal knowledge about the people we were designing for, I was responsible for the research strategy and conducted all interviews. Using Indi Young’s Listening Sessions method again was so helpful. I listened to a group of inspiring women in Brazil and learned so much about what/how/why healthcare still not even good for many. We sprinted. We tested. We argued. I feel people are excited about the learnings and the challenges. I am quite optimistic.  
 
-More recently, I have been refocusing my time on my small but mighty design team. They are spread over 3 countries: Poland, Spain and Germany. All of them are lovely, talent and unique.    
+More recently, I have been refocusing my time on my small but mighty design team. They are spread over 3 countries: Poland, Spain and Germany. All of them are lovely, talented and unique.    
 
 I am lucky to say I think I have already people I can call friends at work. A good start. 
 
@@ -35,13 +35,13 @@ I am lucky to say I think I have already people I can call friends at work. A go
 ## Learned things
 ### Doing great work matters
 
-This year, I am trying to balance resting, healing and creating good stuff. One of the most important lessons I have learned recently is that my spicy brain is never creatively satisfied working in a product team. Doing great stuff in my free time feels like a hobby. I am committed to try new things in my spare time that warm my heart.  
+This year, I am trying to balance resting, healing and creating good stuff. One of the most important lessons I have learned recently is that my spicy brain is never satisfied working in product teams. Doing great stuff in my free time feels like a hobby. I am committed to try new things in my spare time that warm my heart.  
 
-I recently finished my fourth cohort teaching service design online, which was rewarding. The fifth one happens in December, and there are a few spots available. I am also creating another learning experience on voice interfaces this summer for a Portuguese design school. 
+The first time I thought about this I started teaching professionally. I recently finished my fourth cohort teaching service design online, which was rewarding. The fifth one happens in December, and there are a few spots available. I am also have been invited to create a learning experience on voice interfaces this summer. It's a Portuguese design school - an opportunity to practive my portuguese.  
 
-But the creative endeavour I am more excited about now is [Secret Flavours](https://www.secretflavours.com). I am an assistant photographer, marketer, salesperson, UX intern, and Commis. This week we had our two sessions where people tested our menu. Inspired by Bahia, the three course menu was crowned by a Moqueca Baiana (A fish stew with brazilian ingredients, shrimp. Some say it's similar to a light curry). Reviews are positive, but there is some work to do.      
+But the creative endeavour I am more excited about now is [Secret Flavours](https://www.secretflavours.com). I am an assistant photographer, marketer, salesperson, UX intern, and Commis. This week we had our two sessions where people tested our menu. Inspired by Bahia, the three course menu was crowned by a Moqueca Baiana (fish stew with brazilian ingredients, shrimp. Some say it's similar to a light curry). Reviews are positive, but there is some work to do in how to market the experience.      
 
-Leili is the owner and head chef. She is also the love of my life, my muse, and everything for me. Her culinary talent and creativity are a gift to the world that needs to be shared.    
+Leili is the owner and head chef. She is also the love of my life, my muse, and everything for me. Her creativity and culinary talent and creativity are a gift to the world that needs to be shared.    
     
 ## Things that bring me joy
 
