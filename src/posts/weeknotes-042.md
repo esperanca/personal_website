@@ -39,9 +39,9 @@ I think I have already people I can call friends at work. A good start.
 ## Learned things
 ### Doing great work matters
 
-This year, I am trying to balance resting, healing and creating good stuff. One of the most recent lessons for me is that my brain is never satisfied. Doing great stuff in my free time feels awesome. Creative work warms my heart. Writing, teaching, consulting, mentoring, hacking.    
+This year, I am trying to balance resting, healing and creating good stuff. Doing great stuff in my free time feels awesome. Creative work warms my heart. Writing, teaching, consulting, mentoring, hacking.    
 
-The first time I thought about this I started to teach professionally.  I recently finished my fourth cohort teaching service design online, which was rewarding. I am teaching the same course in November, and there are a few spots available and the full information in the [Experience Haus](https://experiencehaus.com/course/service-design-online-course/) website. I am also have been invited to create a voice interface training this summer. I have done something similar before in portuguese, with the mentorship of my friend Ben Sauer.    
+The first time I thought about this I started to teach professionally. I joined the Experience Haus team to teach Service Design. I recently finished my fourth cohort teaching online, which was rewarding. I am teaching the same course in November, and there are a few spots available and the full information in the [Experience Haus](https://experiencehaus.com/course/service-design-online-course/) website. I am also have been invited to create a voice interface training this summer. I have done something similar before in portuguese, with the mentorship of my friend Ben Sauer.    
 
 But the creative endeavour I am more excited about now is [Secret Flavours](https://www.secretflavours.com). I am an assistant photographer, marketer, salesperson, UX intern, and Commis. This week we had two sessions where people tested our menu. Inspired by Bahia, the three course menu was crowned by a Moqueca Baiana (fish stew with brazilian ingredients, shrimp. Some say it's similar to a light curry). Reviews are positive, but there is some work to do. Marketing and selling experiences is not an easy task.       
 
