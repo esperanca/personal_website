@@ -9,7 +9,7 @@ tags:
   - servicedesign
   - psychologicalsafety
 ---
-A lot happened since my last post in November 23. 8 job interviews. British citizen ceremony. Found a job in Spain. Applied for a work visa. Found a new flat and moved to Valencia. It was intense and not always easy. Now everything is settled. I am doing my best to find balance and enjoy life. 
+A lot happened since my last post in November 23. I am now a British citizen, with the ceremony and all the shebang. Found a job in Spain. Applied for a work visa. Found a new flat and moved to Valencia. It was intense. Now everything is settled. I am doing my best to find balance and enjoy life and work. 
 New city, new job and a new language to learn.           
 
 > "Wherever you go, go with all your heart”
@@ -25,15 +25,15 @@ Living near the beach was always something I dreamed of. I am not dipping in the
 Another quality-of-life improvement is having friends who care for you living within walking distance. We are so lucky to have Lady Cabanyal and Don Bumface (not using their real names to protect their privacy) to hang out frequently. Their help navigating the Spanish bureaucracy and learning about the local culture made all the difference. 
 Learning Spanish, a language that I never had any curiosity before, has been good. It has many similarities with old Brazilian Portuguese. It is poetic, rich and sometimes fun. I am impressed with the locals, they are usually warm and receptive. Even when I torture them with my portuñol.  
 
-### Making the healthcare experience human
+### Working in healthcare again
 
-This week I am completing six months working at Docplanner. The mission and values inspired me to join. It has been a joy to work in a scale-up again.   
+This week I am completing six months working at Docplanner. It has been a joy to work in a scale-up again.   
 
-I was assigned to lead a strategic initiative as soon as I joined. I worked so hard — like I hadn’t for long. Since it was a greenfield opportunity, with little internal knowledge about the people we were designing for, I was responsible for the research strategy and conducted all interviews. Using Indi Young’s Listening Sessions method was so helpful. I listened to a group of inspiring women in Brazil and learned so much about what/how/why healthcare is still so hard for so many. We sprinted. We tested. We argued. I feel people are excited about the learnings and the challenges. I am quite optimistic.  
+I was assigned to lead a strategic initiative as soon as I joined. I worked so hard — like I hadn’t for long. Since it was a greenfield opportunity, with little internal knowledge about the people we were designing for, I was responsible for the research strategy and conducted all interviews and user testing. Using Indi Young’s Listening Sessions method was so helpful. I listened to a group of inspiring women in Brazil and learned so much about what/how/why healthcare is still so hard for so many. We sprinted. We tested. We argued. I feel people are excited about the learnings and the challenges. I am quite optimistic.  
 
 More recently, I have been focusing my time on my small but mighty design team. They are spread over 3 countries: Poland, Spain and Germany. All of them are lovely, talented and unique.    
 
-I am lucky to say I think I have already people I can call friends at work. A good start. 
+I think I have already people I can call friends at work. A good start. 
 
 
 ## Learned things
