@@ -1,17 +1,12 @@
 <section class="newsletter">
   <div class="wrapper newsletter__wrapper">
-    <h2 class="newsletter__heading">The best of my fuzzy brain</h2>
-    <p class="newsletter__body">A monthly newsletter with a fine selection of experience design articles, book reviews, great music and design jokes</p>
+    <h2 class="newsletter__heading">fuzzy brain</h2>
+    <p class="newsletter__body">A fine selection of experience design articles, great music and random links. Join my 12 subscribers.</p>
 
-    <form class="newsletter__form" name="newsletter" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/thank-you">
+    <form class="newsletter__form" name="newsletter" method="POST" data-netlify="true" action="/thank-you">
 
       <label for="email" class="newsletter__label">Your email:</label>
       <input id="email" type="email" name="email" class="newsletter__input" required/>
-      <p class="hidden">
-      <label>
-        Don’t fill this out if you’re human: <input name="bot-field" />
-      </label>
-      </p>
                
       <button type="submit" class="newsletter__button">Subscribe</button>
     </form>
