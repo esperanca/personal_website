@@ -10,7 +10,7 @@ tags:
   - amateurs
 
 ---
-Enjoying a bit of a break and the incredbily hot weather in Spain.           
+Enjoying a bit of a break and the hot weather in Spain.           
 
 > "The ability to publish anything, anytime, anywhere, to anyone, is a world-historic shift.” 
  – Clay Shirky
