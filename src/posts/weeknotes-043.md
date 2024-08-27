@@ -28,13 +28,13 @@ It was recorded live on Twitter, with incredible hacks to capture Skype calls, b
 
 Many episodes are missed now; it has been over 10 years. But I recovered a quote from a conversation Juca had with Andrew Keen. Andrew was publishing his book The Cult of the Amateur at the time. The book critiques the impact of user-generated content in the society. You can hear the entire [episode](https://www.podomatic.com/podcasts/talkshow/episodes/2009-06-03T10_09_50-07_00) (skip the first 5 minutes if you don;t understand portuguese) but I wanna share a quote about the web and business models
 
-> "Clay Shirky and I are friends, and it's interesting because many people think we disagree on most things. We agree on most things. He's right. And he's coming closer to my position.
+> "Clay Shirky and I are friends, and it's interesting because many people think we disagree on most things. We agree     on most things. He's right. And he's coming closer to my position.
 
-Because the assumption was three or four or five years ago that the old media would die and be replaced painlessly by new media, this massive seismic shift from newspapers to bloggers, from the movie business or the television business to YouTubers.
+  Because the assumption was three or four or five years ago that the old media would die and be replaced painlessly by   new media, this massive seismic shift from newspapers to bloggers, from the movie business or the television business   to YouTubers.
 
-And that hasn't happened. In my book, I argued that the old was dying, but nothing new was replacing it.
+  And that hasn't happened. In my book, I argued that the old was dying, but nothing new was replacing it.
 
-And that's even truer today. Old media is in crisis. Still, no viable business models exist to build new media companies."  
+  And that's even truer today. Old media is in crisis. Still, no viable business models exist to build new media          companies."  
 
 It's interesting to see how this conversations aged. We have now have other risks and benefits that we could not imagine in 2009. I can't wait to call Juca again and discuss this topic. 
 
