@@ -28,20 +28,13 @@ It was recorded live on Twitter, with incredible hacks to capture Skype calls, b
 
 Many episodes are missed now; it has been over 10 years. But I recovered a quote from a conversation Juca had with Andrew Keen. Andrew was publishing his book The Cult of the Amateur at the time. The book critiques the impact of user-generated content in the society. You can hear the entire [episode](https://www.podomatic.com/podcasts/talkshow/episodes/2009-06-03T10_09_50-07_00) (skip the first 5 minutes if you don;t understand portuguese) but I wanna share a quote about the web and business models
 
-> "Clay Shirky and I are friends, and it's interesting because many people think we disagree on most things. We agree     on most things. He's right. And he's coming closer to my position.
-
-  Because the assumption was three or four or five years ago that the old media would die and be replaced painlessly by   new media, this massive seismic shift from newspapers to bloggers, from the movie business or the television business   to YouTubers.
-
-  And that hasn't happened. In my book, I argued that the old was dying, but nothing new was replacing it.
-
-  And that's even truer today. Old media is in crisis. Still, no viable business models exist to build new media          companies."  
+> "Clay Shirky and I are friends, and it's interesting because many people think we disagree on most things. We agree     on most things. He's right. And he's coming closer to my position. Because the assumption was three or four or five years ago that the old media would die and be replaced painlessly by   new media, this massive seismic shift from newspapers to bloggers, from the movie business or the television business to YouTubers. And that hasn't happened. In my book, I argued that the old was dying, but nothing new was replacing it. And that's even truer today. Old media is in crisis. Still, no viable business models exist to build new media companies."  
 
 It's interesting to see how this conversations aged. We have now have other risks and benefits that we could not imagine in 2009. I can't wait to call Juca again and discuss this topic. 
 
-But I thought about writing this post because it was a sweet memory. How fun and intellectually stimulating it was to record the episodes, beat the technical challenges, and learn stuff that was new and completely out of my daily routine. 
+Writing this post made me think about that time. It's a sweet memory. How fun and intellectually stimulating it was to record the episodes, beat the technical challenges, and learn stuff that was new and completely out of my daily routine. And I was doing that as part of my role!
 
-Creating content is not a viable business for me, and that is okay. I see that as an opportunity to be generous with the web citizens and create serendipity that can't be (yet) provided by machine learning algorithms. And writing makes me happy, even without an audience. 
-
+Creating content is not a viable business for many, and that is okay. I see writing and publishing as an opportunity to be generous with the web citizens. And a way to create serendipity that can't be (yet) provided by machine learning algorithms. Writing makes me happy, even without an audience. 
 
 ## Learned things
 ### Maslow and the Blackfoot 
@@ -56,7 +49,7 @@ I am always impressed with the wisdom of the First Nations. The key lesson in th
 ### Swimming
 I never thought I would appreciate swimming that much, but here we are. When I was a kid, we lived in a small community of 12 families. We had a small pool. I don't recall using it much. But with 40 degrees in Valencia, it's becoming a good habit. Sometimes I am feeeling adventurous and I go to Malvarrosa. Be in the water, my friend.  
 
-### Webdesigning
+### Web Designing
 Working for Leili has been a joy. This week we redesigned her [website](https://www.secretflavours.com). I was surprised with how wordpress works today. After using markdown and eleventy, is quite hard to get used to blocks and all those bells and whistles. But it's live, we moved out of Squarespace. And now we are ready for the next stage: evolving the content and the marketing strategy.    
 
 ## Top 3 links
@@ -74,8 +67,5 @@ Professor Rolf Faste explored the same question I have: the difference between n
 
 > "A clearly defined need also attracts talent and provides motivation for employees. Thus needs are not just a sales issue, but significantly affect the entire health of the organization. Just as they do for students, good
 problems generate energy: they attract the best people and the best efforts of the entire organization" 
-
-
-
 
 
