@@ -17,8 +17,8 @@ Enjoying a bit of a break and the hot weather in Spain.
 
 ## Good things
 ### Podcasting
-I had a random call with an old friend recently. Juliano Spyer (Juca) is a great conversationalist, writer and anthropologist. I had the opportunity to hang out with him in São Paulo and London several times. He is such a fantastic person to talk to. He is always so much fun and full of exciting stories. 
-One of the things I have learned with Juca is how to share your thinking on the web. I learned about podcasting before it was a thing.
+I had a random call with an old friend recently. Juliano Spyer (Juca) is a great conversationalist, writer and anthropologist. I had the opportunity to hang out with him in São Paulo and London several times. He is such a fantastic person to talk to and full of exciting stories. 
+One of the things I have learned with Juca is how to share your thinking on the web. 
 
 Most people will be surprised, but I used to be shy and nervous speaking to audiences. That changed after working with Juca and other talented people in a digital consultancy called Talk2. 
 
