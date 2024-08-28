@@ -34,7 +34,7 @@ It's interesting to see how this conversations aged. We have now have other risk
 
 Writing this post made me think about that time. It's a sweet memory. How fun and intellectually stimulating it was to record the episodes, beat the technical challenges, and learn stuff that was new and completely out of my daily routine. And I was doing that as part of my role!
 
-Creating content is not a viable business for many, and that is okay. I see writing and publishing as an opportunity to be generous with the web citizens. And a way to create serendipity that can't be (yet) provided by machine learning algorithms. Writing makes me happy, even without an audience. 
+Creating content is not a viable business for many, and that is okay. I see writing and publishing as an opportunity to be generous with the web citizens. And a way to create serendipity that can't be (yet) provided by machine learning algorithms. 
 
 ## Learned things
 ### Maslow and the Blackfoot 
