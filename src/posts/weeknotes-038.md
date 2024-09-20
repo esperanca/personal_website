@@ -102,7 +102,6 @@ I am now more open to getting out and meeting people in real life. Some friends 
 
 ![Picture from the Office](/images/office_visit.jpg "Cool office at Old Street ")
 
-![]()
 
 ### Holidays at Pepys Street
 
