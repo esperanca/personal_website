@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Weeknotes #38"
+title: "Weeknotes #038"
 metaTitle: Weeknotes, by  Daniel Souza
 metaDesc: "In this edition of my weeknotes, I share a bit about starting a new
   job, feedback for designers and psychological safety "
@@ -76,17 +76,17 @@ A group of brave designers joined me in a Miro board to discuss and practice fee
 
 Absorbing tons of information to make sense of things is part of my praxis. Perhaps it is because of years of experience as an Information Architect. I was often surprised in the final stage of the project with a pack of new content or a new department.
 
-But there is a considerable mental cost in collecting complex information. Listening to different perspectives for long periods can be draining. I felt overwhelmed at the end of my first week—a sign that I need to be more mindful about my pace and slow down.
+However, collecting complex information can have a considerable mental cost. Listening to different perspectives for long periods can be draining. I felt overwhelmed at the end of my first week, a sign that I needed to be more mindful about my pace and slow down.
 
 ### The first 90 days
 
-Justin Stach recommended the book The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter before joining. It's a classic that helps people to accelerate their learning in their first months at work.
+Before joining, Justin Stach recommended the book The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter. It's a classic that helps people to accelerate their learning in their first months at work.
 
-There are many obvious things in the book, but I am surprised by how many times I forgot about the basics. An important reminder in the book is to be mindful of your learning strategies. The [risk assessment tool](https://smpsva.starchapter.com/images/The_First_90_Days.pdf) is beneficial.
+The book contains many obvious things, but I was surprised by how many times I forgot about the basics. An important reminder in the book is to be mindful of your learning strategies. The [risk assessment tool](https://smpsva.starchapter.com/images/The_First_90_Days.pdf) is beneficial.
 
 ### Perception and Psychological safety
 
-[Alla Weinberg interview](https://theinformed.life/2021/05/23/episode-62-alla-weinberg/) with Jorge Arango at The Informed Life was quite revealing for me. She talks about work culture and explained many new concepts. Neuroception, for instance, is the subconscious system for detecting threats. I knew how our brain triggers fight and flight reactions. But I never thought cognitive costs of feeling unsafe. A bit of Alla's talk in the podcast:
+[Alla Weinberg interview](https://theinformed.life/2021/05/23/episode-62-alla-weinberg/) with Jorge Arango at The Informed Life was quite revealing for me. She talked about work culture and explained many new concepts. Neuroception, for instance, is the subconscious system for detecting threats. I knew how our brain triggers fight and flight reactions. But I never thought of the cognitive costs of feeling unsafe. A bit of Alla's talk in the podcast:
 
 > "I found in research that our operating IQ — so our ability to think, to analyze, to be creative, to form, you know, rational thoughts — drops by half. So, if my normal operating IQ is, let's say, at a hundred points, when I don't feel safe in an environment, it drops to 50. And this is, again, a very human biological thing because our body and our brain will take resources away from our frontal cortex, which is where we think, and it will redistribute it to other parts to keep us alive, to keep us safe."
 
@@ -94,29 +94,29 @@ There are many obvious things in the book, but I am surprised by how many times 
 
 ### New office, pub visits and beating social anxiety
 
-If we worked together, you know that I am an advocate of asynchronous and distributed teams. But that doesn't mean that I reject access to a suitable office space sometimes. And when you have railroad maintenance and a construction site near your flat, it's good to know that you have a space to go. I spent the day in the office, and it was not bad. The office is beautiful, the commute is only 25 minutes, and it was good to meet some of my new colleagues.
+If we worked together, you know I advocate for asynchronous and distributed teams. But that doesn't mean I sometimes reject access to suitable office space. When railroad maintenance and a construction site are near your flat, it's good to know that you have a space to go. I spent the day in the office, and it was not bad. The office is beautiful, the commute is only 25 minutes, and meeting some of my new colleagues was good.
 
-Later on that week I had the opportunity to meet 3/4 of my team for a beer. Such a great time. We talked about many things: food, language, annoying football fans. It felt like creating a good memory.
+Later that week, I had the opportunity to meet 3/4 of my team for a beer—such a great time. We talked about many things: food, language, annoying football fans. It felt like creating a good memory.
 
-I am now more open to getting out and meeting people in real life. Some friends are still not ready, which I understand completely. But I've met Rahel Bailie, Gabi Stripoli, Emily Sappington, Mariana Menezes and Daniel Burka recently. Social distancing and some awkward moments could not diminish the pleasure of catching up with friends.
+I am now more open to getting out and meeting people in real life. Some friends are still not ready, which I understand completely. But I've recently met Rahel Bailie, Gabi Stripoli, Emily Sappington, Mariana Menezes and Daniel Burka. Social distancing and some awkward moments could not diminish the pleasure of catching up with friends.
 
 ![Picture from the Office](/images/office_visit.jpg "Cool office at Old Street ")
 
 
 ### Holidays at Pepys Street
 
-Before starting to work again, I had some incredible days with Leili at home. We decided not to travel, and in hindsight, it was a great decision. We are trying new things together (like swimming), and it was good to have some time to rethink our routine. She is working on her book, and I am trying to help her. A few weeks ago, she prepared some Palestinian food for a new client, and the photo was so beautiful.
+Before starting to work again, I had some incredible days with Leili at home. We decided not to travel; in hindsight, it was a great decision. We are trying new things together (like swimming), and it was good to have time to rethink our routine. She is working on her book, and I am trying to help her. A few weeks ago, she prepared some Palestinian food for a new client, and the photo was so beautiful.
 
-Leili is my safe harbour and my lighthouse. You get to known someone with depth when life isn't easy. This shitty year has been transformative for our relationship. A lesson learned recently is creating space and time for solitude. Sharing the same physical space for long periods isn't easy.
+Leili is my safe harbour and my lighthouse. You get to know someone with depth when life isn't easy. This shitty year has been transformative for our relationship. A lesson learned recently is creating space and time for solitude. Sharing the same physical space for long periods is challenging.
 
 ## Healthcheck
 
-I am investing a lot more time and effort in my health. I can say I am now 90% recovered from the COVID nightmares. Since March, I am managing my diabetes better. The NHS system helps but isn't enough. Next month I am testing a new service that promises diabetes reversal in 60% of the cases. A big challenge for me as it is all about dietary changes and behaviour change. I am using continuous monitoring for three months now, and it's been revealing.
+I am investing a lot more time and effort in my health. I can say I am now 90% recovered from the COVID-19 nightmares. Since March, I have been managing my diabetes better. The NHS system helps but isn't enough. Next month, I am testing a new service that promises diabetes reversal in 60% of the cases. This is a big challenge for me as it is all about dietary changes and behaviour change. I have been using continuous monitoring for three months now, and it's been revealing.
 
 **Weight:** 98kg
 **Blood pressure:** 14/8
 **Food:** A good balance of delivery and homemade food.
-**Drinks:** a few pints due to meeting friends - recently rediscovered low alcohol beers.
-**Smoking**: I am trying to stop, but not ready yet.
+**Drinks:** A few pints due to meeting friends - recently rediscovered low-alcohol beers.
+**Smoking**: I am trying to stop, but I am not ready yet.
 
 > "We only understand something relative to something we already understand." Richard Saul Wurman
