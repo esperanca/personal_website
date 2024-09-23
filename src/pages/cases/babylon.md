@@ -5,6 +5,7 @@ permalink: /about/cases/babylon.html
 ---
 
 ## Context
+![Latest iteration of DNA](/images/dna-babylon.png "A Latest iteration of DNA")
 
 Babylon Health was a digital health provider that leveraged AI and telemedicine to deliver healthcare services via an app. Founded in London, it expanded globally, serving over 24 million people across 16 countries at its peak. Despite going public in 2021 at a $4.2 billion valuation, Babylon filed for bankruptcy in September 2023 due to high operational costs. Its software is now utilized by EMed Healthcare, a US-based telehealth company.
 
@@ -15,15 +16,19 @@ In 2019, I was hired by Jane Austin, VP Product Design, to lead Design Operation
 1. Drive the strategy and adoption of their design system
 2. Enable innovation and collaboration across product teams and design disciplines
 
-My role in this initiative was to act as Product Manager and Design Director. I hired the team, integrated with the design practice and was responsible to drive the adoption of the DNA Design System in all areas. 
+I hired and developed the team, designed the strategy, integrated the work in the design practice and was responsible to drive the adoption of the DNA Design System in all products. 
+
+
 ### Vision and value proposition of the design system
 
-For Babylon's design and product leadership, the design system represented a strategic asset to accelerate value delivery to patients. In my second week of work, I presented the strategy and a pitch to the CEO:
+For Babylon's design and product leadership, the design system represented a strategic asset to accelerate value delivery to patients. In my second week of work, I presented the pitch to the CEO:
 
 > "By adopting unified component libraries, we can reduce the time from idea to code by 20%."
 
 This value proposition aligned with the company focus on operational efficiency and rapid market responsiveness. But we knew that measuring the results would be a challenge, due to decentralised nature of product and tech teams.
 Our initiative challenge was to integrate new ways of working in the established product development cycle, connecting design, engineers and product managers. 
+
+
 ## Approach
 
 1. Pilot adoption across all consumer-facing apps and websites
@@ -46,20 +51,22 @@ Our initiative challenge was to integrate new ways of working in the established
 
 **Reviews and contribution** - In order to drive contribution to components in weekly BAU work, we redesigned the product and design reviews, including engineers in the contribution process.
 
+![Reviews approach](/images/dna-reviewa.png "Driving adoption through feedback loops")
+
 **Code Refactoring** -  To improve usability and accessibility issues, we refactored existing components and adopted design tokens for consistency across different platforms. 
 
 **Documentation** - While Zero-Height was helpful for documentation, we developed a custom documentation website with PWA, SSR, and CI/CD integration. This helped us to test our components in production environments.  
 
-**Scalability** - To support diverse product needs (internal products, clinician systems) and partner requirements (we had the NHS, Bupa and Mount Sinai using our solutions) we implemented theming capabilities to enable reuse. 
+**Scalability** - To support internal products, clinician systems and partner requirements (NHS, Bupa and Mount Sinai used Babylon solutions) we implemented theming capabilities to enable reuse. 
 
 ## Results and Impact
 
 - Achieved the targeted 20% reduction in lead time from idea to code in 6 months
-- Improved product quality and consistency across the platform
+- Improved product quality and consistency across the platform, as well as WCAG 2.0 compliance
 - Played a crucial role in Babylon's rapid COVID-19 response capabilities 
 
 > The Babylon DNA design system was instrumental in allowing us to put our new COVID flows in production quickly and easily, to experiment and iterate — focusing on nailing the content only, while relying on a robust design library. It’s also allowed us to prototype concepts really fast, for the next phase of COVID Care Assistant.”
-   Catarina Afonso, Design Manager
+   *Catarina Afonso, Design Manager* 
 
 ## Lessons Learned
 
@@ -72,10 +79,7 @@ Our initiative challenge was to integrate new ways of working in the established
 > I hired Daniel to help me scale and operationalise the design and research teams at Babylon, and to build an amazing culture - all of which he achieved with great success.
   He took our nascent design system and turned it into a power house, putting all the structures and processes in place and using it to finish the rebrand we had been struggling to complete as we didn't have the structure in place, not only this but he programme managed the whole process.
   He put tools and structures in place to help us gel us a team and deliver at speed and at scale.
-  He also really 'gets' strategy, due to his work with Lloyds and elsewhere, and we had many insightful conversations where he helped reframe problems and come up with smart solutions.
-  On top of this is he a lovely warm presence to have around.
-  In other words, he's the full package and if you are lucky enough to persuade him to come and work with you, grab him with both hands.
-  Jane Austin, VP Design 
+  *Jane Austin, VP Design*  
 
 
 ### Team 
