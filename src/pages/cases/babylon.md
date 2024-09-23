@@ -51,7 +51,7 @@ Our initiative challenge was to integrate new ways of working in the established
 
 **Reviews and contribution** - In order to drive contribution to components in weekly BAU work, we redesigned the product and design reviews, including engineers in the contribution process.
 
-![Reviews approach](/images/dna-reviewa.png "Driving adoption through feedback loops")
+![Reviews approach](/images/reviews-babylon.png "Driving adoption through feedback loops")
 
 **Code Refactoring** -  To improve usability and accessibility issues, we refactored existing components and adopted design tokens for consistency across different platforms. 
 
