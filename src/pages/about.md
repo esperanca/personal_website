@@ -13,9 +13,9 @@ Recently, I've led product and service design teams at companies such as Publici
 
 My experience covers various industries: financial services, consulting, healthcare, media, e-commerce, and telecommunications.
 
-I help teams creating clarity, building supportive structures, and fostering safe spaces for innovation. My core skills are design direction, information architecture and design research.
+I enhance team productivity by cultivating an environment that promotes experimentation and innovation. My expertise spans design direction, information architecture, and comprehensive design research, focusing on creating psychological safety and robust support systems.
 
-Design executives and leaders often hire me when they need to scale their design and research teams. Or when they require an experienced hands-on design leader to drive high-stakes projects. 
+Design executives and leaders often hire me when they need to scale their design and research teams or when they need an experienced, hands-on design lead to drive high-stakes projects. 
 
 
 ## Currently
