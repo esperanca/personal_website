@@ -5,17 +5,19 @@ permalink: /about/index.html
 socialImage: "/images/daniel_souza_photo.jpg"
 ---
 ![A photograph of Daniel Souza](/images/daniel_souza_photo.jpg "A photograph of Daniel Souza ")
-*Enjoying my home office in Tower Hill - London, 2022 - Photo by Leiliane Valadares*
+*In my home office in Tower Hill, London, circa 2021*
 
-I've been designing digital products since 1998. This involves creating new processes, services, and experiences and rethinking how organizations work.
+Design executives and leaders often hire me when they need to scale their design and research teams. Or when they need an experienced, hands-on design lead to drive high-stakes projects. 
 
-Recently, I've led product and service design teams at companies such as Publicis Sapient, Babylon Health, Farfetch, British Telecom, and Doctoralia. 
+For over two decades, I've been designing digital products. This involves creating new services, experiences, and processes - rethinking how organizations work.
 
-My experience covers various industries: financial services, consulting, healthcare, media, e-commerce, and telecommunications.
+I've led product and service design teams in tech teams at Babylon Health, Farfetch, British Telecom and Doctoralia. I have also worked in consultancies like Publicis Sapient, Isobar and Wunderman.
 
-I enhance team productivity by cultivating an environment that promotes experimentation and innovation. My expertise spans design direction, information architecture, and comprehensive design research, focusing on creating psychological safety and robust support systems.
+My experience covers a range of industries, from financial services, consulting, healthcare, media, e-commerce, to telecommunications.
 
-Design executives and leaders often hire me when they need to scale their design and research teams or when they need an experienced, hands-on design lead to drive high-stakes projects. 
+One of my core strengths is enhancing team productivity by cultivating an environment that promotes experimentation and innovation. I focus on creating psychological safety and robust support systems.
+
+My expertise spans design direction, information architecture, and design research. 
 
 
 ## Currently
@@ -23,7 +25,13 @@ Leading the teams creating the digital experiences for millions of patients at D
 
 ## Key Achievements
 
-### Strategy and Operations for Babylon DNA - A design system 
+### Babylon DNA 
+Reducing the time from idea to code by 20%, through a community-based approach to design systems
 
+### Farfetch
+Using AI and human relationships to design luxury digital services and increase loyalty and retention 
+ 
+### Banco do Brasil 
+Adding 2 million monthly visits in 12 months by rethinking how to serve customers online  
 
 
