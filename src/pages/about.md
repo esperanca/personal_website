@@ -5,7 +5,6 @@ permalink: /about/index.html
 socialImage: "/images/daniel_souza_photo.jpg"
 ---
 ![A photograph of Daniel Souza](/images/daniel_souza_photo.jpg "A photograph of Daniel Souza ")
-*This picture was taken in Tower Hill, London*
 
 Design executives and leaders often hire me when they need to scale their design and research teams. Or when they need an experienced, hands-on design lead to drive high-stakes projects. 
 
@@ -21,7 +20,7 @@ My expertise spans design direction, information architecture, and design resear
 
 
 ### Currently
-Leading the design teams supporting millions of patients at Docplanner 
+Leading the patient design team at Docplanner 
 
 ### Highlights: 
 
