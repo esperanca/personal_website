@@ -20,10 +20,10 @@ One of my core strengths is enhancing team productivity by cultivating an enviro
 My expertise spans design direction, information architecture, and design research. 
 
 
-## Currently
+### Currently
 Leading the design teams supporting millions of patients at Docplanner 
 
-## Key products: 
+### Highlights: 
 
 **Babylon Health - DNA Design System** \
 [Reducing the time from idea to code by 20%, through a novel collaborative approach to design systems](https://danielsouza.org/about/cases/babylon.html)
