@@ -5,7 +5,7 @@ permalink: /about/index.html
 socialImage: "/images/daniel_souza_photo.jpg"
 ---
 ![A photograph of Daniel Souza](/images/daniel_souza_photo.jpg "A photograph of Daniel Souza ")
-*A photograph of Daniel Souza at his home in London*
+*Enjoying my home office in Tower Hill - London, 2022 - Photo by Leiliane Valadares*
 
 Since 1998, I have been designing processes, services, digital experiences and organisations. 
 Recently, I led product and service design teams at:  
