@@ -5,7 +5,7 @@ permalink: /about/index.html
 socialImage: "/images/daniel_souza_photo.jpg"
 ---
 ![A photograph of Daniel Souza](/images/daniel_souza_photo.jpg "A photograph of Daniel Souza ")
-*In my home office in Tower Hill, London, circa 2021*
+*A day in the home office, Tower Hill, London, 2021*
 
 Design executives and leaders often hire me when they need to scale their design and research teams. Or when they need an experienced, hands-on design lead to drive high-stakes projects. 
 
@@ -21,17 +21,14 @@ My expertise spans design direction, information architecture, and design resear
 
 
 ## Currently
-Leading the teams creating the digital experiences for millions of patients at Docplanner 
+Leading the design teams supporting millions of patients at Docplanner 
 
-## Key Achievements
+## Key products: 
 
-### Babylon DNA 
-Reducing the time from idea to code by 20%, through a community-based approach to design systems
+**Babylon Health - DNA Design System** 
+Reducing the time from idea to code by 20%, through a novel collaborative approach to design systems
 
-### Farfetch
-Using AI and human relationships to design luxury digital services and increase loyalty and retention 
- 
-### Banco do Brasil 
+**Banco do Brasil** 
 Adding 2 million monthly visits in 12 months by rethinking how to serve customers online  
 
 
