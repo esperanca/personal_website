@@ -5,7 +5,7 @@ permalink: /about/index.html
 socialImage: "/images/daniel_souza_photo.jpg"
 ---
 ![A photograph of Daniel Souza](/images/daniel_souza_photo.jpg "A photograph of Daniel Souza ")
-*A day in the home office, Tower Hill, London, 2021*
+*This picture was taken in Tower Hill, London*
 
 Design executives and leaders often hire me when they need to scale their design and research teams. Or when they need an experienced, hands-on design lead to drive high-stakes projects. 
 
