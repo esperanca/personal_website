@@ -20,18 +20,18 @@ In 2019, Jane Austin, VP Product Design, hired me to setup the Design Operations
 1. Drive the strategy and adoption of their design system
 2. Enable innovation and collaboration across design disciplines and product teams 
 
-I hired and developed the Design System team, designed the strategy and pitched for funding, integrated the work within the design practice and was responsible to drive the adoption of Design System in all products. 
+I built and led the Design System team, developed the strategy, secured funding, and integrated it into the product development process, driving its adoption across all products. 
 
-### Vision and value proposition of the design system
+### Selling the value of the design system
 
 For Babylon's design and product leadership, the design system represented a strategic asset to accelerate value delivery to patients. 
 After auditing the current system and working with tech and brand outlining a strategy, I presented the pitch to the CEO:
 
 > "By adopting unified component libraries, we can reduce the time from idea to code by 20%."
 
-This value proposition aligned with the company focus on operational efficiency and rapid market responsiveness. Due to decentralised nature of product and tech teams.
-our biggest challenge was to integrate new ways of working in the established product development cycle.  
+This was in alignment with the company focus on operational efficiency, rapid market responsiveness and desire to provide a fully accessible digital experience.
 
+Due to decentralised nature of product and tech teams at the time, our biggest challenge was to integrate new ways of working in the established product development cycle.  
 
 ## Approach
 
@@ -43,11 +43,11 @@ our biggest challenge was to integrate new ways of working in the established pr
 
 1. Engineering and Product Management support to ensure proper resource allocation 
 2. Continuous updates to component libraries aligned with the development of new features
-3. Buy-in from Product Directors and Product Managers at roadmap level
+3. Buy-in from Product Directors and Product Managers at roadmap level, and shared OKR's. 
 
 ## Milestones 
 
-**Brand Audit** - Aligning existing brand language with accessibility standards was the first step. I partnered with brand and marketing teams to assess and evolve the brand guidelines and how they were applied in Digital properties
+**Brand Audit** - Aligning existing brand language with accessibility standards was the first step. I partnered with brand and marketing teams to assess and evolve the brand guidelines and how they were applied in digital properties
 
 **Stack Simplification** - There was a complex workflow across multiple design tools (Sketch/Zeplin/Abstract), multiple UI and code libraries. We started consolidating all UI kits and we migrated to Figma for streamlined collaboration
 
