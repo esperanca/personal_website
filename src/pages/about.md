@@ -7,11 +7,12 @@ socialImage: "/images/daniel_souza_photo.jpg"
 ![A photograph of Daniel Souza](/images/daniel_souza_photo.jpg "A photograph of Daniel Souza ")
 *Enjoying my home office in Tower Hill - London, 2022 - Photo by Leiliane Valadares*
 
-Since 1998, I have designed digital products, which means inventing processes, services, experiences and organisations. 
-Recently, I led product and service design teams at Publicis Sapient, Babylon Health, Farfetch, British Telecom and Doctoralia. 
+I've been designing digital products since 1998. This involves creating new processes, services, and experiences and rethinking how organizations work.
 
-My experience spans financial services, consulting, healthcare, media, e-commerce and telecommunications.
+Recently, I've led product and service design teams at companies such as Publicis Sapient, Babylon Health, Farfetch, British Telecom, and Doctoralia. 
 
-I am a collaboration specialist. I help teams creating clarity, supporting structures and safe spaces. 
+My experience covers various industries: financial services, consulting, healthcare, media, e-commerce, and telecommunications.
 
-Executives and design leaders hire me when they need to scale design and research teams or when they need someone to lead high-stakes projects as lead designer or strategist.   
+I help teams creating clarity, building supportive structures, and fostering safe spaces for innovation. My core skills are design direction, information architecture and design research.
+
+Design executives and leaders often hire me when they need to scale their design and research teams or when they require an experienced hand to lead high-stakes projects as a lead designer or strategist. 
