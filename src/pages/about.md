@@ -15,4 +15,15 @@ My experience covers various industries: financial services, consulting, healthc
 
 I help teams creating clarity, building supportive structures, and fostering safe spaces for innovation. My core skills are design direction, information architecture and design research.
 
-Design executives and leaders often hire me when they need to scale their design and research teams or when they require an experienced hand to lead high-stakes projects as a lead designer or strategist. 
+Design executives and leaders often hire me when they need to scale their design and research teams. Or when they require an experienced hands-on design leader to drive high-stakes projects. 
+
+
+## Currently
+Leading the teams creating the digital experiences for millions of patients at Docplanner 
+
+## Key Achievements
+
+### Strategy and Operations for Babylon DNA - A design system 
+
+
+
