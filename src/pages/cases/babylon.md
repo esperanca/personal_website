@@ -56,8 +56,9 @@ our biggest challenge was to integrate new ways of working in the established pr
 **Reviews and contribution** - In order to drive contribution to components in weekly BAU work, we redesigned the product and design reviews, including engineers in the contribution process.
 
 ![Reviews approach](/images/reviews-babylon.png "Driving adoption through feedback loops")
+More about how teams contributed to DNA in [this post](https://amyhupe.co.uk/articles/enabling-contribution-in-the-early-stages-of-the-babylon-design-system/) by Amy Hupe
 
-**Code Refactoring** -  To improve usability and accessibility issues, we refactored existing components and adopted design tokens for consistency across different platforms. 
+**Code Refactoring** -  To improve usability and accessibility issues, we refactored existing components and adopted design tokens.  
 
 **Documentation** - While Zeroheight was helpful for our initial documentation, we developed a custom documentation website with PWA, SSR, and CI/CD integration. This helped us to test our components in production environments.  
 
@@ -72,7 +73,7 @@ our biggest challenge was to integrate new ways of working in the established pr
 ## Lessons Learned
 
 1. Integrating user research into the design system development process enhanced the adoption  - this was particularly important with engineers.   
-2. Community building is essential for widespread acceptance and utilisation of the design system. And for that, you have to create quality documentation and content. 
+2. Community building is essential for widespread acceptance and utilisation of the design system. And for that, quality documentation and content is pivotal. 
 3. Close collaboration with product management and engineering teams during planning activities ensures the design system remains aligned with business objectives and technical feasibility over time 
 
 ## Recognition
