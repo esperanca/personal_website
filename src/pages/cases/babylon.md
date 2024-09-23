@@ -77,8 +77,7 @@ Our initiative challenge was to integrate new ways of working in the established
 ## Recognition
 
 > I hired Daniel to help me scale and operationalise the design and research teams at Babylon, and to build an amazing culture - all of which he achieved with great success.
-  He took our nascent design system and turned it into a power house, putting all the structures and processes in place and using it to finish the rebrand we had been struggling to complete as we didn't have the structure in place, not only this but he programme managed the whole process.
-  He put tools and structures in place to help us gel us a team and deliver at speed and at scale.
+  He took our nascent design system and turned it into a power house, putting all the structures and processes in place and using it to finish the rebrand we had been struggling to complete. And he programme managed the whole process. He put tools and structures in place to help us as a team to deliver at speed and at scale.
   *Jane Austin, VP Design*  
 
 
