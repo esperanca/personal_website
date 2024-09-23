@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Babylon Health - DNA Design System
+title: DNA Design System
 permalink: /about/cases/babylon.html
 socialImage: "/images/dna-babylon.png"
 ---
