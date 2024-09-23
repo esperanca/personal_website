@@ -25,10 +25,10 @@ Leading the design teams supporting millions of patients at Docplanner
 
 ## Key products: 
 
-**Babylon Health - DNA Design System** 
+**Babylon Health - DNA Design System** \
 [Reducing the time from idea to code by 20%, through a novel collaborative approach to design systems](https://danielsouza.org/about/cases/babylon.html)
 
-**Banco do Brasil** 
+**Banco do Brasil** \
 Adding 2 million monthly visits in 12 months by rethinking how to serve customers online  
 
 
