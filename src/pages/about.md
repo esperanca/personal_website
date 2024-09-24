@@ -27,7 +27,25 @@ Leading the patient design team at Docplanner
 **Babylon Health - DNA Design System** \
 [Reducing the time from idea to code by 20%, through a novel collaborative approach to design systems](https://danielsouza.org/about/cases/babylon.html)
 
+
+**Lloyds Banking Group - Commercial Servicing** \ 
+Enabling business to securely share their accounts and reducing task time from 18 days to 5 hours
+
 **Banco do Brasil** \
 Adding 2 million monthly visits in 12 months by rethinking how to serve customers online  
+
+### Speaking and interviews
+
+#### 2023
+Design Operations London \
+Panel: How to Introduce and Position DesignOps in your Organisation to Maximise the Impact
+
+#### 2021 
+Remote Design Week \
+Workshop: Unblocking Asynchronous Creativity
+
+
+
+
 
 
