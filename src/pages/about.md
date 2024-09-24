@@ -37,6 +37,12 @@ Adding 2 million monthly visits in 12 months by rethinking how to serve customer
 ### Speaking and interviews
 
 #### 2023
+
+Innovation Week - Brasília, BR \
+Panel: Inclusive Design  \
+Workshop: Designing with Voice (with Janaína Pereira)   
+
+
 Design Operations London \
 Panel: How to Introduce and Position DesignOps in your Organisation to Maximise the Impact
 
@@ -44,6 +50,9 @@ Panel: How to Introduce and Position DesignOps in your Organisation to Maximise 
 Remote Design Week \
 Workshop: Unblocking Asynchronous Creativity
 
+#### 2020 
+DesignOps Assembly, London \
+Talk: Going Fast and Slow 
 
 
 
