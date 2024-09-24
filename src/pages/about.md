@@ -28,7 +28,7 @@ Leading the patient design team at [Docplanner](https://www.crunchbase.com/organ
 [Reducing the time from idea to code by 20%, through design systems adoption](https://danielsouza.org/about/cases/babylon.html)
 
 
-**Lloyds Banking Group - Commercial Servicing**  \ 
+**Lloyds Banking Group - Commercial Servicing**   
 Enabling business to securely share their accounts and reducing task time from 18 days to 5 hours
 
 **Banco do Brasil** \
