@@ -20,12 +20,12 @@ My expertise spans design direction, information architecture, and design resear
 
 
 ### Currently
-Leading the patient design team at Docplanner 
+Leading the patient design team at [Docplanner](https://www.crunchbase.com/organization/docplanner) 
 
 ### Highlights: 
 
 **Babylon Health - DNA Design System** \
-[Reducing the time from idea to code by 20%, through a novel collaborative approach to design systems](https://danielsouza.org/about/cases/babylon.html)
+[Reducing the time from idea to code by 20%, through design systems adoption](https://danielsouza.org/about/cases/babylon.html)
 
 
 **Lloyds Banking Group - Commercial Servicing** \ 
