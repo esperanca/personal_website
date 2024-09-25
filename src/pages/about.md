@@ -6,17 +6,17 @@ socialImage: "/images/daniel_souza_photo.jpg"
 ---
 ![A photograph of Daniel Souza](/images/daniel_souza_photo.jpg "A photograph of Daniel Souza ")
 
-Design executives and leaders often hire me when they need to scale their design and research teams. Or when they need an experienced, hands-on design lead to drive high-stakes projects. 
+Design executives and leaders often hire me when they need to scale their design and research teams. Or if they have high-stakes projects that need an experienced, hands-on design lead to deliver the impossible.  
 
-For over two decades, I've been designing digital products. This involves creating new services, experiences, and processes - rethinking how organizations work.
+I've been designing digital products for about two decades. This involves creating services, experiences, and processes - and rethinking how organizations work.
 
-I've led product, content and service design teams at Babylon Health, Farfetch and British Telecom. I have also worked in consultancies like Publicis Sapient, Isobar and Wunderman.
+I've led product, content and service design teams at Babylon Health, Farfetch and British Telecom. And worked in consultancies like Publicis Sapient, Isobar and Wunderman.
 
 My experience covers a range of industries, from financial services, healthcare, media, and e-commerce to telecommunications.
 
 One of my core strengths is enhancing team productivity by cultivating an environment that promotes experimentation and innovation. I focus on creating psychological safety and robust support systems.
 
-My expertise spans design direction, information architecture, and design research. 
+Design director, Information Architect, Design Reseacher, Strategist... The title is not relevant. I design experiences that make brands relevant.   
 
 
 ### Currently
