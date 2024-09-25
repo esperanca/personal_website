@@ -4,9 +4,9 @@ title: DNA Design System
 permalink: /about/cases/babylon.html
 socialImage: "/images/dna-babylon.png"
 ---
+![Latest iteration of DNA](/images/dna-babylon.png "A Latest iteration of DNA")
 
 ## Context
-![Latest iteration of DNA](/images/dna-babylon.png "A Latest iteration of DNA")
 
 Babylon Health was a digital health provider that leveraged AI and telemedicine to deliver healthcare services via an app.
 Founded in London, it expanded globally, serving over 24 million people across 16 countries.
@@ -15,7 +15,7 @@ After going public in 2021 at a $4.2 billion valuation, Babylon filed for bankru
 
 ## Challenge
 
-In 2019, Jane Austin, VP Product Design, hired me to setup the Design Operations team. When I joined, I was assigned two objectives:
+In 2019, Jane Austin, Director of Product and Design, hired me to setup the Design Operations team. When I joined, I was assigned two objectives:
 
 1. Drive the strategy and adoption of their design system
 2. Enable innovation and collaboration across design disciplines and product teams 
