@@ -8,16 +8,11 @@ socialImage: "/images/daniel_souza_photo.jpg"
 
 Design executives and leaders often hire me when they need to scale their design and research teams. Or if they have high-stakes projects that require an experienced, hands-on design lead to deliver the impossible.  
 
-I've been designing digital products for about two decades. This involves creating services, experiences, and processes - and rethinking how organizations work.
-
 I've led product, content and service design teams at Babylon Health, Farfetch and British Telecom. And also worked in consultancies like Publicis Sapient, Isobar and Wunderman.
 
 My experience covers a range of industries, from financial services, healthcare, media, and e-commerce to telecommunications.
 
-One of my core strengths is enhancing team productivity by cultivating an environment that promotes experimentation and innovation. I focus on creating psychological safety and robust support systems.
-
-Design director, Information Architect, Design Reseacher, Strategist... The title is not relevant. I design experiences that make brands relevant.   
-
+One of my core strengths is enhancing team productivity by cultivating an environment that promotes experimentation and innovation. I focus on creating psychological safety, scalable processes and robust support systems.
 
 ### Currently
 Leading the patient design team at [Docplanner](https://www.crunchbase.com/organization/docplanner) 
@@ -38,20 +33,19 @@ Adding 2 million monthly visits in 12 months by rethinking how to serve customer
 
 #### 2023
 
-Innovation Week - Brasília, BR \
+**Innovation Week** - Brasília, BR \
 Panel: Inclusive Design  \
 Workshop: Designing with Voice (with Janaína Pereira)   
 
-
-Design Operations London \
+**Design Operations London** - London, UK \
 Panel: How to Introduce and Position DesignOps in your Organisation to Maximise the Impact
 
 #### 2021 
-Remote Design Week \
+**Remote Design Week** \
 Workshop: Unblocking Asynchronous Creativity
 
 #### 2020 
-DesignOps Assembly, London \
+**DesignOps Assembly** - London, UK \
 Talk: Going Fast and Slow 
 
 
