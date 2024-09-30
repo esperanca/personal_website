@@ -40,6 +40,11 @@ Workshop: Designing with Voice (with Janaína Pereira)
 **Design Operations London** - London, UK \
 Panel: How to Introduce and Position DesignOps in your Organisation to Maximise the Impact
 
+#### 2022
+**Friends of Figma** - San Francisco, US \ 
+Talk: Visualizing Processes in DesignOps 
+[video](https://www.youtube.com/watch?v=0s_kaD_tphs)
+
 #### 2021 
 **Remote Design Week** \
 Workshop: Unblocking Asynchronous Creativity
