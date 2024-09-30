@@ -42,7 +42,7 @@ Panel: How to Introduce and Position DesignOps in your Organisation to Maximise 
 
 #### 2022
 **Friends of Figma** - San Francisco, US <br /> 
-Talk: Visualizing Processes in DesignOps 
+Talk: Visualizing Processes in DesignOps <br /> 
 [video](https://www.youtube.com/watch?v=0s_kaD_tphs)
 
 #### 2021 
