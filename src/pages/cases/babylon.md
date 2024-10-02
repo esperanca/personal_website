@@ -11,7 +11,7 @@ socialImage: "/images/dna-babylon.png"
 Babylon Health was a digital health provider that leveraged AI and telemedicine to deliver healthcare services via an app.
 Founded in London, it expanded globally, serving over 24 million people across 16 countries.
 
-After going public in 2021 at a $4.2 billion valuation, Babylon filed for bankruptcy in September 2023. The software is still used today by EMed Healthcare, a US-based telehealth company that acquired Babylon Health assets. 
+The software is still used today by EMed Healthcare, a US-based telehealth company that acquired Babylon Health assets. 
 
 ## Challenge
 
@@ -36,14 +36,14 @@ Due to decentralised nature of product and tech teams at the time, our biggest c
 ## Approach
 
 1. Pilot adoption across all consumer-facing apps and websites
-2. Position DesignOps as the product owner for the design system
+2. Position the Design System as a product and Design Operations as the product owner
 3. Build a cross-functional team to support development and adoption
 
 ### Critical Factors
 
-1. Engineering and Product Management support to ensure proper resource allocation 
+1. Engineering and Product Management support to ensure proper resource allocation in the daily work 
 2. Continuous updates to component libraries aligned with the development of new features
-3. Buy-in from Product Directors and Product Managers at roadmap level, and shared OKR's. 
+3. Buy-in from Product Leadership at roadmap level with one single shared OKR's. 
 
 ## Milestones 
 
@@ -56,11 +56,11 @@ Due to decentralised nature of product and tech teams at the time, our biggest c
 **Reviews and contribution** - In order to drive contribution to components in weekly BAU work, we redesigned the product and design reviews, including engineers in the contribution process.
 
 ![Reviews approach](/images/reviews-babylon.png "Driving adoption through feedback loops")
-More about how teams contributed to DNA in [this post](https://amyhupe.co.uk/articles/enabling-contribution-in-the-early-stages-of-the-babylon-design-system/) by Amy Hupe
+Amy Hupe, former Product Manager, shares how teams contributed to DNA in [this post](https://amyhupe.co.uk/articles/enabling-contribution-in-the-early-stages-of-the-babylon-design-system/)
 
-**Code Refactoring** -  To improve usability and accessibility issues, we refactored existing components and adopted design tokens.  
+**Code Refactoring** -  To improve usability and accessibility issues, we refactored existing components, adopted design tokens and new QA practices
 
-**Documentation** - While Zeroheight was helpful for our initial documentation, we developed a custom documentation website with PWA, SSR, and CI/CD integration. This helped us to test our components in production environments.  
+**Documentation** - While Zeroheight was helpful for our initial documentation, we developed a custom documentation website with PWA, SSR, and CI/CD integration. This helped us to test our components in production environments (breaking changes)  
 
 **Scalability** - To support internal products, clinician systems and partner requirements (NHS, Bupa and Mount Sinai) we implemented theming capabilities.  
 
@@ -70,6 +70,9 @@ More about how teams contributed to DNA in [this post](https://amyhupe.co.uk/art
 - Improved product quality, consistency and accessibility across the platform. 
 - Played a crucial role in Babylon's rapid COVID-19 response capabilities 
 
+> The Babylon DNA design system was instrumental in allowing us to put our new COVID flows in production quickly and easily, to experiment and iterate — focusing on nailing the content only, while relying on a robust design library. It’s also allowed us to prototype concepts really fast, for the next phase of COVID Care Assistant.”
+   *Catarina Afonso, Design Manager* 
+
 ## Lessons Learned
 
 1. Integrating user research into the design system development process enhanced the adoption  - this was particularly important with engineers.   
@@ -77,14 +80,13 @@ More about how teams contributed to DNA in [this post](https://amyhupe.co.uk/art
 3. Close collaboration with product management and engineering teams during planning activities ensures the design system remains aligned with business objectives and technical feasibility over time 
 
 ## Recognition
-> The Babylon DNA design system was instrumental in allowing us to put our new COVID flows in production quickly and easily, to experiment and iterate — focusing on nailing the content only, while relying on a robust design library. It’s also allowed us to prototype concepts really fast, for the next phase of COVID Care Assistant.”
-   *Catarina Afonso, Design Manager* 
 
 > I hired Daniel to help me scale and operationalise the design and research teams at Babylon, and to build an amazing culture - all of which he achieved with great success.
-  He took our nascent design system and turned it into a power house, putting all the structures and processes in place and using it to finish the rebrand we had been struggling to complete. And he programme managed the whole process. He put tools and structures in place to help us as a team to deliver at speed and at scale.
-  *Jane Austin, VP Design*  
+  He took our nascent design system and turned it into a power house, putting all the structures and processes in place and using it to finish the rebrand we had been struggling to complete. And he programme managed the whole process. He put tools and structures in place to help us as a team to deliver at speed and at scale. \ 
+  *Jane Austin, Product and Design Director*  
 
 ### Team 
-Elliot (Engineer), Jack Roles (Lead Designer), Tom (Design Manager), Lindsey (Content Designer), Fred Warburton (Accessibility Specialist), Amy Hupe (Product Manager), Filipe (Illustrator), Paulo (Product Designer). We also had support from Tetralogical (Accessibility) and Dex01 (Design) 
+Elliot (Engineer), Jack Roles (Lead Designer), Tom (Design Manager), Lindsey (Content Designer), Gisele (Brand) Fred Warburton (Accessibility Specialist), Amy Hupe (Product Manager), Filipe (Illustrator), Paulo (Product Designer). 
+We were lucky to have support from Tetralogical (Accessibility) and Dex01 (Design) 
 
 
