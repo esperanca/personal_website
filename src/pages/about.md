@@ -6,11 +6,11 @@ socialImage: "/images/daniel_souza_photo.jpg"
 ---
 ![A photograph of Daniel Souza](/images/daniel_souza_photo.jpg "A photograph of Daniel Souza ")
 
-Design executives and leaders often hire me when they need to scale their design and research teams. Or if they have high-stakes projects that require an experienced, hands-on design lead to deliver the impossible.  
+Design executives and leaders often hire me when they need to scale their design and research teams. Or when they have high-stakes projects that require an experienced, hands-on design lead with business acumen to deliver the impossible.  
 
 I've led product, content and service design teams at Babylon Health, Farfetch and British Telecom. And also worked in consultancies like Publicis Sapient, Isobar and Wunderman.
 
-My experience covers a range of industries, from financial services, healthcare, media, and e-commerce to telecommunications.
+My experience covers a range of industries: financial services, healthcare, media, and e-commerce to telecommunications.
 
 One of my core strengths is enhancing team productivity by cultivating an environment that promotes experimentation and innovation. I focus on creating psychological safety, scalable processes and robust support systems.
 
@@ -39,6 +39,10 @@ Workshop: Designing with Voice (with Janaína Pereira)
 
 **Design Operations London** - London, UK \
 Panel: How to Introduce and Position DesignOps in your Organisation to Maximise the Impact
+
+**BIMA Awards (British Interactive Media Association)** 
+Judge: Categories Health & Wellness, Craft and Innovation - Use of Data  
+[Link](https://bima.co.uk/meet-the-bima-awards-judges-2023/)
 
 #### 2022
 **Friends of Figma** - San Francisco, US <br /> 
