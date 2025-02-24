@@ -15,7 +15,7 @@ My experience covers a range of industries: financial services, healthcare, medi
 One of my core strengths is enhancing team productivity by cultivating an environment that promotes experimentation and innovation. I focus on creating psychological safety, scalable processes and robust support systems.
 
 ### Currently
-Leading the patient design team at [Docplanner](https://www.crunchbase.com/organization/docplanner) 
+Leading design teams at [Itaú Unibanco](https://www.itau.com.br) 
 
 ### Highlights: 
 
