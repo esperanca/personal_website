@@ -1,78 +1,75 @@
 ---
 layout: layouts/post.njk
-title: "Weeknotes #043"
-metaTitle: Memories - Spyer and Andrew Keen
+title: "Notas da Semana #043"
+metaTitle: Memórias - Spyer e Andrew Keen
 date: 2024-08-27T10:11:11.743Z
 tags:
-  - valencia
+  - valência
   - podcasting
-  - content
-  - amateurs
-  - secretflavours
+  - conteúdo
+  - amadores
+  - saboressecretos
 
 ---
-Enjoying a bit of a break and the hot weather in Spain.           
+Aproveitando uma pausa e o clima quente na Espanha.
 
-> "The ability to publish anything, anytime, anywhere, to anyone, is a world-historic shift.” 
+> "A capacidade de publicar qualquer coisa, a qualquer momento, em qualquer lugar, para qualquer pessoa, é uma mudança histórica mundial."
  – Clay Shirky
 
-## Good things
-### Andrew Keen was right
-I recently received a call from an old friend, Juliano Spyer (Juca), who is an excellent conversationalist, writer, and anthropologist. I’ve had the chance to hang out with him several times in São Paulo and London. He’s such a fantastic person to talk to, always full of exciting stories. One of the key lessons I’ve learned from Juca is how to effectively share your thoughts on the web.
+## Coisas boas
+### Andrew Keen estava certo
+Recentemente recebi uma ligação de um velho amigo, Juliano Spyer (Juca), que é um excelente conversador, escritor e antropólogo. Tive a chance de passar um tempo com ele várias vezes em São Paulo e Londres. Ele é uma pessoa fantástica para conversar, sempre cheio de histórias emocionantes. Uma das principais lições que aprendi com Juca é como compartilhar seus pensamentos de forma eficaz na web.
 
-Most people might be surprised to learn that I used to be shy and nervous when speaking in front of audiences. That changed after working with Juca and other talented people at Talk2. While we worked together, Juca led a project called Talk Show, a podcast where we interviewed “digital” personalities. It was recorded live on Twitter, using clever hacks to capture Skype calls, broadcast them, and handle questions—something easily done with apps today.
+A maioria das pessoas pode se surpreender ao saber que eu costumava ser tímido e nervoso ao falar em frente a audiências. Isso mudou depois de trabalhar com Juca e outras pessoas talentosas na Talk2. Enquanto trabalhávamos juntos, Juca liderou um projeto chamado Talk Show, um podcast onde entrevistávamos personalidades "digitais". Era gravado ao vivo no Twitter, usando hacks inteligentes para capturar chamadas do Skype, transmiti-las e lidar com perguntas—algo facilmente feito com aplicativos hoje em dia.
 
-Many of those episodes are lost now—it’s been over 15 years! But I managed to recover a quote from an episode where Juca interviewed Andrew Keen. 
+Muitos desses episódios estão perdidos agora—já se passaram mais de 15 anos! Mas consegui recuperar uma citação de um episódio onde Juca entrevistou Andrew Keen.
 
-At the time, Andrew was promoting his book The Cult of the Amateur, which critiques the impact of user-generated content on society. You can still listen to the [entire episode](https://www.podomatic.com/podcasts/talkshow/episodes/2009-06-03T10_09_50-07_00) (skip the first five minutes if you don’t understand Portuguese), but I want to share a specific quote about the web and business models:
+Na época, Andrew estava promovendo seu livro The Cult of the Amateur, que critica o impacto do conteúdo gerado por usuários na sociedade. Você ainda pode ouvir o [episódio completo](https://www.podomatic.com/podcasts/talkshow/episodes/2009-06-03T10_09_50-07_00) (pule os primeiros cinco minutos se você não entender português), mas quero compartilhar uma citação específica sobre a web e modelos de negócios:
 
-“Clay Shirky and I are friends, and it’s interesting because many people think we disagree on most things. We agree on most things. He’s right. And he’s coming closer to my position. Because the assumption three or four or five years ago was that old media would die and be painlessly replaced by new media—this massive seismic shift from newspapers to bloggers, from the movie or television business to YouTubers. And that hasn’t happened. In my book, I argued that the old was dying, but nothing new was replacing it. And that’s even truer today. Old media is in crisis. Still, no viable business models exist to build new media companies.”
+“Clay Shirky e eu somos amigos, e é interessante porque muitas pessoas acham que discordamos na maioria das coisas. Concordamos na maioria das coisas. Ele está certo. E ele está se aproximando da minha posição. Porque a suposição três ou quatro ou cinco anos atrás era que a mídia antiga morreria e seria substituída sem dor pela nova mídia—essa mudança sísmica massiva de jornais para blogueiros, do negócio de cinema ou televisão para YouTubers. E isso não aconteceu. No meu livro, argumentei que o antigo estava morrendo, mas nada novo estava substituindo. E isso é ainda mais verdadeiro hoje. A mídia antiga está em crise. Ainda assim, não existem modelos de negócios viáveis para construir novas empresas de mídia.”
 
-Clay Shirky’s point, which Andrew referenced, relates to the idea of value generated by communities. Shirky argues that:  
+O ponto de Clay Shirky, que Andrew referenciou, relaciona-se à ideia de valor gerado por comunidades. Shirky argumenta que:
 
-“the absence of a business model actually allowed the creation of a value that the presence of a business model prevented.”
+“a ausência de um modelo de negócios realmente permitiu a criação de um valor que a presença de um modelo de negócios impediu.”
 
-It’s fascinating to reflect on how this conversation has aged. We now face different risks and benefits, many of which we couldn’t have imagined back in 2009. I was always optimistic about the web, so I was leaning on Shirky's side. But now, in reflection, I can see that Keen was spot on. Erosion of quality, misinformation and the cultural devaluation -- all the things he was concerned in 2007 became incontestable aspects of using the web in 2024. 
+É fascinante refletir sobre como essa conversa envelheceu. Agora enfrentamos riscos e benefícios diferentes, muitos dos quais não poderíamos imaginar em 2009. Eu sempre fui otimista sobre a web, então estava inclinado ao lado de Shirky. Mas agora, em reflexão, posso ver que Keen estava certo. Erosão da qualidade, desinformação e a desvalorização cultural—todas as coisas com as quais ele estava preocupado em 2007 tornaram-se aspectos incontestáveis do uso da web em 2024.
 
-On top of that, the reckless use of our personal data for profit, and the complete inability of opting out of the algorithmic recommendations... It's hard to keep the optimism. But we keep swimming. 
+Além disso, o uso imprudente de nossos dados pessoais para lucro e a completa incapacidade de optar por não receber recomendações algorítmicas... É difícil manter o otimismo. Mas continuamos nadando.
 
-I still see writing and sharing great content as a way to be generous with the web community you serve. Over time, it creates value that isn’t necessarily tied to financial metrics. And I believe it's also a personal statement: we share, because we (still) can. And everyone should be nurturing their own web properties. It's a small part of this idea of Rewilding the Internet and core to the philosophy of the Indieweb. 
+Ainda vejo escrever e compartilhar conteúdo excelente como uma forma de ser generoso com a comunidade web que você serve. Com o tempo, isso cria valor que não está necessariamente ligado a métricas financeiras. E acredito que também é uma declaração pessoal: compartilhamos, porque (ainda) podemos. E todos deveriam estar cultivando suas próprias propriedades na web. É uma pequena parte dessa ideia de Rewilding the Internet e central para a filosofia do Indieweb.
 
-I do it because I believe in fostering serendipity and human connection. Because I still inspired by the cluetrain manifesto. Conversations are still essentially a human thing and that we can and should nurture. 
+Eu faço isso porque acredito em fomentar a serendipidade e a conexão humana. Porque ainda sou inspirado pelo manifesto cluetrain. Conversas ainda são essencialmente uma coisa humana e que podemos e devemos nutrir.
 
-Sometimes, it feels like sending a message in a bottle—unsure of where it will land or who it will reach. But when it does find its way, the connections that form are invaluable.  
+Às vezes, parece enviar uma mensagem em uma garrafa—incerto de onde ela vai parar ou quem ela vai alcançar. Mas quando ela encontra seu caminho, as conexões que se formam são inestimáveis.
 
+## Coisas que aprendi
+### Maslow e os Blackfoot
+Tenho pesquisado o tópico de "necessidades do usuário". Estou usando aspas irônicas aqui, pois acho o termo extremamente reducionista. Em minha pesquisa, estava lendo o famoso artigo "A Theory of Human Motivation" de Abraham Maslow. Maslow é bem conhecido por sua Hierarquia de Necessidades. Mas, de acordo com este artigo incrível, Maslow nunca pensou em sua [hierarquia](https://www.resilience.org/stories/2021-06-18/the-blackfoot-wisdom-that-inspired-maslows-hierarchy/) de necessidades como uma pirâmide. E que suas teorias provavelmente foram influenciadas pelo modo de vida dos Siksika Blackfoot.
 
-## Learned things
-### Maslow and the Blackfoot 
-I've been researching the topic of "user needs". I'm using ironic quotes here as I find the term extremely reductive. In my research, I was reading the famous "A Theory of Human Motivation" paper by Abraham Maslow. Maslow is well known for his Hierarchy of Needs. But according to this amazing article, Maslow himself never thought about his [hierarchy](https://www.resilience.org/stories/2021-06-18/the-blackfoot-wisdom-that-inspired-maslows-hierarchy/) of needs as a pyramid. And that his theories were probably influenced by the Siksika Blackfoot way of life.   
+> "De acordo com as palestras de Blood e Heavy Head (2007), Maslow, de 30 anos, chegou a Siksika junto com Lucien Hanks e Jane Richardson Hanks. Ele pretendia testar a universalidade de sua teoria de que hierarquias sociais são mantidas pelo domínio de algumas pessoas sobre outras. No entanto, ele não viu a busca por domínio na sociedade Blackfoot. Em vez disso, ele descobriu níveis surpreendentes de cooperação, desigualdade mínima, justiça restaurativa, barrigas cheias e altos níveis de satisfação com a vida."
 
-> "According to Blood and Heavy Head’s lectures (2007), 30-year-old Maslow arrived at Siksika along with Lucien Hanks and Jane Richardson Hanks. He intended to test the universality of his theory that social hierarchies are maintained by dominance of some people over others. However, he did not see the quest for dominance in Blackfoot society. Instead, he discovered astounding levels of cooperation, minimal inequality, restorative justice, full bellies, and high levels of life satisfaction." 
+Sempre fico impressionado com a sabedoria das Primeiras Nações. A principal lição do artigo é o aspecto comunitário de atender às necessidades. Mais sobre necessidades do usuário e esta pesquisa no final deste post.
 
-I am always impressed with the wisdom of the First Nations. The key lesson in the article is the communal aspect of fulfilling needs. More on user needs and this research in the end of this post. 
+## Coisas que me trazem alegria
+### Natação
+Nunca pensei que apreciaria tanto nadar, mas aqui estamos. Com 40 graus em Valência, está se tornando um bom hábito com efeitos positivos na minha saúde. Às vezes me sinto aventureiro e vou para Malvarrosa. Esteja na água, meu amigo.
 
-    
-## Things that bring me joy
-### Swimming
-I never thought I would appreciate swimming that much, but here we are. With 40 degrees in Valencia, it's becoming a good habit with positive effects on my health. Sometimes I am feeeling adventurous and I go to Malvarrosa. Be in the water, my friend.  
-
-### Web Designing
-Working with Leili on her food styling business has been a joy. This week we redesigned her [website](https://www.secretflavours.com). After using markdown and eleventy for years, it was quite hard to get used to Wordpress blocks and all those bells and whistles. But it's live, we moved out of Squarespace. And now we're ready for the next stage: evolving the content, localization. And the marketing strategy. Onward.     
+### Design de Web
+Trabalhar com Leili em seu negócio de estilismo de alimentos tem sido uma alegria. Esta semana redesenhamos seu [site](https://www.secretflavours.com). Depois de usar markdown e eleventy por anos, foi bastante difícil se acostumar com os blocos do Wordpress e todos aqueles sinos e apitos. Mas está no ar, saímos do Squarespace. E agora estamos prontos para a próxima etapa: evoluir o conteúdo, localização. E a estratégia de marketing. Em frente.
 
 ## Top 3 links
 
-[The neuroscience of trust](https://hbr.org/2017/01/the-neuroscience-of-trust)
-In “The Neuroscience of Trust,” Paul J. Zak breaks down how trust is the secret sauce for boosting employee engagement, productivity, and retention. He says companies that build trust see big wins—like 50% more productivity and 76% more engagement. Zak’s research highlights eight trust-building moves for managers. 
+[Neurociência da confiança](https://hbr.org/2017/01/the-neuroscience-of-trust)
+Em “The Neuroscience of Trust,” Paul J. Zak explica como a confiança é o ingrediente secreto para aumentar o engajamento, produtividade e retenção dos funcionários. Ele diz que empresas que constroem confiança veem grandes ganhos—como 50% mais produtividade e 76% mais engajamento. A pesquisa de Zak destaca oito movimentos para construir confiança para gerentes.
 
-[Abductive reasoning in research](https://atlasti.com/research-hub/abductive-reasoning)
-In product, we always discuss the topic of evidence-based decision making. But teams learn in different ways, and all thinking tools are welcome. This definition of abductive reasoning and how it compares to inductive and deductive reasoning is refreshing: 
+[Raciocínio abdutivo na pesquisa](https://atlasti.com/research-hub/abductive-reasoning)
+Em produto, sempre discutimos o tópico de tomada de decisão baseada em evidências. Mas as equipes aprendem de maneiras diferentes, e todas as ferramentas de pensamento são bem-vindas. Esta definição de raciocínio abdutivo e como ele se compara ao raciocínio indutivo e dedutivo é refrescante:
 
-> "Abductive reasoning is a logical process where one starts with an observation and then seeks the simplest and most likely candidate explanations. Unlike other forms of reasoning that start with a theory or observation that cannot be explained by any existing theory, abductive reasoning begins with an unexpected fact or occurrence and works backward-and-forward to find the most plausible theory." 
+> "O raciocínio abdutivo é um processo lógico onde se começa com uma observação e então busca-se as explicações mais simples e prováveis. Diferentemente de outras formas de raciocínio que começam com uma teoria ou observação que não pode ser explicada por nenhuma teoria existente, o raciocínio abdutivo começa com um fato ou ocorrência inesperada e trabalha para trás e para frente para encontrar a teoria mais plausível."
 
-[Perceiving Needs](https://fastefoundation.org/publications/perceiving_needs.pdf)
-Professor Rolf Faste explored the same question I have: the difference between needs and wants. The paper is from 1987! This quote about how the discovery of needs impact the health of the teams is epic:  
+[Percebendo Necessidades](https://fastefoundation.org/publications/perceiving_needs.pdf)
+O professor Rolf Faste explorou a mesma questão que eu: a diferença entre necessidades e desejos. O artigo é de 1987! Esta citação sobre como a descoberta de necessidades impacta a saúde das equipes é épica:
 
-> "A clearly defined need also attracts talent and provides motivation for employees. Thus needs are not just a sales issue, but significantly affect the entire health of the organization. Just as they do for students, good
-problems generate energy: they attract the best people and the best efforts of the entire organization" 
+> "Uma necessidade claramente definida também atrai talentos e fornece motivação para os funcionários. Assim, as necessidades não são apenas uma questão de vendas, mas afetam significativamente toda a saúde da organização. Assim como fazem para os alunos, bons problemas geram energia: eles atraem as melhores pessoas e os melhores esforços de toda a organização."
 
 
