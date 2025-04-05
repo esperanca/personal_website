@@ -1,92 +1,92 @@
 ---
 layout: layouts/page.njk
-title: Sistema de Design DNA
-permalink: /sobre/casos/babylon.html
+title: DNA Design System
+permalink: /about/cases/babylon.html
 socialImage: "/images/dna-babylon.png"
 ---
-![Última iteração do DNA](/images/dna-babylon.png "Última iteração do DNA")
+![Latest iteration of DNA](/images/dna-babylon.png "A Latest iteration of DNA")
 
-## Contexto
+## Context
 
-A Babylon Health era um provedor de saúde digital que utilizava IA e telemedicina para oferecer serviços de saúde por meio de um aplicativo.
-Fundada em Londres, expandiu-se globalmente, atendendo mais de 24 milhões de pessoas em 16 países.
+Babylon Health was a digital health provider that leveraged AI and telemedicine to deliver healthcare services via an app.
+Founded in London, it expanded globally, serving over 24 million people across 16 countries.
 
-O software ainda é usado hoje pela EMed Healthcare, uma empresa de telemedicina dos EUA que adquiriu os ativos da Babylon Health.
+The software is still used today by EMed Healthcare, a US-based telehealth company that acquired Babylon Health assets. 
 
-## Desafio
+## Challenge
 
-Em 2019, Jane Austin, Diretora de Produto e Design, me contratou para configurar a equipe de Operações de Design. Quando entrei, fui designado dois objetivos:
+In 2019, Jane Austin, Director of Product and Design, hired me to setup the Design Operations team. When I joined, I was assigned two objectives:
 
-1. Impulsionar a estratégia e adoção do sistema de design
-2. Permitir inovação e colaboração entre disciplinas de design e equipes de produto
+1. Drive the strategy and adoption of their design system
+2. Enable innovation and collaboration across design disciplines and product teams 
 
-Eu construí e liderei a equipe do Sistema de Design, desenvolvi a estratégia, garanti financiamento e integrei ao processo de desenvolvimento de produto, impulsionando sua adoção em todos os produtos.
+I built and led the Design System team, developed the strategy, secured funding, and integrated it into the product development process, driving its adoption across all products. 
 
-### Vendendo o valor do sistema de design
+### Selling the value of the design system
 
-Para a liderança de design e produto da Babylon, o sistema de design representava um ativo estratégico para acelerar a entrega de valor aos pacientes.
-Após auditar o sistema atual e trabalhar com tecnologia e marca delineando uma estratégia, apresentei o pitch ao CEO:
+For Babylon's design and product leadership, the design system represented a strategic asset to accelerate value delivery to patients. 
+After auditing the current system and working with tech and brand outlining a strategy, I presented the pitch to the CEO:
 
-> "Ao adotar bibliotecas de componentes unificadas, podemos reduzir o tempo de ideia para código em 20%."
+> "By adopting unified component libraries, we can reduce the time from idea to code by 20%."
 
-Isso estava alinhado com o foco da empresa em eficiência operacional, resposta rápida ao mercado e desejo de fornecer uma experiência digital totalmente acessível.
+This was in alignment with the company focus on operational efficiency, rapid market responsiveness and desire to provide a fully accessible digital experience.
 
-Devido à natureza descentralizada das equipes de produto e tecnologia na época, nosso maior desafio foi integrar novas formas de trabalho no ciclo de desenvolvimento de produto estabelecido.
+Due to decentralised nature of product and tech teams at the time, our biggest challenge was to integrate new ways of working in the established product development cycle.  
 
-## Abordagem
+## Approach
 
-1. Piloto de adoção em todos os aplicativos e sites voltados para o consumidor
-2. Posicionar o Sistema de Design como um produto e Operações de Design como o proprietário do produto
-3. Construir uma equipe multifuncional para apoiar o desenvolvimento e adoção
+1. Pilot adoption across all consumer-facing apps and websites
+2. Position the Design System as a product and Design Operations as the product owner
+3. Build a cross-functional team to support development and adoption
 
-### Fatores Críticos
+### Critical Factors
 
-1. Suporte de Engenharia e Gerenciamento de Produto para garantir alocação adequada de recursos no trabalho diário
-2. Atualizações contínuas nas bibliotecas de componentes alinhadas ao desenvolvimento de novos recursos
-3. Apoio da Liderança de Produto no nível de roadmap com um único OKR compartilhado.
+1. Engineering and Product Management support to ensure proper resource allocation in the daily work 
+2. Continuous updates to component libraries aligned with the development of new features
+3. Buy-in from Product Leadership at roadmap level with one single shared OKR's. 
 
-## Marcos
+## Milestones 
 
-**Auditoria de Marca** - Alinhar a linguagem de marca existente com os padrões de acessibilidade foi o primeiro passo. Fiz parceria com as equipes de marca e marketing para avaliar e evoluir as diretrizes de marca e como elas eram aplicadas nas propriedades digitais.
+**Brand Audit** - Aligning existing brand language with accessibility standards was the first step. I partnered with brand and marketing teams to assess and evolve the brand guidelines and how they were applied in digital properties
 
-**Simplificação de Stack** - Havia um fluxo de trabalho complexo entre várias ferramentas de design (Sketch/Zeplin/Abstract), várias bibliotecas de UI e código. Começamos a consolidar todos os kits de UI e migramos para o Figma para colaboração simplificada.
+**Stack Simplification** - There was a complex workflow across multiple design tools (Sketch/Zeplin/Abstract), multiple UI and code libraries. We started consolidating all UI kits and we migrated to Figma for streamlined collaboration
 
-**Evolução da Linguagem Visual** - Após a auditoria inicial, ainda faltava coesão. Investimos em uma fonte personalizada, diretrizes de ilustração, bibliotecas de ícones e redesenhamos componentes principais (formulários, cartões, botões, listas) em todos os pontos de contato.
+**Visual Language evolution** - After the initial audit, we were still lacking cohesion. We invested in a custom typeface, illustration guidelines, icon libraries, and redesigning core components (forms, cards, buttons, lists) across all touchpoints 
 
-**Revisões e contribuição** - Para impulsionar a contribuição para componentes no trabalho semanal, redesenhamos as revisões de produto e design, incluindo engenheiros no processo de contribuição.
+**Reviews and contribution** - In order to drive contribution to components in weekly BAU work, we redesigned the product and design reviews, including engineers in the contribution process.
 
-![Abordagem de revisões](/images/reviews-babylon.png "Impulsionando a adoção por meio de ciclos de feedback")
-Amy Hupe, ex-Gerente de Produto, compartilha como as equipes contribuíram para o DNA neste [post](https://amyhupe.co.uk/articles/enabling-contribution-in-the-early-stages-of-the-babylon-design-system/)
+![Reviews approach](/images/reviews-babylon.png "Driving adoption through feedback loops")
+Amy Hupe, former Product Manager, shares how teams contributed to DNA in [this post](https://amyhupe.co.uk/articles/enabling-contribution-in-the-early-stages-of-the-babylon-design-system/)
 
-**Refatoração de Código** - Para melhorar problemas de usabilidade e acessibilidade, refatoramos componentes existentes, adotamos tokens de design e novas práticas de QA.
+**Code Refactoring** -  To improve usability and accessibility issues, we refactored existing components, adopted design tokens and new QA practices
 
-**Documentação** - Embora o Zeroheight tenha sido útil para nossa documentação inicial, desenvolvemos um site de documentação personalizado com PWA, SSR e integração CI/CD. Isso nos ajudou a testar nossos componentes em ambientes de produção (mudanças disruptivas).
+**Documentation** - While Zeroheight was helpful for our initial documentation, we developed a custom documentation website with PWA, SSR, and CI/CD integration. This helped us to test our components in production environments (breaking changes)  
 
-**Escalabilidade** - Para apoiar produtos internos, sistemas de clínicos e requisitos de parceiros (NHS, Bupa e Mount Sinai), implementamos capacidades de temas.
+**Scalability** - To support internal products, clinician systems and partner requirements (NHS, Bupa and Mount Sinai) we implemented theming capabilities.  
 
-## Resultados e Impacto
+## Results and Impact
 
-- Alcançamos a redução de 20% no tempo de ideia para código em 6 meses
-- Melhoramos a qualidade, consistência e acessibilidade do produto em toda a plataforma.
-- Desempenhou um papel crucial nas capacidades de resposta rápida da Babylon à COVID-19
+- Achieved the targeted 20% reduction in lead time from idea to code in 6 months
+- Improved product quality, consistency and accessibility across the platform. 
+- Played a crucial role in Babylon's rapid COVID-19 response capabilities 
 
-> O sistema de design DNA da Babylon foi fundamental para nos permitir colocar nossos novos fluxos de COVID em produção rápida e facilmente, experimentar e iterar — focando apenas em acertar o conteúdo, enquanto confiávamos em uma biblioteca de design robusta. Também nos permitiu prototipar conceitos muito rapidamente, para a próxima fase do COVID Care Assistant.”
-   *Catarina Afonso, Gerente de Design*
+> The Babylon DNA design system was instrumental in allowing us to put our new COVID flows in production quickly and easily, to experiment and iterate — focusing on nailing the content only, while relying on a robust design library. It’s also allowed us to prototype concepts really fast, for the next phase of COVID Care Assistant.”
+   *Catarina Afonso, Design Manager* 
 
-## Lições Aprendidas
+## Lessons Learned
 
-1. Integrar pesquisa de usuários no processo de desenvolvimento do sistema de design aumentou a adoção - isso foi particularmente importante com engenheiros.
-2. Construir uma comunidade é essencial para aceitação e utilização generalizada do sistema de design. E para isso, documentação e conteúdo de qualidade são fundamentais.
-3. Colaboração próxima com equipes de gerenciamento de produto e engenharia durante atividades de planejamento garante que o sistema de design permaneça alinhado com os objetivos de negócios e viabilidade técnica ao longo do tempo.
+1. Integrating user research into the design system development process enhanced the adoption  - this was particularly important with engineers.   
+2. Community building is essential for widespread acceptance and utilisation of the design system. And for that, quality documentation and content is pivotal. 
+3. Close collaboration with product management and engineering teams during planning activities ensures the design system remains aligned with business objectives and technical feasibility over time 
 
-## Reconhecimento
+## Recognition
 
-> Eu contratei Daniel para me ajudar a escalar e operacionalizar as equipes de design e pesquisa na Babylon, e para construir uma cultura incrível - tudo o que ele conseguiu com grande sucesso.
-  Ele pegou nosso sistema de design nascente e o transformou em uma potência, colocando todas as estruturas e processos em prática e usando-o para finalizar o rebranding que estávamos lutando para completar. E ele gerenciou todo o processo. Ele colocou ferramentas e estruturas em prática para nos ajudar como equipe a entregar com velocidade e escala. \
-  *Jane Austin, Diretora de Produto e Design*
+> I hired Daniel to help me scale and operationalise the design and research teams at Babylon, and to build an amazing culture - all of which he achieved with great success.
+  He took our nascent design system and turned it into a power house, putting all the structures and processes in place and using it to finish the rebrand we had been struggling to complete. And he programme managed the whole process. He put tools and structures in place to help us as a team to deliver at speed and at scale. \ 
+  *Jane Austin, Product and Design Director*  
 
-### Equipe
-Elliot (Engenheiro), Jack Roles (Designer Líder), Tom (Gerente de Design), Lindsey (Designer de Conteúdo), Gisele (Marca), Fred Warburton (Especialista em Acessibilidade), Amy Hupe (Gerente de Produto), Filipe (Ilustrador), Paulo (Designer de Produto).
-Tivemos a sorte de contar com o apoio da Tetralogical (Acessibilidade) e Dex01 (Design).
+### Team 
+Elliot (Engineer), Jack Roles (Lead Designer), Tom (Design Manager), Lindsey (Content Designer), Gisele (Brand) Fred Warburton (Accessibility Specialist), Amy Hupe (Product Manager), Filipe (Illustrator), Paulo (Product Designer). 
+We were lucky to have support from Tetralogical (Accessibility) and Dex01 (Design) 
 
 

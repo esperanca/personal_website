@@ -33,19 +33,21 @@
           <span class="homepage__post-list-icon">
             {{ '/src/_includes/icons/zap-icon.svg' | svgContents | safe  }}
           </span>
-          Últimos Posts
+          <span>Updates</span>
         </h2>
-        <ul class="homepage__post-list">
-          {% for post in postListItems %}
-            <li>
-              <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-        {% if paginationNextUrl %}
-          <a href="{{ paginationNextUrl }}" class="button">{{ paginationNextText }}</a>
-        {% endif %}
       </div>
     </header>
+
+    <div class="homepage__post-list">
+      <div class="wrapper">
+        {% include "partials/components/post-list.njk" %}
+      </div>
+    </div>
+
+    <div class="wrapper homepage__pagination">
+      <a href="/archive" class="homepage__pagination-link">View All Updates</a>
+    </div>
+
+    {% include "partials/components/newsletter.njk" %}
   </main>
 {% endblock %}
