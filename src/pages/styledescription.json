@@ -1,0 +1,33 @@
+{
+  "title": "Storyboard Style Description",
+  "style": {
+    "colorPalette": {
+      "primaryColors": ["black", "white", "shades of gray"],
+      "accentColor": "orange",
+      "usage": "The orange accent is used sparingly to highlight key elements like the phone screen, text prompts, and important emotional or action cues."
+    },
+    "illustration": {
+      "type": "hand-drawn",
+      "lineStyle": "clean black outlines with varying thickness",
+      "shading": "minimal, mostly solid fills with occasional light hatching",
+      "characterDesign": "simplified and expressive, focusing on body language and facial expressions to convey emotions",
+      "backgrounds": "minimalist with sparse detail to keep focus on characters and action"
+    },
+    "typography": {
+      "style": "handwritten or handwritten-style font",
+      "placement": "speech bubbles and narrative boxes",
+      "legibility": "clear and easy to read, with variation in size to show importance or emotional weight"
+    },
+    "panelLayout": {
+      "structure": "traditional comic strip grid",
+      "flow": "left to right, top to bottom",
+      "spacing": "adequate white space between panels, ensuring readability and pacing",
+      "narration": "uses both dialogue and caption boxes to provide context and internal thoughts"
+    },
+    "moodAndTone": {
+      "overallTone": "empathetic and hopeful",
+      "visualMood": "warm and supportive despite depicting a serious topic (mental health and depression)",
+      "messageDelivery": "uplifting, showing the positive impact of support and technology on well-being"
+    }
+  }
+}

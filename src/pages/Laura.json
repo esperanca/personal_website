@@ -1,0 +1,49 @@
+{
+  "name": "Laura Monteiro",
+  "age": 48,
+  "nationality": "Brazilian",
+  "role": "Private Banker",
+  "company": "Banco Elos Privado",
+  "industry": "Private Banking",
+  "background": {
+    "education": "Economics at FGV, MBA in Finance at Insper",
+    "experienceYears": 25,
+    "notableWork": "Structured Lucas Benton's international portfolio and succession strategy",
+    "currentMission": "Providing tailored financial solutions for high-net-worth agribusiness clients"
+  },
+  "appearance": {
+    "facialFeatures": {
+      "faceShape": "Oval",
+      "hair": "Dark brown, shoulder-length, usually straightened",
+      "eyes": "Hazel, sharp and observant",
+      "smile": "Subtle and professional",
+      "complexion": "Medium with warm undertones"
+    }
+  },
+  "style": {
+    "attire": {
+      "usualLook": "Sophisticated and discreet",
+      "outfit": {
+        "blazer": "Fitted navy or charcoal blazer",
+        "shirt": "Silk blouse in neutral tones",
+        "bottom": "Tailored pencil skirt or slacks",
+        "shoes": "Classic black pumps",
+        "accessories": [
+          "Smartwatch with gold finish",
+          "Structured leather handbag",
+          "Minimalist gold earrings"
+        ]
+      }
+    }
+  },
+  "personalityTraits": [
+    "Trustworthy",
+    "Strategic communicator",
+    "Highly discreet",
+    "Empathetic but firm"
+  ],
+  "residence": {
+    "location": "São Paulo, capital",
+    "type": "High-rise apartment in Vila Nova Conceição"
+  }
+}

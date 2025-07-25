@@ -1,0 +1,48 @@
+{
+  "name": "Vanessa Lima",
+  "age": 36,
+  "nationality": "Brazilian",
+  "role": "Lead Designer",
+  "company": "Bento Agroindústria Sustentável",
+  "industry": "Agroindustry – Design & Branding",
+  "background": {
+    "education": "Design at UFSCAR, postgrad in Strategic Branding at IED São Paulo",
+    "experienceYears": 14,
+    "notableWork": "Rebranding of Bento’s identity, incorporating Cerrado biodiversity",
+    "currentMission": "Creating visual systems that reflect the harmony between nature and innovation"
+  },
+  "appearance": {
+    "facialFeatures": {
+      "faceShape": "Heart-shaped",
+      "hair": "Curly, dark blonde, shoulder-length",
+      "eyes": "Green with a playful glint",
+      "smile": "Broad and expressive",
+      "complexion": "Fair with freckles"
+    }
+  },
+  "style": {
+    "attire": {
+      "usualLook": "Creative-professional",
+      "outfit": {
+        "top": "Printed blouses or structured cotton tops",
+        "bottom": "High-waisted pants or midi skirts",
+        "shoes": "White sneakers or ankle boots",
+        "accessories": [
+          "Statement earrings",
+          "Sketchbook always on hand",
+          "Earth-toned backpack"
+        ]
+      }
+    }
+  },
+  "personalityTraits": [
+    "Inventive",
+    "Emotionally intelligent",
+    "Deeply connected to nature",
+    "Collaborative leader"
+  ],
+  "residence": {
+    "location": "Araraquara, São Paulo",
+    "type": "Loft-style apartment with plants in every corner"
+  }
+}

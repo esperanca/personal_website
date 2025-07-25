@@ -3,7 +3,7 @@ title: 'Thank you'
 permalink: '/thank-you/index.html'
 ---
 
-Obrigada!
+Obrigado!
 
 You are all set.
 

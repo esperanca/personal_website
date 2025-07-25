@@ -1,0 +1,49 @@
+{
+  "name": "Michael Rezende",
+  "age": 45,
+  "nationality": "Brazilian",
+  "role": "Wealth Planning Consultant",
+  "company": "Áurea – Life Planning & Legado",
+  "industry": "Wealth & Life Planning",
+  "background": {
+    "education": "Law degree at USP, specialization in Family Governance and Estate Law",
+    "experienceYears": 20,
+    "notableWork": "Co-authored national guidelines for legacy and philanthropy planning",
+    "currentMission": "Helping entrepreneurial families plan beyond wealth—focusing on values, education, and legacy"
+  },
+  "appearance": {
+    "facialFeatures": {
+      "faceShape": "Rectangular",
+      "hair": "Short, neatly combed, dark with early grays",
+      "beard": "Trimmed goatee",
+      "eyes": "Brown, inquisitive and reflective",
+      "complexion": "Light with olive undertones"
+    }
+  },
+  "style": {
+    "attire": {
+      "usualLook": "Elegant with a philosophical edge",
+      "outfit": {
+        "blazer": "Textured dark blazer with pocket square",
+        "shirt": "Soft gray or white linen shirt",
+        "bottom": "Dark trousers",
+        "shoes": "Brown loafers",
+        "accessories": [
+          "Leather folio case",
+          "Thin-frame glasses",
+          "Silver bracelet with inscription in Latin"
+        ]
+      }
+    }
+  },
+  "personalityTraits": [
+    "Thoughtful",
+    "Detail-oriented",
+    "Excellent listener",
+    "Passionate about intergenerational values"
+  ],
+  "residence": {
+    "location": "Campinas, São Paulo",
+    "type": "Modern house with native landscaping"
+  }
+}
